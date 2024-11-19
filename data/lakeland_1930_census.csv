@@ -1,0 +1,51 @@
+pk,dwelling number,family,street_name,last_name,first_name,relation_head,sex,race,marital,age,place_birth,work,business,owned_rented
+1,227,233,Baltimore Ave,Bowie,Isabell,Head,F,N,Wd,51,Maryland,Laundress,At Home,R
+2,227,233,Baltimore Ave,,Elizar,Daughter,F,N,S,29,Maryland,,,
+3,227,233,Baltimore Ave,,Minnie,Daughter,F,N,S,27,Maryland,Laundress,At Home,
+4,228,234,Baltimore Ave,Brooks,Earl,Head,M,N,M,43,Maryland,Truck Driver,Retail Ice and Coal,R
+5,228,234,Baltimore Ave,,Rose L,Wife,F,N,M,38,Virginia,Servant,General Housework,
+6,228,234,Baltimore Ave,,Randolph,Son,M,N,S,17,Maryland,Dish washer,Restaurant,
+7,228,234,Baltimore Ave,,Lilian,Daughter,F,N,S,12,Maryland,,,
+8,228,234,Baltimore Ave,,Henry W,Son,M,N,S,9,Maryland,,,
+9,228,234,Baltimore Ave,,Mary E,Daughter,F,N,S,7,Maryland,,,
+10,228,234,Baltimore Ave,,Robert M,Son,M,N,S,3,Maryland,,,
+11,228,234,Baltimore Ave,,Moses M,Son,M,N,S,3,Maryland,,,
+12,228,234,Baltimore Ave,,Earl B. Jr,Son,M,N,S,11/12,Maryland,,,
+13,229,235,Pierce Ave,Gross,George H,Head,M,N,M,62,Maryland,Trackman,Steam Railway,O
+14,229,235,Pierce Ave,,Rosa,Wife,F,N,M,53,Maryland,Laundress,University,
+15,229,235,Pierce Ave,,Cora F,Daughter,F,N,S,19,Maryland,Laundress,University,
+16,229,235,Pierce Ave,,Alfred L,Son,M,N,S,16,Maryland,Attendant,Bowling Alley,
+17,229,235,Pierce Ave,,Harriet,Daughter,F,N,S,14,Maryland,,,
+18,230,236,Michigan Ave,Brooks,Arthur,Head,M,N,M,41,Maryland,Janitor,University,O
+19,230,236,Michigan Ave,,Mary,Wife,F,N,M,38,Maryland,Children's Nurse,Private Family,
+20,231,237,Michigan Ave,Books,Preston S,Head,M,N,M,27,Maryland,Dishwasher,University,O
+21,231,237,Michigan Ave,,Alberta V,Wife,M,N,M,23,Maryland,,,
+22,231,237,Michigan Ave,Hughes,Anna B,Niece,F,N,S,9,Maryland,,,
+23,231,237,Michigan Ave,Hughes,Agnes R,Niece,F,N,S,7,District of Columbia,,,
+24,232,238,Baltimore Ave,Gray,James H,Head,M,N,Wd,64,Maryland,Painter and Paperhanger,Independent,O
+25,,,Baltimore Ave,Gray,Pauline I,Daughter,F,N,S,29,Maryland,Cook,Club House,
+26,,,Baltimore Ave,Gray,Louis R,Son,M,N,S,26,Maryland,Auto Mechanic,Garage,
+27,,,Baltimore Ave,Gray,Eliza E,Daughter,F,N,S,23,Maryland,,,
+28,,,Baltimore Ave,Gray,R. Ridgely,Son,M,N,S,19,Maryland,,,
+29,,,Baltimore Ave,Gray,Clarence,Son,M,N,S,16,Maryland,,,
+30,,,Baltimore Ave,Briscoe,Ruby J,Grand Daughter,F,N,S,7,Maryland,,,
+31,233,239,Baltimore Ave,Greene,"R, Ambrose",Head,M,N,M,67,Maryland,Guard,Natl Museum,R
+32,,,Baltimore Ave,Greene,Elizabeth J,Wife,F,N,M,55,District of Columbia,,,
+33,,,Baltimore Ave,Greene,Emma,Daughter,F,N,M,32,District of Columbia,Maid,Reil Department Store,
+34,,,Baltimore Ave,Greene,Marie,Daughter,F,N,S,8,Maryland,,,
+35,,,Baltimore Ave,Greene,Dorothy,Daughter,F,N,S,5,Maryland,,,
+36,,,Baltimore Ave,Edwards,Sarah E,Mother In Law,F,N,Wd,90,District of Columbia,,,
+37,,,Baltimore Ave,Edmonds,Mary K,Sister In Law,F,N,Wd,47,District of Columbia,Janitress,Pullman Cars,
+38,,,Baltimore Ave,Edmonds,Thomas E,Nephew,M,N,S,20,District of Columbia,,,
+39,,,Baltimore Ave,Edmonds,Harry A,Nephew,M,N,S,18,District of Columbia,Dishwasher,University,
+40,234,240,Washington Ave,Hicks,Benjamin,Head,M,N,M,46,Maryland,Laborer,Steam Railway,O
+41,,,Washington Ave,Hicks,Annie L,Wife,F,N,M,37,Virginia,,,
+42,,,Washington Ave,Hicks,A. Ethel,Daughter,F,N,S,19,Maryland,Servant,General Housework,
+43,,,Washington Ave,Williams,Anna E,Grand Daughter,F,N,S,3/12,District of Columbia,,,
+44,235,241,Washington Ave,Lewis,Sydney J,Head,M,N,Wd,59,Virginia,Repairman,St Railway,O
+45,,,Washington Ave,Lewis,"Sydney J, Jr",Son,M,N,S,16,Maryland,,,
+46,,,Washington Ave,Lewis,Walter H,Son,M,N,S,10,Maryland,,,
+47,,,Washington Ave,Brown,William P,Nephew In Law,M,N,M,22,Maryland,Chauffeur,Private Family,
+48,,,Washington Ave,Brown,Nellie O,Niece,F,N,M,18,Virginia,,,
+49,,,Washington Ave,Brown,William P,Grand Nephew,M,N,S,4/12,District of Columbia,,,
+50,,,Washington Ave,Brown,Vivian V,Grand Niece,F,N,S,8/12,District of Columbia,,,

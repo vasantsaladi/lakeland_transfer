@@ -1,0 +1,189 @@
+pk,house_num,street_name,last_name,first_name
+1,8003,48th Ave,Adams,Catherine L.
+2,5105,Navahoe St,Adams,George E.
+3,5500,Richmond Ave.,Adams,James E.
+4,8003,48th Ave,Adams,Joseph W.
+5,5105,Navahoe St,Adams,Rose E.
+6,5014,Navahoe St,Allen,Mack B.
+7,4712,Navahoe St,Anderson,Shirley
+8,5022,Lakeland Rd,Barber,Sarah E.
+9,5503,Atlanta Ave,Blue,Ben
+10,8102,Detroit Ave.,Branson,Alice
+11,8102,Detroit Ave.,Branson,George F.
+12,5508,Richmond Ave.,Braxton,Harry Mc H.
+13,5508,Richmond Ave.,Braxton,Mary E.
+14,8111,51st Ave,Brewer,Mary
+15,5113,Navahoe St,Briddell,Edna J.
+16,8113,51st Ave,Briscoe. Jr.,Benjamin S.
+17,5006,Lakeland Rd,Briscoe,Clarice H.
+18,5001,Pierce Ave,Briscoe,Ellen
+19,5006,Lakeland Rd,Briscoe,Joseph Mc. D
+20,5001,Pierce Ave,Briscoe,Mary D.
+21,4900,Lakeland Rd,Briscoe,Spencr M.
+22,5107,Navahoe St,Briscoe,Alberta V.
+23,8003,51st Ave,Brooks,Arthur C.
+24,8105,51st Ave,Brooks,George F.
+25,4810,Lakeland Rd,"Brooks, Jr.",George F.
+26,,Albany Ave,Brooks,Gertrude E.
+27,4810,Lakeland Rd,Brooks,Jeanette M.
+28,8003,51st Ave,Brooks,Mary A.
+29,,Albany Ave,Brooks,Mary C.
+30,8102,51st Ave,Brooks,Nancy C.
+31,8105,51st Ave,Brooks,Susie K.
+32,5121,Navahoe St,Brower,Mary J.
+33,5121,Navahoe St,Brower,Wilbur
+34,8104,48th Ave,"Brown, Jr",Franklin W.
+35,8104,48th Ave,"Brown, Jr.",Franklin W.
+36,8104,48th Ave,Brown,Helen B.
+37,5001,Pierce Ave,Brown,James W.
+38,5011,Pierce Ave,Brown,Marie V.
+39,5100,Pierce Ave,Butler,Cora
+40,5105,Navahoe St,Cager,Carl E.
+41,5105,Navahoe St,Cager,Francis
+42,5024,Lakeland Rd,Cameron,Daniel
+43,5102,Lakeland Rd,Cameron,Mattie
+44,5123,Navahoe St,Campbell,Elizabeth A.
+45,4900,Lakeland Rd,Campbell,Saxoline E.
+46,5030,Navahoe St,Carroll,"Charles H,"
+47,5030,Navahoe St,Carroll,Julia E.
+48,8088,54th Ave,Chappell,Meredith
+49,5009,Lakeland Rd,Claiborne,Ethel Annie
+50,4802,Lakeland Rd,Claiborne,James L.
+51,4802,Lakeland Rd,Claiborne,Vera O.
+52,5100,Lakeland Rd,Clemons,Bessie L.
+53,5100,Lakeland Rd,Clemons,James V.
+54,8204,48th Ave,Conley,Melba M.
+55,4825,Navahoe St,Conway,Emma J.
+56,4825,Navahoe St,Conway,Ralph E.
+57,5016,Lakeland Rd,Copeland,John C.
+58,5016,Lakeland Rd,Copeland,Lois K.
+59,,54th and Cleveland,Cordove,Alberta T.
+60,5107,Navahoe St,Crump,Annie
+61,5504,Richmond Ave.,Davis,Gertrude H.
+62,5111,Lakeland Rd,Dock,Rudolph A.
+63,5111,Lakeland Rd,Dory,"Charles L,"
+64,5120,Navahoe St,Dory,Delarce
+65,5111,Lakeland Rd,Dory,Lillian B.
+66,5111,Lakeland Rd,Dory,Maria S.
+67,5103,Navahoe St,Douglas,Margaret R.
+68,8008,54th Ave,Dunston,Hattie D.
+69,1425,Albany Ave,Edwards,James W.
+70,1425,Albany Ave,Edwards,Martha V.
+71,,Cleveland Ave,Few,Betty J.
+72,5114,Navahoe St,Fields,Mazie
+73,8111,51st Ave,Fields,Robert A.
+74,8002,Winnipeg St,Francis,James W.
+75,5004,Navahoe St,Gibson,Earl C.
+76,5004,Navahoe St,Gibson,"Eleara O,"
+77,7910,54th Ave,Gray,Eliza E.
+78,8106,48th Ave,Gray,Emma C.
+79,7910,54th Ave,Gray,Louis R.
+80,7910,54th Ave,Gray,Pauline
+81,7902,54th Ave,Greene,Ambrose A.
+82,,54th Avene,Greene,Elizabeth J.
+83,8001,51st Avenue,Greene,Emma B.
+84,8001,51st Ave,Greene,James E.
+85,5102,Pierce Ave,Greene,Richard G.
+86,5102,Cloudy Ave,Gross,Agnes
+87,5110,Pierce St,Gross,Elwood H.
+88,5102,Cloudy Ave,Gross,George H.
+89,5110,Pierce St,Gross,Wilmer S.
+90,5009,Lakeland Rd,Guss,Amos J.
+91,4810,Lakeland Rd,Gustave,Morris L.
+92,4810,Lakeland Rd,Gustave,Servillie M.
+93,4812,Navahoe St,Haliburton,Gladys L.
+94,,Cleveland Ave,Hamlett,Charles L..
+95,,Richmond Ave.,Harrison,Emma M.
+96,5106,Navahoe St,Hart,Amy B.
+97,5106,Navahoe St,Hart,Charlie P.
+98,5107,Winnipeg St,Hill,Abraham
+99,5112,Navahoe St,Hill,Marguerite M.
+100,5000,Navahoe St,Jackson,Ruth
+101,4900,Navahoe St,Jackson,Sarah E.
+102,5100,Navahoe St,Johnson,Isaiah
+103,5100,Navahoe St,Johnson,Lelia M.
+104,,Winnipeg St,Johnson,Mattie
+105,,Albany Ave,Johnson,Viola G.
+106,4904,Lakeland Rd,Jones,Millie L.
+107,5108,Pierce Ave,Laney,Arleene
+108,5108,Pierce,Laney,Willie
+109,8117,51st Avene,Lee,Florence I.
+110,8117,51st Ave,Lee,George L.
+111,5102,Pierce,Lewis,Hattie J.
+112,8105,54th Ave,Lomax,Charles A.
+113,8105,54th Ave,Lomax,Dervey A.
+114,,54th Ave,Lomax,Etelka M.
+115,8105,54th Ave,Lomax,Thelma
+116,5002,Navahoe St,McMillon,Samuel
+117,5014,Navahoe St,Mack,Bessie S.
+118,5014,Navahoe St,Mack,Dorothy G.
+119,5014,Navahoe St,Mack,John W. C.
+120,8204,48th Ave,Mason,Ila M.
+121,8204,48th Ave,Mason,Robert E.
+122,4904,Navahoe St,Moody,Elsie L.
+123,4824,Navahoe St,Nesbitt,Grace J.
+124,4808,Lakeland Rd,Newman,ra T.
+125,4804,51st Ave,"Parker, Jr.",Paul
+126,4800,Lakeland Rd,Pitts,Harold W.
+127,4800,Lakeland Rd,Pitts,Julia M.
+128,5108,Lakeland Rd,Poole,Elmore
+129,4915,Navahoe St,Posey,Edward H.
+130,4915,Navahoe St,Posey,Pauline
+131,4902,Navahoe St,Potts,Amy G.
+132,5126,Navahoe St,Randalll,Agnes S.
+133,5126,Navahoe St,Randalll,Thomas A.
+134,4813,Navahoe St,Randalll,Victor L.
+135,8006,51st Ave,Roberts,James W.
+136,8006,51st Ave,Foberts,Lavassia H.
+137,5113,Lakeland Rd,Robinson,Dora R.
+138,5010,Pierce Ave,Robinson,Leon A.
+139,5010,Pierce Ave,Robinson,Sarah B.
+140,4817,Navahoe St,Sandidge,Ech P.
+141,4817,Navahoe St,Sandidge,Hattie C.
+142,5402,Cleveland Ave,Sands,Marie V.
+143,5500,Cincinnati,Sellers,Willie L.
+144,1425,Albany Ave,Sharps,Lucille V.
+145,5507,Albany Ave,Sharps,William R.
+146,4811,Navahoe St,Smith,George
+147,5021,Lakeland Rd,Smith,John W.
+148,4910,Navahoe St,Smith,Leonard J.
+149,5014,Pierce Ave,Stephens,James H.
+150,5014,Pierce Ave,Stephens,Sylvia N.
+151,5500,Cincinnati Ave,Stewart,James E.
+152,5502,Albany Ave,Stewart,Mary E.
+153,8117,54th Ave,Taylor,Chauncey W.
+154,8114,51st Ave,Taylor,Edith M.
+155,8000,51st Ave,Taylor,Pauline W.
+156,8000,51st Ave.,Taylor,Willie L.
+157,4824,Navahoe St,Terry,James R.
+158,8109,54th Ave,Thomas,Alice
+159,,Detroit Ave.,Thomas,Annie
+160,8109,54th Ave,Thomas,Charles A.
+161,8109,54th Ave,Thomas,Flora
+162,8109,54th Ave,Thomas,Gilbert
+163,4902,Lakeland Rd,Thomas,Hazel V.
+164,4902,Lakeland Rd,Thomas,Merrill
+165,5405,Detroit Ave.,Thomas,Ramona E.
+166,,Detroit Ave.,Thomas,Regina L.
+167,5009,Lakeland Rd,Thomas,Sadie E.
+168,4808,Lakeland Rd,Thomas,William
+169,8015,Rhode Island Ave,Tolson,Alberta J.
+170,8215,Rhode Island Ave,Tolson,Bernice J.
+171,8200,Rhode Island Ave,Tolson,Dorothy E.
+172,5507,Albany Ave,Tyner,Shirley D.
+173,5002,Lakeland Rd,Waller,Emma L..
+174,5500,Richmond Ave.,Waller,Jerome W.
+175,5118,Navahoe St,Walls,Anderson
+176,5118,Navahoe St,Walls,Bernice V.
+177,5112,Navahoe St,Walls,George E.
+178,5112,Navahoe St,Walls,Teresa C.
+179,4714,Navahoe St,Watkins,John
+180,4714,Navahoe St,Watkins,Martha M.
+181,8002,51st Ave,Watts,Jaomes
+182,8002,51st Ave,Watts,Maggie K.
+183,5112,Navahoe St,Webster,John F.
+184,5104,Lakeland Rd,Weems,James A.
+185,5006,Pierce St.,Weems,James W.
+186,5022,lakeland Rd,Weems,Mary E.
+187,5006,Pierce St.,Weems,Mary M.
+188,8804,54TH Ave,Williams,Frances D.

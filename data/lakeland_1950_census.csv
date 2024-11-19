@@ -1,0 +1,315 @@
+pk,ed,house_num,build_num,street_name,last_name,first_name,relation_head,head_last,head_first,sex,race,marital,age,place_birth,work,business
+1,17-240,311,4714,Navahoe St,Randall,Randall,Head,Ellen,Randall,F,,Wd,65,North Carolina,Domestic Helper,Private Houses
+2,17-240,311,4714,Navahoe St,Randall,George,Son,Ellen,Randall,M,,S,32,Maryland,Laborer,City Sanitary Commission
+3,17-240,311,4714,Navahoe St,Johnson,Shirley,Daughter,Ellen,Randall,F,,S,25,Maryland,,
+4,17-240,311,4714,Navahoe St,Johnson,Michael,Grandson,Ellen,Randall,M,,S,6,Maryland,,
+5,17-240,311,4714,Navahoe St,Johnson,Genaldine,Granddaughter,Ellen,Randall,F,,S,2,Maryland,,
+6,17-240,311,4714,Navahoe St,Johnson,Jeffrey,Grandson,Ellen,Randall,M,,S,,Maryland,,
+7,17-240,311,4714,Navahoe St,Randall,Victor,Grandson,Ellen,Randall,M,,S,27,Maryland,Truck Driver,Fuel And Feed Company
+8,17-240,313,4800,Navahoe St,Strand,Charles,Head,Strand,Charles,M,,M,68,North Carolina,,
+9,17-240,313,4800,Navahoe St,Strand,Annie,Wife,Strand,Charles,F,,M,57,North Carolina,,
+10,17-240,314,8204,40th Ave,Mason,Robert E.,Head,M,Robert,M,,M,44,Virginia,,
+11,,158,8015,Rhode Island Av,Tolson,AC,Head,Tolson,AC,M,Neg,M,53,Maryland,Labor Plumbing,Plumbing Company
+12,,158,8015,Rhode Island Av,Tolson,Alberta,Wife,Tolson,AC,F,Neg,M,48,Maryland,Cook,Fraternity House
+13,,158,8015,Rhode Island Av,Tolson,Bernice J,Daughter,Tolson,AC,f,Neg,Nev,27,Maryland,Typing And Filing,Navy Dept
+14,,158,8015,Rhode Island Av,Tolson,Geraldine A,Daughter,Tolson,AC,f,Neg,Nev,25,Maryland,Maid,Fraternity House
+15,,158,8015,Rhode Island Av,Tolson,Dorothy E.,Daughter,Tolson,AC,f,Neg,Nev,24,Maryland,Housekeeper,Private Home
+16,,158,8015,Rhode Island Av,Tolson,Eleanor,Daughter,Tolson,AC,f,Neg,Nev,21,Maryland,Housekeeper,Private Home
+17,,158,8015,Rhode Island Ave,Tolson,Ashbey Jr,Son,Tolson,AC,M,Neg,Mar,23,Maryland,Janitor,State University
+18,,158,8015,Rhode Island Ave,Tolson,LaVerne,Daughter,Tolson,AC,f,Neg,Nev,19,Maryland,,
+19,,158,8015,Rhode Island Av,Tolson,Nathaniel,Son,Tolson,AC,m,Neg,Nev,7,Maryland,,
+20,,158,8015,Rhode Island Av,Tolson,Mary E,Daughter In Law,Tolson,AC,f,Neg,Mar,19,North Carolina,,
+21,,158,8015,Rhode Island Av,Tolson,Ronald L,Grandson,Tolson,AC,m,Neg,Nev,,Maryland,,
+22,,158,8015,Rhode Island Av,Tolson,Gasson,Grandson,Tolson,AC,m,Neg,Nev,7,Maryland,,
+23,,158,8015,Rhode Island Av,Tolson,Joyce,Granddaughter,Tolson,AC,f,Neg,Nev,3,Maryland,,
+24,,158,8015,Rhode Island Av,Tolson,Barbara Ann,Grandson,Tolson,AC,F,Neg,Nev,7,Maryland,,
+25,,159,5005,Lakeland Rd,Guss,Carrie,Head,Guss,Carrie,f,Neg,Nev,78,Maryland,,
+26,,159,5005,Lakeland Rd,Guss,Amos,Son,Guss,Carrie,M,Neg,Div,51,Maryland,Cement Finisher,Construction Co
+27,,159,5005,Lakeland Rd,Thomas,Sadie,Daughter,Guss,Carrie,F,Neg,Mar,46,District of Columbia,,
+28,,159,5005,lakeland Rd,Thomas,Elisha,Son In Law,Guss,Carrie,f,Neg,Mar,40,Maryland,Store Keeper,Air Base (Gov)
+29,,159,5005,Lakeland Rd,Poole,Willie,Lodger,Guss,Carrie,M,Neg,Sep,51,Alabama,Cook,Dinner
+30,,161,5017,Lakeland Rd,Brewis,AL,Head,Brewis,AL,M,Neg,Mar,47,Alabama,Cement Finisher,Construction Co
+31,,161,5017,Lakeland Rd,Brewis,Claudia,Wife,Brewis,AL,f,Neg,Mar,40,Alabama,General Housework,Private Homes
+32,,161,5017,Lakeland Rd,Brewis,Ottis D,Son,Brewis,AL,M,Neg,Nev,13,Alabama,,
+33,,161,5017,Lakeland Rd,Brewis,Hester W,Daughter,Brewis,Al,F,Neg,Nev,12,Alabama,,
+34,,161,5017,Lakeland Rd,Brewis,Helen B,Daughter,Brewis,AL,F,Neg,Nev,8,Alabama,,
+35,,161,5017,Lakeland Rd,Davis,Ruth,Daughter,Brewis,AL,F,Neg,Div,29,Alabama,Domestic Help,Private Homes
+36,,162,5019,Lakeland Rd,Spriggs,MS,Head,Spriggs,MS,F,Neg,Wid,55,Maryland,,
+37,,162,5019,Lakeland Rd,Briscoe,Lewis,Lodger,Spriggs,MS,M,Neg,Mar,23,Maryland,Retail Butcher,Retail Meat Market
+38,,162,5019,Lakeland Rd,Briscoe,Geraldine,Lodger,Spriggs,MS,F,Neg,Mar,21,Maryland,,
+39,,162,5019,Lakeland Rd,Briscoe,Berry,Lodger,Spriggs,MS,M,Neg,Nev,1,Maryland,,
+40,,147,511,54th Ave,Parham,George,Head,Parham,George,M,Neg,Mar,82,Maryland,,
+41,,147,511,54th Ave,Green,Eliza,Sister,Parham,George,f,Neg,Wid,71,District of Columbia,Housework,Private Homes
+42,,147,511,54th Ave,Edwins,Mae,Sister,Parham,George,f,Neg,Wid,66,District of Columbia,"Train Cars Cleaner, Pullman",Fright Yard
+43,,147,511,54th Ave,Edwins,Thomas,Grandson,Parham,George,m,neg,Nev,33,Maryland,,
+44,,148,512,Cloudy Ave,Gray,James H,Head,Gray,James H,M,Neg,Wid,84,Maryland,,
+45,,148,512,Cloudy Ave,Gray,Pauline,Daughter,Gray,James H,F,Neg,Nev,49,Maryland,Domestic Work,Private Home
+46,,148,512,Cloudy Ave,Gray,Eliza,Daughter,Gray,James H,F,Neg,Nev,42,Maryland,File Clerk,Genera; Service Dept
+47,,148,512,Cloudy Ave,Gray,Lewis,Son,Gray,James H,M,Neg,Div,44,Maryland,Kitchen Helper,State University
+48,,148,512,Cloudy Ave,Gray,Clarence,Grandson,Gray,James H,M,Neg,Nev,14,Maryland,,
+49,,149,4402,Pierce Ave,Laney,Willie,Head,Laney,Willie,M,Neg,Mar,41,Maryland,Carpenter Worker,Private Construction Company
+50,,149,4402,Pierce Ave,Laney,Arleen,Wife,Laney,Willie,F,Neg,Mar,36,Maryland,,
+51,,150,4404,Pierce Ave,Campbell,Joseph,Head,Campbell,Joseph,M,Neg,Mar,38,North Carolina,Cement Layer,Construction Company
+52,,150,4404,Pierce Ave,Campbell,Jessie,Wife,Campbell,Joseph,F,Neg,Married,36,Maryland,Housekeeper,Private Homes
+53,,150,4404,Pierce Ave,Patterson,Anna,Daughter In Law,Campbell,Joseph,F,Neg,Nev,20,Maryland,Housekeeper,Private Homes
+54,,151,4403,Pierce Ave,Gross,George H,Head,Gross,George H,M,Neg,Married,45,Maryland,Weiter And Cleaning,State University
+55,,151,4009,Pierce Ave,Gross,Agnes,Wife,Gross,George H,F,Neg,Married,42,Maryland,Manager Of Cafeteria,Elementary School
+56,,151,4009,Pierce Ave,Gross,Elwood,Son,Gross,George,M,Neg,Nev,16,Maryland,,
+57,,156,5008,Pierce Ave,Thompson,Henry,Head,Thompson,Henry,M,Neg,Mar,69,Louisiana,Janitor,Bearue Of Mines
+58,,156,5008,Pierce Ave,Thomson,Jane,Wife,Thompson,Henry,F,Neg,Mar,60,Maryland,Dormitory Maid,State University
+59,,157,5006,Pierce Ave,Briscoe,Benjamin,Head,Briscoe,Benjamin,M,Neg,Mar,57,District of Columbia,Cook,State University
+60,,157,5006,Pierce Ave,Briscoe,Ellen,Wife,Briscoe,Benjamin,F,Neg,Mar,57,Maryland,Maid,State University
+61,,157,5006,Pierce Ave,Briscoe,Mary D,Daughter,Broscoe,Benjamin,F,Neg,Nev,32,Maryland,Maid,Private Home
+62,,157,5006,Pierce Ave,Brown,Franklin,Son In Law,Briscoe,Benjamin,m,neg,Mer,36,Maryland,,
+63,,157,5006,Pierce Ave,Brown,Helen B,Daughter,Briscoe,Benjamin,f,neg,Mar,36,Maryland,,
+64,,157,5006,Pierce Ave,Brown,Marie,Grand Daughter,Briscoe,Benjamin,f,neg,Nev,15,Maryland,,
+65,,157,5006,Pierce Ave,Brown,Franklin,Grand Son,Briscoe,Benjamin,m,neg,Neb,14,Maryland,,
+66,,7,,Detroit Ave,Thomas,Samuel,Head,Thomas,Samuel,M,Neg,Mar,53,Maryland,Laborer,Coal Business
+67,,7,,Detroit Ave,Thomas,Annie,Wife,Thomas,Samuel,F,Neg,Mar,50,Maryland,General Housework,Private Families
+68,,7,,Detroit Ave,Thomas,Hollie,Son,Thomas,Samuel,M,Neg,Nev,15,Maryland,,
+69,,27,5404,Cleveland Ave,Crutchfield,Ellsworth W,Grandson,,,M,Neg,Nev,21,District of Columbia,Laborer,Water Company
+70,,28,,Lane off 54th,Cordove,Marcelius,Head,Cordova,Marcelius,M,Neg,Mar,76,Cuba,,
+71,,28,,Lane off 54th,Cordove,Alberta,Wife,Cordova,Marcelius,M,Neg,Mar,60,Virginia,,
+72,,27,5404,Cleveland Ave,Sands,Edward,Head,Sands,Edward,M,Neg,Mar,58,Connecticut,Mail Clerk,Us Post Office Dept
+73,,27,5404,Cleveland Ave,Sands,Marie,Wife,Sands,Edward,F,Neg,Mar,52,District of Columbia,,
+74,,27,5404,Cleveland Ave,Walls,John H,Brother In Law,Sands,Edward,M,Neg,Mar,45,maryland,Porter,
+75,,320,4820,Navahoe St,Potts,Beverly,Daughter,Potts,Edward,F,Neg,Nev,10,Maryland,,
+76,,320,4820,Navahoe St,Potts,Wallace,Son,Potts,Edward,M,Neg,Nev,9,Maryland,,
+77,,320,4820,Navahoe St,Potts,Iris,Daughter,Potts,Edward,F,Neg,Nev,6,Maryland,,
+78,,320,4820,Navahoe St,Potts,William,Son,Potts,Edward,M,Neg,Nev,4,Maryland,,
+79,,320,4820,Navahoe St,Potts,Anthony,Son,Potts,Edward,M,Neg,Nev,3,Maryland,,
+80,,320,4820,Navahoe St,Potts,Gerald,Son,Potts,Edward,M,Neg,Nev,2,Maryland,,
+81,,320,4820,Navahoe St,Potts,Laverda,Daughter,Potts,Edward,D,Neg,Nev,1,Maryland,,
+82,,321,4820,Navahoe St,Johnson,Bertha,Head,Johnson,Bertha,F,Neg,Wd,60,Maryland,,
+83,,321,4820,Navahoe St,Johnson,Delores,Grand Daughter,Johnson,Bertha,F,Neg,Nev,13,Maryland,,
+84,,321,4820,Navahoe St,Johnson,Ruth,Daughter,Johnson,Bertha,F,Neg,Nev,40,Maryland,Domestic Helper,Private Houses
+85,,321,4820,Navahoe St,Johnson,Charles,Son,Johnson,Bertha,M,Neg,Nev,30,Maryland,Painting,Private Houses
+86,,322,4825,Navahoe St,Conway,Emma,Head,Conway,Emma,F,Neg,Sep,53,Maryland,Domestic Helper,Private Houses
+87,,323,4827,Navahoe St,Stewart,Nettie,Head,Stewart,Nettie,F,Neg,Wd,70,Maryland,,
+88,,323,4827,Navahoe St,Stewart,Earl,Son,Stewart,Nettie,M,Neg,Nev,42,Maryland,Clerk,Beer Garden
+89,,323,4827,Navahoe St,Stewart,Vivian,Grand Daughter,Stewart,Nettie,F,Neg,Nev,14,Maryland,,
+90,,323,4827,Navahoe St,Stewart,Sylvia,Grand Daughter,Stewart,Nettie,F,Neg,Nev,9,Maryland,,
+91,,324,4929,Navahoe St,Dunston,Ed,Head,Dunston,Ed,M,Neg,Mar,34,North Carolina,,
+92,,324,4929,Navahoe St,Dunston,Hattie,Wife,Dunston,Ed,f,Neg,Mar,35,North Carolina,Domestic Helper,Private Houses
+93,,325,5030,Navahoe St,Carroll,Julia,Head,Carroll,Julia,F,Neg,Mer,42,Maryland,,
+94,,325,5030,Navahoe St,Carroll,Charles,Husband,Carroll,Julia,M,Neg,Mar,39,District of Columbia,Engineer And Draftsman,Navy Department
+95,,326,5014,Navahoe St,Mack,Chesley,Head,Mack,Chesley,M,Neg,Mar,70,Maryland,Proprietor,Retail Grocery Store
+96,,326,5014,Navahoe St,Mack,Maggie,Wife,Mack,Chesley,f,Neg,Mar,48,Maryland,Proprietor,Retail Grocery Store
+97,,326,5014,Navahoe St,Mack,Bessie,Daughter,Mack,Chesley,f,Neg,Nev,41,Maryland,Elementary School Teacher,Elementary School
+98,,326,5014,Navahoe St,Allen,Dorothy,Daughter,Mack,Chesley,F,Neg,Mar,36,District of Columbia,Mathematics Teacher,High School
+99,,326,5014,Navahoe St,Allen,Benjamin,Son In Law,Mack,Chesley,M,Neg,Mar,36,North Carolina,Clerk,Navy Department
+100,,326,5014,Navahoe St,Allen,Dorothy,Grand Daughter,Mack,Chesley,F,Neg,Nev,Aug,Maryland,,
+101,,327,5002,Navahoe St,Harid,David,Head,Harid,David,M,Neg,Wd,64,Maryland,Unknown,
+102,,327,5002,Navahoe St,Harid,Ephrem,Brother In Law,Harid,David,M,Neg,Wd,50,Maryland,Dish Washer,Restaurant
+103,,327,5002,Navahoe St,Taylor,Lizzie,Sister,Harid,David,F,Neg,Wd,66,Maryland,Domestic Helper,Private House
+104,,328,5000,Navahoe St,Wilson,Raymond,Head,Wilson,Raymond,M,Neg,Mar,28,Maryland,Chauffeur,University Of Maryland
+105,,328,5000,Navahoe St,Wilson,Ruth,Wife,Wilson,Raymond,F,Neg,Mar,22,Alabama,Waitress,Drug Store
+106,,328,5000,Navahoe St,Wilson,Forrester,Son,Wilson,Raymond,M,Neg,Nev,5,Maryland,,
+107,,328,5000,Navahoe St,Wilson,Evon,Daughter,Wilson,Raymond,F,Neg,Nev,3,Maryland,,
+108,,328,5000,Navahoe St,Wilson,Victoria,Daughter,Wilson,Raymond,F,Neg,Nev,2,Maryland,,
+109,,329,5004,Navahoe St,Gross,William,Head,Gross,William,M,Neg,Wd,72,nil,,
+110,,329,5004,Navahoe St,Gibson,Earl,Son In Law,Gross,William,M,Neg,Mar,35,Maryland,Labor,
+111,,329,5004,Navahoe St,Gibson,Elenora,Daughter,Gross,William,F,Neg,Mar,30,Maryland,Cabin Helper,Tourist Court
+112,,329,5004,Navahoe St,Gibson,Delores,Great Grand Daughter,Gross,William,F,Neg,Nev,14,Maryland,,
+113,,329,5004,Navahoe St,Gibson,Emory,Great Grandson,Gross,William,M,Neg,Nev,12,Maryland,,
+114,,329,5004,Navahoe St,Gibson,Odean,Great Grand Daughter,Gross,William,F,Neg,Nev,10,Maryland,,
+115,,329,5004,Navahoe St,Gibson,Raymond,Great Grandson,Gross,William,M,Neg,Nev,9,Maryland,,
+116,,329,5004,Navahoe St,Gibson,Gwendolyn,Great Grand Daughter,Gross,William,F,Neg,Nev,8,Maryland,,
+117,,329,5004,Navahoe St,Wilson,Nedro,Grand Father,Gross,William,F,Neg,Mar,27,Maryland,Domestic Helper,Private Houses
+118,,329,5004,Navahoe St,Baker,Joan E.,Great Grand Daughter,Gross,William,F,Neg,Nev,7,District of Columbia,,
+119,,329,5004,Navahoe St,Wright,Roberta,Grand Daughter,Gross,William,F,Neg,Mar,25,Maryland,,
+120,,329,5004,Navahoe St,Wright,Theresa,Great Grand Daughter,Gross,William,F,Neg,Nev,8,Maryland,,
+121,,329,5004,Navahoe St,Wright,Roger,Great Grandson,Gross,William,M,Neg,Nev,6,Maryland,,
+122,,329,5004,Navahoe St,Wilson,Luther,Son In Law,Gross,William,M,Neg,Wd,66,Maryland,,
+123,,329,5004,Navahoe St,Wilson,Wilhelmenia,Grand Daughter,Gross,William,F,Neg,Nev,15,Maryland,,
+124,,329,5004,Navahoe St,Wilson,Amelia,Gand Daughter,gross,William,F,Neg,Nev,13,Maryland,,
+125,,330,5011,Navahoe St,Tabbs,Nancy,Head,Tabbs,Nancy,F,Neg,Wed,73,Maryland,Unknown,
+126,,330,5011,Navahoe St,Taylor,James,Lodger,Tabbs,Nancy,M,Neg,Nev,21,Maryland,Cook,Restaurant
+127,,330,5011,Navhaoe St,Lee,Eddie,Lodger,Tabbs,Nancy,M,Neg,Mar,28,Maryland,Cook,Restaurant
+128,,331,5103,Navhaoe St,Douglas,Robert,Head,Douglas,Robert,M,Neg,Mar,43,South Carolina,Baker,State University
+129,,331,5103,Navahoe St,Douglas,Margaret,Wife,Douglas,Robert,F,Neg,Mar,35,North Carolina,,
+130,,331,5103,Navahoe St,Douglas,Sandra,Daughter,Douglas,Robert,F,Neg,Nev,4,North Carolina,,
+131,,331,5103,Navahoe St,Douglas,Richard,Son,Douglas,Robert,M,Neg,Nev,2,Maryland,,
+132,,331,5103,Navahoe St,Douglas,Edward,Son,Douglas,Robert,M,Neg,Nev,1,Maryland,,
+133,,332,5105,Navahoe St,Cager,James,Head,Cager,James,M,Neg,Mar,56,Maryland,Laborer,Building Construction
+134,,332,5105,Navahoe St,Cager,Fanny,Wife,Cager,James,F,Neg,Mar,53,Maryland,,
+135,,332,5105,Navahoe St,Cager,Calvin,Son,Cager,James,M,Neg,Nev,25,Maryland,Laborer,Building Construction
+136,,332,5105,Navahoe St,Cager,Leroy,Son,Cager,James,M,Neg,Nev,24,Maryland,Laborer,Beer Company
+137,,332,5105,Navahoe St,Cager,Carl,Son,Cager,James,M,Neg,Nev,20,Maryland,,
+138,,332,5105,Navahoe St,Cager,Marcelius,Son,Cager,James,M,Neg,Nev,16,Maryland,,
+139,,332,5105,Navahoe St,Cager,Francis,Son,Cager,James,N,Neg,Nev,14,Maryland,,
+140,,332,5105,Navahoe St,Cager,Albert,Son,Cager,James,M,Neg,Nev,11,Maryland,,
+141,,332,5105,Navahoe St,Cager,Franklin,Son,Cager,James,M,Neg,Nev,8,Maryland,,
+142,,332,5105,Navahoe St,Adams,George,Son In Law,Cager,James,M,Neg,Mar,39,Mayland,Truck Driver,Sand And Gravel Company
+143,,332,5105,Navahoe St,Adams,Rosie,Daughter,Cager,James,M,Neg,Mar,28,Mayland,Domestic Helper,Private Houses
+144,,332,5105,Navahoe St,Adams,Harold,Grand Son,Cager,James,M,Neg,Nev,11,Mayland,,
+145,,333,5107,Navahoe St,Randall,Thomas,Head,Randall,Thomas,M,Neg,Mar,30,Maryland,Porter,Printing Company
+146,,333,5107,Navahoe St,Randall,Agnes,Wife,Randall,Thomas,F,Neg,Mar,27,Maryland,,
+147,,333,5107,Navahoe St,Randall,Janet,Daughter,Randall,Thomas,F,Neg,Nev,7,Maryland,,
+148,,333,5107,Navahoe St,Randall,Jacqueline,Daughter,Randall,Thomas,F,Neg,Nev,7,Maryland,,
+149,,333,5107,Navahoe St,Randall,Thomas,Son,Randall,Thomas,M,Neg,Nev,4,Maryland,,
+150,,333,5107,Navahoe St,Randall,Pamela,Daughter,Randall,Thomas,F,Neg,Nev,3,Maryland,,
+151,,333,5107,Navahoe St,Forrest,Agnes,Grandmother,Randall,Thomas,F,Neg,Wd,75,Virginia,,
+152,,334,5706,Navahoe St,Stewart,Raymond,Head,Stewart,Raymond,M,Neg,Mar,30,Maryland,Laborer,Bureau Of Mines
+153,,334,5106,Navahoe St,Stewart,Amy,Wife,Stewart,Raymond,F,Neg,Mar,26,Maryland,Typist,Department Of Commerce
+154,,335,5112,Navahoe St,Williams,Hattie,Head,Williams,Hattie,F,Neg,Nev,63,Maryland,,
+155,,335,5112,Navahoe St,Weems,James W.,Son In Law,Williams,Hattie,M,Neg,Mar,34,District of Columbia,Postal Clerk,Government Printing Office
+156,,335,5112,Navahoe St,Weems,Mary M.,Wife,Williams,Hattie,M,Neg,Mar,35,Maryland,Clerk,Navy Department
+157,,335,5112,Navahoe St,Weems,Diane,Daughter,Williams,Hattie,F,Neg,Nev,7,Maryland,,
+158,,335,5112,Navahoe St,Weems,Don,Son,Williams,Hattie,M,Neg,Nev,3,Maryland,,
+159,,336,5114,Navahoe St,Adams,Hattie,Head,Adams,Hattie,F,Neg,Wd,65,Virginia,,
+160,,336,5114,Navahoe St,Williams,Milton,Lodger,Adams,Hattie,M,Neg,Nev,26,Maryland,Unable To Work,
+161,,336,5114,Navahoe St,Adams,Warner,Son,Adams,Hattie,M,Neg,Mar,42,Maryland,Laborer,Plumbing Company
+162,,336,5114,Navahoe St,Adams,Masie,Daughter In Law,Adams,Hattie,F,Neg,Mar,36,Maryland,Domestic Helper,Private Homes
+163,,336,5114,Navahoe St,Adams,Hattie E.,Grand Daughter,Adams,Hattie,F,Neg,Nev,18,Mayland,,
+164,,336,5114,Navahoe St,Adams,Elmo,Grand Son,Adams,Hattie,M,Neg,Nev,15,Maryland,,
+165,,336,5114,Navahoe St,Adams,Niamie E.,Grand Daughter,Adams,Hattie,F,Neg,Nev,13,Maryland,,
+166,,337,5118,Navahoe St,Walls,Anderson,Head,Walls,Anderson,M,Neg,Mar,38,Maryland,Laborer,State University
+167,,337,5118,Navahoe St,Walls,Bernice,Wife,Walls,Anderson,F,Neg,Nev,35,Maryland,,
+168,,337,5118,Navahoe St,Walls,Katherine,Daughter,Walls,Anderson,F,Neg,Nev,18,Maryland,,
+169,,337,5118,Navahoe St,Walls,Barbara J.,Daughter,Walls,Anderson,F,Neg,Nev,6,Maryland,,
+170,,337,5118,Navahoe St,Day,Mary N.,Niece,Walls,Anderson,F,Neg,Nev,18,Maryland,Clerk,Department Of Commerce
+171,,338,5123,Navahoe St,Campbell,Maseo,Head,Campbell,Maseo,M,Neg,Mar,26,North Carolina,Maintenance Laborer,Government Housing Project
+172,,338,5123,Navahoe St,Campbell,Elizabeth,Wife,Campbell,Maseo,F,Neg,Mar,23,District of Columbia,,
+173,,338,5123,Navahoe St,Campbell,Pearl,Daughter,Campbell,Maseo,F,Neg,Nev,6,Maryland,,
+174,,338,5123,Navahoe St,Campbell,Mary,Daughter,Campbell,Maseo,F,Neg,Nev,4,Maryland,,
+175,,338,5123,Navahoe St,Campbell,Maseo Jr.,Son,Campbell,Maseo,M,Neg,Nev,2,Maryland,,
+176,,338,5123,Navahoe St,Campbell,Kathleen,Daughter,Campbell,Maseo,F,Neg,Nev,June,Mayland,,
+177,,339,8112,51st Ave,Nickins,Alice,Head,Nickins,Alice,F,Neg,Wd,70,Virginia,,
+178,,339,8112,51st Ave,White,Elsie,Daughter,Nickins,Alice,F,Neg,Wd,36,District of Columbia,Domestic Helper,Private House
+179,,340,8111,51st Ave,Brooks,Joseph,Head,Brooks,Joseph,M,Neg,Mar,79,Maryland,,
+180,,340,8111,51st Ave,Brooks,Mary,Wife,Brooks,Joseph,F,Neg,Mar,73,Maryland,,
+181,,340,8111,51st Ave,Brewer,Mary,Daughter,Brooks,Joseph,F,Neg,Wd,50,Maryland,Presser,Dry Cleaning Shop
+182,,340,8111,51st Ave,Russell,Serville,Grand Daughter,Brooks,Joseph,F,Neg,Nev,21,Maryland,,
+183,,340,8111,51st Ave,Brooks,Peggy,Grand Daughter,Brooks,Joseph,F,Neg,Nev,15,Maryland,,
+184,,340,8111,51st Ave,Brooks,Beverly,Grand Daughter,Brooks,Joseph,F,Neg,Nev,14,Maryland,,
+185,,340,8111,51st Ave,Brooks,Richard,Grand Son,Brooks,Joseph,M,Neg,Nev,20,Maryland,,
+186,,340,8111,51st Ave,Brooks,Eugene,Grand Son,Brooks,Joseph,M,Neg,Nev,13,Maryland,,
+187,,341,8102,51st Ave,Hairston,Chester,Head,Hairston,Chester,M,Neg,Mar,25,North Carolina,Kitchen Helper,State University
+188,,341,8102,51st Ave,Hariston,Matta,Wife,Hariston,Chester,F,Neg,Mar,23,Alabama,Waitress,Restaurant
+189,,341,8102,51st Ave,Hairston,Barbara,Daughter,Hariston,Chester,F,Neg,Nev,2,District of Columbia,,
+190,,341,8102,51st Ave,Hairston,Chester,Son,Hariston,Chester,M,Neg,Nev,1,District of Columbia,,
+191,,341,8102,51st Ave,Williams,Joe,Brother In Law,Hairston,Chester,M,Neg,Mar,25,District of Columbia,,
+192,,341,8102,51st Ave,Williams,Gladys,Sister In Law,Hairston,Chester,F,Neg,Mar,24,North Carolina,Kitchen Helper,State University
+193,,341,8102,51st Ave,Williams,Joseph M.,Nephew,Hairston,Chester,M,Neg,Nev,Feb,Alabama,,
+194,,342,5024,Lakeland Rd,Cameron,Daniel,Head,Cameron,Daniel,M,Neg,Mar,49,North Carolina,Maintenance Worker,Government Housing
+195,,342,5024,Lakeland Rd,Cameron,Mattie,Wife,Cameron,Daniel,F,Neg,Mar,39,South Carolina,,
+196,,343,5022,Lakeland Rd,Carson,Ruth,Head,Carson,Ruth,F,Neg,Wd,43,Maryland,Typist,Department Of Interior
+197,,343,5022,Lakeland Rd,Brown,Charles L.,Lodger,Carson,Ruth,M,Neg,Nev,40,District of Columbia,Mail Handler,Post Office
+198,,343,5022,Lakeland Rd,Barber,Richard,Nephew,Carson,Ruth,M,Neg,Mar,36,Maryland,,
+199,,343,5022,Lakeland Rd,Barber,Sarah,Niece,Carson,Ruth,F,Neg,Mar,36,Maryland,,
+200,,343,5022,Lakeland Rd,Barber,Joseph W.,Son,Carson,Ruth,M,Neg,Nev,6,Maryland,,
+201,,343,5022,Lakeland Rd,Barber,Richard,Son,Carson,Ruth,M,Neg,Nev,3,Maryland,,
+202,,344,4904,Lakeland Rd,Daley,Hamilton,Head,Dailey,Hamilton,M,Neg,Mar,30,Maryland,Laborer,Construction Company
+203,,344,4904,Lakeland Rd,Daley,Arlene,Wife,Dailey,Hamilton,F,Neg,Mar,24,Maryland,Presser,Cleaning Shop
+204,,345,4902,Lakeland Rd,Thanias,Merrill,Head,Thanias,Merrill,M,Neg,Mar,34,Maryland,Aircraft Painter,Army Air Base
+205,,345,4902,Lakeland Rd,Thanias,Hazel,Wife,Thanias,Merrill,F,Neg,Mar,32,Maryland,,
+206,,345,4902,Lakeland Rd,Thanias,Raphael,Son,Thanias,Merrill,M,Neg,Nev,15,Maryland,,
+207,,345,4902,Lakeland Rd,Thanias,Lee T.,Son,Thanias,Merrill,M,Neg,Nev,12,Maryland,,
+208,,345,4902,Lakeland Rd,Thanias,Merril T. Jr.,Son,Thanias,Merrill,M,Neg,Nev,11,Maryland,,
+209,,345,4902,Lakeland Rd,Thanias,George,Son,Thanias,Merrill,M,Neg,Nev,9,Maryland,,
+210,,345,4902,Lakeland Rd,Thanias,Alice,Daughter,Thanias,Merrill,F,Neg,Nev,7,Maryland,,
+211,,345,4902,Lakeland Rd,Thanias,Gloria,Daughter,Thanias,Merrill,F,Neg,Nev,5,Maryland,,
+212,,345,4902,Lakeland Rd,Thanias,Joyce,Daughter,Thanias,Merrill,F,Neg,Nev,3,Maryland,,
+213,,345,4902,Lakeland Rd,Thanias,Zelnia,Daughter,Thanias,Merrill,F,Neg,Nev,2,Maryland,,
+214,,345,4902,Lakeland Rd,Thanias,Richard,Son,Thanias,Merrill,M,Neg,Nev,1,Maryland,,
+215,,345,4902,Lakeland Rd,Thanias,Melvin,Son,Thanias,Merrill,M,Neg,Nev,Mar,Maryland,,
+216,,346,4900,Lakeland Rd,Brisio,Saxaline,Head,Brisio,Saxaline,F,Neg,Nev,27,Maryland,Waitress,Cafeteria
+217,,346,4900,Lakeland Rd,Brisio,George,Father,Brisio,Saxaline,M,Neg,Wd,60,Maryland,,
+218,,346,4900,Lakeland Rd,Brisio,Donald,Brother,Brisio,Saxaline,M,Neg,Nev,17,Maryland,,
+219,,346,4900,Lakeland Rd,Brisio,Spencer,Brother,Brisio,Saxaline,M,Neg,Nev,15,Maryland,,
+220,,347,4808,Lakeland Rd,Thomas,Williams J.,Head,Thomas,William J.,M,Neg,Mar,63,Maryland,Elevator Operator,Government Building
+221,,347,4808,Lakeland Rd,Thomas,Louise,Wife,Thomas,William J.,F,Neg,Mar,58,Maryland,,
+222,,348,4718,Lakeland Rd,Powell,Joseph G,Head,Powell,Joseph G.,M,Neg,Mar,67,Virginia,,
+223,,348,4718,Lakeland Rd,Powell,Lillie,Wife,Powell,Joseph G.,F,Neg,Mar,57,New York,,
+224,,348,4718,Lakeland Rd,Coleman,Martins,Son,Powell,Joseph G.,M,Neg,Nev,25,Virginia,Vocalist,Night Club
+225,,314,8204,40th Avenue,Mason,Ila M.,Wife,Mason,Robert E.,F,Neg,Mar,44,North Carolina,,
+226,,314,8204,40th Ave,Mason,Melba,Daughter,Mason,Robert E.,M,Neg,Nev,22,North Carolina,Domestic Helper,Private Homes
+227,,314,8204,40th Ave,Mason,Wilma,Daughter,Mason,Robert E.,F,Neg,Nev,12,Maryland,,
+228,,314,8204,40th Ave,Mason,Frances,Daughter,Mason,Robert E.,M,Neg,Nev,10,Maryland,,
+229,,314,8204,40th Ave,Mason,William R.,Son,Mason,Robert E.,M,Neg,Nev,4,Maryland,,
+230,,314,8204,40th Ave,Lockerman,Sylvia,Grand Daughter,Mason,Robert E.,F,Neg,Nev,6,District of Columbia,,
+231,,314,8204,40th Ave,Lockerman,Franklin,Grandson,Mason,Robert E.,M,Neg,Nev,5,District of Columbia,,
+232,,314,8204,40th Ave,Kennedy,Tyrone,Grand Son,Mason,Robert E.,M,Neg,Nev,2,Maryland,,
+233,,315,4802,Navahoe St,Gray,Clarence A,Head,Gray,Clarence A,M,Neg,Mer,36,Maryland,Painter And Paperhanger,Private Homes
+234,,315,4802,Navahoe St,Gray,Emma C.,Wife,Gray,Clarence A,F,Neg,Mar,32,North Carolina,,
+235,,315,4802,Navahoe St,Gray,Jean A.,Daughter,Gray,Clarence A,F,Neg,Nev,15,Maryland,,
+236,,315,4802,Navahoe St,Gray,Mildred J.,Daughter,Gray,Clarence A,F,Neg,Nev,12,Maryland,,
+237,,315,4802,Navahoe St,Gray,Lardner B.,Son,Gray,Clarence A,M,Neg,Nev,10,Maryland,,
+238,,315,4802,Navahoe St,Gray,DeWana E.,Daughter,Gray,Clarence A,F,Neg,Nev,8,Maryland,,
+239,,315,4802,Navahoe St,Gray,Linda J.,Daughter,Gray,Clarence A,F,Neg,Nev,7,Maryland,,
+240,,315,4802,Navahoe St,Gray,Myron O.,Son,Gray,Clarence A,M,Neg,Nev,5,Maryland,,
+241,,315,4802,Navahoe St,Gray,Cheryl C.,Daughter,Gray,Clarence A,F,Neg,Nev,3,Maryland,,
+242,,315,4802,Navahoe St,Gray,Lester M.,Son,Gray,Clarence A,M,Neg,Nev,2,Maryland,,
+243,,316,trailer,Navahoe St,Smith,James G,Head,Smith,James G,M,Neg,Mar,39,Maryland,Plumber,Plumbing Shop
+244,,316,trailer,Navahoe St,Smith,Anna G.,Wife,Smith,James G,F,Neg,Mar,29,Maryland,,
+245,,316,trailer,Navahoe St,Smith,William,Son,Smith,James G,M,Neg,Nev,11,Maryland,,
+246,,316,trailer,Navahoe St,Smith,Harriet,Daughter,Smith,James G,F,Neg,Nev,10,Maryland,,
+247,,316,trailer,Navahoe St,Smith,John,Son,Smith,James G,M,Neg,Nev,9,Maryland,,
+248,,316,trailer,Navahoe St,Smith,Arura Virginia,Daughter,Smith,James G,F,Neg,Nev,8,Maryland,,
+249,,316,trailer,Navahoe St,Smith,Walter,Son,Smith,James G,M,Neg,Nev,5,Maryland,,
+250,,316,trailer,Navahoe St,Smith,Mary Belle,Daughter,Smith,James G,F,Neg,Nev,4,Maryland,,
+251,,316,trailer,Navahoe St,Smith,Clarence,Son,Smith,James G.,M,Neg,Nev,3,Maryland,,
+252,,316,trailer,Navahoe St,Smith,Francis,Son,Smith,James G.,M,Neg,Nev,2,Maryland,,
+253,,317,8303,48th Ave,Adams,Joseph,Head,Adams,Joseph,M,Neg,Mar,37,Maryland,,
+254,,317,8303,48th Ave,Adams,Catherine,Wife,Adams,Joseph,F,Neg,Mar,30,Maryland,,
+255,,317,8303,48th Ave,Adams,Helen,Daughter,Adams,Joseph,F,Neg,Nev,12,Maryland,,
+256,,317,8303,48th Ave,Adams,Rose Mar,Daughter,Adams,Joseph,F,Neg,Nev,10,Maryland,,
+257,,317,8303,48th Ave,Adams,Alice L,Daughter,Adams,Joseph,F,Neg,Nev,6,Maryland,,
+258,,317,8303,48th Ave,Adams,Joseph Jr,Son,Adams,Joseph,M,Neg,Nev,July,Maryland,,
+259,,317,8303,48th Ave,Smith,Bernard,Cousin,Adams,Joseph,M,Neg,Nev,40,Maryland,,
+260,,318,4011,Navahoe St,Smith,George,Head,Smith,George,M,Neg,Mar,38,Maryland,Laborer,Sanitary Commission
+261,,318,4011,Navahoe St,Smith,Willa M.,Wife,Smith,George,F,Neg,Mar,32,North Carolina,,
+262,,318,4011,Navahoe St,Smith,Betty V.,Daughter,Smith,George,F,Neg,Nev,15,Maryland,,
+263,,318,4011,Navahoe St,Smith,Willie R.,Daughter,Smith,George,F,Neg,Nev,12,Maryland,,
+264,,318,4011,Navahoe St,Smith,Vilma M.,Daughter,Smith,George,F,Neg,Nev,12,Maryland,,
+265,,318,4011,Navahoe St,Smith,Audrey J.,Daughter,Smith,George,F,Neg,Nev,10,Maryland,,
+266,,318,4011,Navahoe St,Smith,Phyllis D.,Daughter,Smith,George,F,Neg,Nev,7,Maryland,,
+267,,318,4011,Navahoe St,Smith,George Jr.,Son,Smith,George,M,Neg,Nev,4,Maryland,,
+268,,319,4819,Navahoe St,Jackson,Sarah,Head,Jackson,Sarah,F,Neg,Wd,47,Maryland,Domestic Helper,Private Homes
+269,,319,4819,Navahoe St,Jackson,Dorothy.,Daughter,Jackson,Sarah,F,Neg,Nev,23,Maryland,,
+270,,319,4819,Navahoe St,Jackson,Earnestine,Daughter,Jackson,Sarah,F,Neg,Nev,22,Maryland,,
+271,,319,4819,Navahoe St,Jackson,Mary,Daughter,Jackson,Sarah,F,Neg,Nev,17,Maryland,,
+272,,319,4819,Navahoe St,Jackson,Laurence,Son,Jackson,Sarah,M,Neg,Nev,12,Maryland,,
+273,,319,4819,Navahoe St,Jackson,Elva,Grand Daughter,Jackson,Sarah,F,Neg,Nev,9,Maryland,,
+274,,319,4819,Navahoe St,McGee,Carolyn,Grand Daughter,Jackson,Sarah,F,Neg,Nev,8,Maryland,,
+275,,319,4819,Navahoe St,McGee,Marva,Grand Daughter,Jackson,Sarah,F,Neg,Nev,6,Maryland,,
+276,,320,4820,Navahoe St,Potts,Edward,Head,Potts,Edward,M,Neg,Mar,34,North Carolina,Shop Worker,Service Station
+277,,320,4820,Navahoe St,Potts,Amy,Wife,Potts,Edward,F,Neg,Mar,31,Maryland,,
+278,,320,4820,Navahoe St,Potts,Shirley,Daughter,Potts,Edward,F,Neg,Nev,13,Maryland,,
+279,,320,4820,Navahoe St,Potts,Edward J,Son,Potts,Edward,M,Neg,Nev,12,Maryland,,
+280,,320,4820,Navahoe St,Potts,Patricia,Daughter,Potts,Edward,F,Neg,Nev,11,Maryland,,
+281,,141,4400,Pierce Ave,Tolson,James,Head,Tolson,James,M,Neg,Mar,41,Maryland,Truck Driver,Coal And Feed Company
+282,,141,4400,Pierce Ave,Tolson,Gertrude,Wife,Tolson,James,F,Neg,Mar,43,West Virginia,General House Day Worker,Private Houses
+283,,142,5102,Pierce Ave,Conway,Thomas,Head,Conway,Thomas,,Neg,Mar,50,Maryland,,
+284,,142,5102,Pierce Ave,Lewis,George,Head,Lewis,George,,Neg,Mar,42,Maryland,,
+285,,142,5102,Pierce Ave,Lewis,Hattie,Wife,Lewis,George,,Neg,Mar,40,Maryland,,
+286,,143,5100,Pierce Ave,Gross,Rosie,Head,Gross,Rosie,,Neg,Wd,52,Maryland,General Cleaning,State University
+287,,143,5100,Pierce Ave,Jones,Cora,Daughter,Gross,Rosie,,Neg,Sep,35,Maryland,General Housework,Private Homes
+288,,143,5100,Pierce Ave,Barnett,John,Lodger,Gross,Rosie,,Neg,Wd,64,Alabama,Day Laborer,Private Home
+289,,143,5100,Pierce Ave,Hughes,Ferdinand,Lodger,Gross,Rosie,M,Neg,Mar,50,Maryland,,
+290,,143,5100,Pierce Ave,Hughes,Georganna,Lodger,Gross,Rosie,F,Neg,Mar,49,Maryland,Domestic Work,Private Homes
+291,,143,5100,Pierce Ave,Butler,Joe,Lodger,Gross,Rosie,M,Neg,Nen,38,Maryland,,
+292,,143,5100,Pierce Ave,Gross,Rudolph,Grandson,Gross,Rosie,M,Neg,Nev,23,Maryland,"Waiter, Dish Washer",Restaurant
+293,,146,511,Lakeland Rd,Dory,Maria,Head,Dory,Maria,F,Neg,Wd,53,Maryland,,
+294,,146,511,Lakeland Rd,Johnson,William H,Grand Son,Dory,Maria,M,Neg,Nev,11,Maryland,,
+295,,146,511,Lakeland Rd,Johnson,Charles,Son,Dory,Maria,M,Neg,Nev,22,Maryland,,
+296,,27,5404,Cleveland Ave,Walls,Theresa C,Sister In Law,Sands,Edward,F,Neg,Mar,48,District of Columbia,Elevator Operator,Department Of Labor
+297,,27,5404,Cleveland Ave,Sands,Genevieve,Daughter,Sands,Edward,F,Neg,Nev,18,District of Columbia,,
+298,,25,,Cleveland Ave,Hamlett,Charles L.,Head,Hamlett,Charles L.,M,Neg,Mar,52,Pennsylvania,,
+299,,25,,Cleveland Ave,Hamlett,Nettie R.,Wife,Hamlett,Charles L.,F,Neg,Mar,40,Maryland,,
+300,,25,,Cleveland Ave,Hamlett,John L.,Son,Hamlett,Charles L.,,Neg,Nev,19,Maryland,,
+301,,25,,Cleveland Ave,Hamlett,Mary E.,Daughter,Hamlett,Charles L.,,Neg,Nev,18,Maryland,,
+302,,25,,Cleveland Ave,Fields,Edith L.,Daughter,Hamlett,Charles L.,,Neg,Mar,20,Maryland,,
+303,,25,,Cleveland Ave,Fields,Valerie V.,Grand Daughter,Hamlett,Charles L.,,Neg,Nev,1,Maryland,,
+304,,25,,Cleveland Ave,Fields,Leah F.,Grand Daughter,Hamlett,Charles L.,,Neg,Nev,October,Maryland,,
+305,,22,,Albany Ave,Edwards,James W.,Head,Edwards,James W,,Neg,Mar,35,Maryland,General,Undertaking Business
+306,,22,,Albany Ave,Edwards,Martha,Wife,Edwards,James W,,Neg,Mar,37,Maryland,,
+307,,22,,Albany Ave,Edwards,James W. Jr,Son,Edwards,James W,,Neg,Nev,6,Maryland,,
+308,,22,,Albany Ave,Ogle,Clare,Niece,Edwards,James W,,Neg,Nev,16,Maryland,General Housework,Private Family
+309,,23,,Albany Ave,Cameron,Andrew,Head,Cameron,Andrew,,Neg,Mar,37,North Carolina,Laborer,
+310,,23,,Albany Ave,Cameron,Pearl,Wife,Cameron,Andrew,,Neg,Mar,39,North Carolina,General Housework,Private Family
+311,,23,8913,54th Ave,Lomax,Charles A.,Head,Lomax,Charles A,,Neg,Mar,47,Maryland,Janitor,Hardware
+312,,23,8913,54th Ave,Lomax,Etlka,Wife,Lomax,Charles A,,Neg,Mar,46,Maryland,General Housework,Private Families
+313,,23,8913,54th Ave,Lomax,Dervey A.,Son,Lomax,Charles A,,Neg,Nev,24,Maryland,Janitor,Bank
+314,,18,,Richmond,Davis,Aline T,Head,Davis,Aline,F,Neg,Wd,55,Maryland,General Housework,Private Family
