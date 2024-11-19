@@ -3460,3 +3460,5 @@
 2024-11-19 10:19:03,046 - ERROR: Error inserting person at index 180: {'code': 'PGRST204', 'details': None, 'hint': None, 'message': "Could not find the 'census_year' column of 'person' in the schema cache"}
 2024-11-19 10:19:03,105 - ERROR: Error inserting person at index 181: {'code': 'PGRST204', 'details': None, 'hint': None, 'message': "Could not find the 'census_year' column of 'person' in the schema cache"}
 2024-11-19 10:19:03,257 - ERROR: Error inserting person at index 182: {'code': 'PGRST204', 'details': None, 'hint': None, 'message': "Could not find the 'census_year' column of 'person' in the schema cache"}
+2024-11-19 10:19:03,357 - ERROR: Error inserting person at index 183: {'code': 'PGRST204', 'details': None, 'hint': None, 'message': "Could not find the 'census_year' column of 'person' in the schema cache"}
+2024-11-19 10:19:03,450 - ERROR: Error inserting person at index 184: {'code': 'PGRST204', 'details': None, 'hint': None, 'message': "Could not find the 'census_year' column of 'person' in the schema cache"}
