@@ -1,0 +1,798 @@
+source_pk,census_year,person_id,record_id,attribute_id,family_id,first_name,last_name,dwelling,family,relation_to_hoh,hoh_first_name,hoh_last_name,sex,race,age,marital_status,work,business,owned_rented,occupation_id,marital_level_id,ownership_id,relationship_id
+1,1900,1,0,228,0,Ezra,Vanvalkenburg,32,32,Head,Ezra,Vanvalkenburg,Male,White,58,Married,Merchant,Unknown,Owner,124,2,0,24
+2,1900,2,0,214,0,Hattie,Vanvalkenburg,32,32,Wife,Ezra,Vanvalkenburg,Female,White,56,Married,Unknown,Unknown,Unknown,165,2,2,46
+3,1900,3,0,219,0,William,Vanvalkenburg,32,32,Son,Ezra,Vanvalkenburg,Male,White,22,Single,Bakes Bread,Unknown,Unknown,10,8,2,41
+4,1900,4,0,218,0,Jay,Vanvalkenburg,32,32,Son,Ezra,Vanvalkenburg,Male,White,20,Single,Baker,Unknown,Unknown,9,8,2,41
+5,1900,5,0,208,0,Jessie,Vanvalkenburg,32,32,Son,Ezra,Vanvalkenburg,Female,White,15,Single,At School,Unknown,Unknown,3,8,2,41
+6,1900,6,1,224,1,John Henry,Flanagan,33,33,Head,John Henry,Flanagan,Male,White,38,Married,Jewelry,Unknown,Owner,81,2,0,24
+7,1900,7,1,212,1,Minnie,Flanagan,33,33,Wife,John Henry,Flanagan,Female,White,37,Married,Unknown,Unknown,Unknown,165,2,2,46
+8,1900,8,1,217,1,Willard,Flanagan,33,33,Son,John Henry,Flanagan,Male,White,11,Single,At School,Unknown,Unknown,3,8,2,41
+9,1900,9,1,216,1,John H,Flanagan,33,33,Son,John Henry,Flanagan,Male,White,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+10,1900,10,1,206,1,Cornelia M,Flanagan,33,33,Daughter,John Henry,Flanagan,Female,White,2,Single,Unknown,Unknown,Unknown,165,8,2,8
+11,1900,11,1,211,1,Belle M,Tracey,33,33,Sister,John Henry,Flanagan,Female,White,30,Single,Trained Nurse,Unknown,Unknown,155,8,2,37
+12,1900,12,2,99,2,John,Johnson,34,34,Head,John,Johnson,Male,Black,30,Married,Rr Laborer,Unknown,Renter,140,2,1,24
+13,1900,13,2,27,2,Sarah,Johnson,34,34,Wife,John,Johnson,Female,Black,26,Married,Unknown,Unknown,Unknown,165,2,2,46
+14,1900,14,2,8,2,Mamie E,Johnson,34,34,Daughter,John,Johnson,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,8
+15,1900,15,2,75,2,John M,Johnson,34,34,Son,John,Johnson,Male,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,41
+16,1900,16,2,73,2,Joseph,Johnson,34,34,Son,John,Johnson,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,41
+17,1900,17,3,92,3,William H,Whalen,35,35,Head,William H,Whalen,Male,Black,23,Married,Rr Laborer,Unknown,Renter,140,2,1,24
+18,1900,18,3,22,3,Sarah F,Whalen,35,35,Wife,William H,Whalen,Female,Black,21,Married,Unknown,Unknown,Unknown,165,2,2,46
+19,1900,19,3,1,3,Rosa,Whalen,35,35,Daughter,William H,Whalen,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,8
+20,1900,20,7,223,7,Harry J,Patterson,36,36,Head,Harry J,Patterson,Male,White,33,Married,Agriculture Farm,Unknown,Owner,1,2,0,24
+21,1900,21,7,210,7,Elizabeth H,Patterson,36,36,Wife,Harry J,Patterson,Female,White,27,Married,Unknown,Unknown,Unknown,165,2,2,46
+22,1900,22,7,207,7,Blanche B.,Patterson,36,36,Daughter,Harry J,Patterson,Female,White,3,Single,Unknown,Unknown,Unknown,165,8,2,8
+23,1900,23,7,39,7,Sallie,Adams,36,36,Servant,Harry J,Patterson,Female,Black,38,Widowed,Servant,Unknown,Unknown,143,12,2,35
+24,1900,24,8,223,8,Willis G,Johnson,37,38,Head,Willis G,Johnson,Male,White,33,Married,Teacher,Unknown,Owner,151,2,0,24
+25,1900,25,8,222,8,Fannie P,Johnson,37,38,Wife,Willis G,Johnson,Male,White,28,Married,Unknown,Unknown,Unknown,165,2,2,46
+26,1900,26,8,216,8,Chester P,Johnson,37,38,Son,Willis G,Johnson,Male,White,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+27,1900,27,8,206,8,Hellen S,Johnson,37,38,Daughter,Willis G,Johnson,Female,White,2,Single,Unknown,Unknown,Unknown,165,8,2,8
+28,1900,28,8,20,8,Francis,Dorey,37,38,Servant,Willis G,Johnson,Female,Black,19,Single,Cook,Unknown,Unknown,34,8,2,35
+29,1900,29,4,110,4,Alvin,Johnson,35,39,Head,Alvin,Johnson,Male,Black,42,Married,Farm Laborer,Unknown,Renter,54,2,1,24
+30,1900,30,4,37,4,Ellen,Johnson,35,39,Wife,Alvin,Johnson,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,46
+31,1900,31,4,86,4,Charles,Johnson,35,39,Son,Alvin,Johnson,Male,Black,17,Single,Rr Laborer,Unknown,Unknown,140,8,2,41
+32,1900,32,5,93,5,Charlie,Dory,35,40,Head,Charlie,Dory,Male,Black,24,Married,Cook,Unknown,Renter,34,2,1,24
+33,1900,33,5,21,5,Cornelia M,Dory,35,40,Wife,Charlie,Dory,Female,Black,20,Married,Unknown,Unknown,Unknown,165,2,2,46
+34,1900,34,5,2,5,Helen M,Dory,35,40,Daughter,Charlie,Dory,Female,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,8
+35,1900,35,5,69,5,William E,Dory,35,40,Son,Charlie,Dory,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,41
+36,1900,36,9,225,9,Warren S,Taliaferro,40,42,Head,Warren S,Taliaferro,Male,White,43,Married,Teacher,Unknown,Renter,151,2,1,24
+37,1900,37,9,221,9,Emily,Taliaferro,40,42,Wife,Warren S,Taliaferro,Male,White,27,Married,Unknown,Unknown,Unknown,165,2,2,46
+38,1900,38,9,29,9,Belle,Shoud,40,42,Servant,Warren S,Taliaferro,Female,Black,28,Single,Housekeeper,Unknown,Unknown,70,8,2,35
+39,1900,39,10,44,10,Nanie,Hall,43,45,Servant,William H,Carroll,Female,Black,44,Widowed,Housekeeper,Unknown,Unknown,70,12,2,35
+40,1900,40,11,41,11,Sarah,West,45,47,Servant,Walter,Robinson,Female,Black,40,Widowed,Housekeeper,Unknown,Unknown,70,12,2,35
+41,1900,41,11,9,11,Annie,West,45,47,Servant,Robinson,Walter,Female,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,35
+42,1900,42,12,23,12,Alice,Robinson,46,48,Servant,Huey B,McDonnell,Female,Black,22,Single,Unknown,Unknown,Unknown,165,8,2,35
+43,1900,43,13,102,13,Samuel,Hughs,47,49,Head,Samuel,Hughs,Male,Black,34,Married,Farm Laborer,Unknown,Renter,54,2,1,24
+44,1900,44,13,33,13,Harriet,Hughs,47,49,Wife,Samuel,Hughs,Female,Black,32,Married,Unknown,Unknown,Unknown,165,2,2,46
+45,1900,45,13,17,13,Bee,Hughs,47,49,Daughter,Samuel,Hughs,Female,Black,16,Single,At School,Unknown,Unknown,3,8,2,8
+46,1900,46,13,12,13,Effie,Hughs,47,49,Daughter,Samuel,Hughs,Female,Black,11,Single,At School,Unknown,Unknown,3,8,2,8
+47,1900,47,13,7,13,Mary,Hughs,47,49,Daughter,Samuel,Hughs,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+48,1900,48,13,71,13,Freddie,Hughs,47,49,Son,Samuel,Hughs,Male,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,41
+49,1900,49,14,106,14,George,Gross,47,50,Head,George,Gross,Male,Black,38,Married,Farm Laborer,Unknown,Unknown,54,2,2,24
+50,1900,50,14,24,14,Rosa,Gross,47,50,Wife,George,Gross,Female,Black,23,Married,Unknown,Unknown,Unknown,165,2,2,46
+51,1900,51,14,1,14,Lucille,Gross,47,50,Daughter,George,Gross,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,8
+52,1900,52,15,41,15,Fanny,Walters,48,51,Head,Fanny,Walters,Female,Black,40,Single,Housekeeper,Unknown,Renter,70,8,1,24
+53,1900,53,15,92,15,James,Walters,48,51,Son,Fanny,Walters,Male,Black,23,Married,Farm Laborer,Unknown,Unknown,54,2,2,41
+54,1900,54,15,89,15,Robert,Walters,48,51,Son,Fanny,Walters,Male,Black,20,Single,Farm Laborer,Unknown,Unknown,54,8,2,41
+55,1900,55,16,122,16,Samuel,Stewart,49,52,Head,Samuel,Stewart,Male,Black,54,Married,Farm Laborer,Unknown,Renter,54,2,1,24
+56,1900,56,16,43,16,Gorgania,Stewart,49,52,Wife,Samuel,Stewart,Female,Black,43,Married,Unknown,Unknown,Unknown,165,2,2,46
+57,1900,57,16,18,16,Bertha,Stewart,49,52,Daughter,Samuel,Stewart,Female,Black,17,Single,Servant,Unknown,Unknown,143,8,2,8
+58,1900,58,16,16,16,Sarah,Stewart,49,52,Daughter,Samuel,Stewart,Female,Black,15,Single,Student,Unknown,Unknown,147,8,2,8
+59,1900,59,16,82,16,Charles,Stewart,49,52,Son,Samuel,Stewart,Male,Black,13,Single,Servant,Unknown,Unknown,143,8,2,41
+60,1900,60,16,13,16,Daisey,Stewart,49,52,Daughter,Samuel,Stewart,Female,Black,12,Single,Student,Unknown,Unknown,147,8,2,8
+61,1900,61,16,79,16,John H,Stewart,49,52,Son,Samuel,Stewart,Male,Black,10,Single,Unknown,Unknown,Unknown,165,8,2,41
+62,1900,62,16,77,16,George,Stewart,49,52,Son,Samuel,Stewart,Male,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,41
+63,1900,63,16,6,16,Martha,Stewart,49,52,Daughter,Samuel,Stewart,Female,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,8
+64,1900,64,17,113,17,John,Newman,50,53,Head,John,Newman,Male,Black,45,Married,Day Laborer,Unknown,Renter,36,2,1,24
+65,1900,65,17,30,17,Mary,Newman,50,53,Wife,John,Newman,Female,Black,29,Married,Unknown,Unknown,Unknown,165,2,2,46
+66,1900,66,18,113,18,Larkin,Johnsen,54,57,Head,Larkin,Johnsen,Male,Black,45,Married,Farm Laborer,Unknown,Unknown,54,2,2,24
+67,1900,67,18,42,18,Della,Johnsen,54,57,Wife,Larkin,Johnsen,Female,Black,42,Married,Unknown,Unknown,Unknown,165,2,2,46
+68,1900,68,18,19,18,Hattie,Johnsen,54,57,Daughter,Larkin,Johnsen,Female,Black,18,Single,Unknown,Unknown,Unknown,165,8,2,8
+69,1900,69,18,85,18,Aaron,Johnsen,54,57,Son,Larkin,Johnsen,Male,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,41
+70,1900,70,19,106,19,Samuel,Dotson,55,58,Head,Samuel,Dotson,Male,Black,38,Married,Farm Laborer,Unknown,Renter,54,2,1,24
+71,1900,71,19,32,19,Fanny,Dotson,55,58,Wife,Samuel,Dotson,Female,Black,31,Married,Unknown,Unknown,Unknown,165,2,2,46
+72,1900,72,19,8,19,Sarah,Dotson,55,58,Daughter,Samuel,Dotson,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,8
+73,1900,73,19,7,19,Saddie,Dotson,55,58,Daughter,Samuel,Dotson,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+74,1900,74,19,4,19,Kattie,Dotson,55,58,Daughter,Samuel,Dotson,Female,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,8
+75,1900,75,19,70,19,Alfred,Dotson,55,58,Son,Samuel,Dotson,Male,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,41
+76,1900,76,19,5,19,Francis,Brooks,55,58,Boarder,Samuel,Dotson,Female,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,1
+77,1900,77,19,24,19,Eith,Falls,55,58,Boarder,Samuel,Dotson,Female,Black,23,Single,Housekeeper,Unknown,Unknown,70,8,2,1
+78,1900,78,19,91,19,Moses,Smith,55,58,Boarder,Samuel,Dotson,Male,Black,22,Single,Day Laborer,Unknown,Unknown,36,8,2,1
+79,1900,79,19,36,19,Sarah,Walls,55,58,Boarder,Samuel,Dotson,Female,Black,35,Single,Servant,Unknown,Unknown,143,8,2,1
+80,1900,80,19,10,19,Annie,Walls,55,58,Boarder,Samuel,Dotson,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,1
+81,1900,81,19,113,19,Samuel,Song,55,58,Boarder,Samuel,Dotson,Male,Black,45,Single,Farm Laborer,Unknown,Unknown,54,8,2,1
+82,1900,82,20,24,20,Rose,Anderson,58,61,Servant,Ambrose,Bart,Female,Black,23,Single,Servant,Unknown,Unknown,143,8,2,35
+83,1900,83,21,105,21,James,Johnson,60,63,Head,James,Johnson,Male,Black,37,Married,Day Laborer,Unknown,Renter,36,2,1,24
+84,1900,84,21,37,21,Nannie,Johnson,60,63,Wife,James,Johnson,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,46
+85,1900,85,21,16,21,Susey,Johnson,60,63,Daughter,James,Johnson,Female,Black,15,Single,Servant,Unknown,Unknown,143,8,2,8
+86,1900,86,21,14,21,Susan,Johnson,60,63,Daughter,James,Johnson,Female,Black,13,Single,Servant,Unknown,Unknown,143,8,2,8
+87,1900,87,21,10,21,Rosa,Johnson,60,63,Daughter,James,Johnson,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+88,1900,88,21,7,21,Mary,Johnson,60,63,Daughter,James,Johnson,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+89,1900,89,21,73,21,James,Johnson,60,63,Son,James,Johnson,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,41
+90,1900,90,21,70,21,Charles,Johnson,60,63,Son,James,Johnson,Male,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,41
+91,1900,91,21,100,21,Thomas,Walls,60,63,Brother-In-Law,James,Johnson,Male,Black,31,Married,Day Laborer,Unknown,Renter,36,2,1,5
+92,1900,92,21,27,21,Ella,Walls,60,63,Sister-In Law,James,Johnson,Female,Black,26,Married,Unknown,Unknown,Unknown,165,2,2,39
+93,1900,93,22,141,22,William H,Wallis,61,64,Head,William H,Wallis,Male,Black,79,Married,Day Laborer,Unknown,Unknown,36,2,2,24
+94,1900,94,22,48,22,Mary P,Wallis,61,64,Wife,William H,Wallis,Female,Black,48,Married,Unknown,Unknown,Unknown,165,2,2,46
+95,1900,95,22,83,22,Harry J,Wallis,61,64,Son,William H,Wallis,Male,Black,14,Single,Day Laborer,Unknown,Unknown,36,8,2,41
+96,1900,96,22,81,22,Raymond,Wallis,61,64,Son,William H,Wallis,Male,Black,12,Single,Day Laborer,Unknown,Unknown,36,8,2,41
+97,1900,97,22,12,22,Sarah E,Wallis,61,64,Daughter,William H,Wallis,Female,Black,11,Single,Student,Unknown,Unknown,147,8,2,8
+98,1900,98,22,79,22,Joseph C,Wallis,61,64,Son,William H,Wallis,Male,Black,10,Single,Unknown,Unknown,Unknown,165,8,2,41
+99,1900,99,23,106,23,Benjamin,Douglas,62,65,Head,Benjamin,Douglas,Male,Black,38,Married,Day Laborer,Unknown,Renter,36,2,1,24
+100,1900,100,23,36,23,Rebeca,Douglas,62,65,Wife,Benjamin,Douglas,Female,Black,35,Married,Unknown,Unknown,Unknown,165,2,2,46
+101,1900,101,23,15,23,Ida,Douglas,62,65,Daughter,Benjamin,Douglas,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,8
+102,1900,102,23,14,23,Olevia,Douglas,62,65,Daughter,Benjamin,Douglas,Female,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,8
+103,1900,103,23,10,23,May,Douglas,62,65,Daughter,Benjamin,Douglas,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+104,1900,104,24,94,24,Joseph,Crowdy,62,66,Head,Joseph,Crowdy,Male,Black,25,Married,Day Laborer,Unknown,Renter,36,2,1,24
+105,1900,105,25,26,25,Mary,Crowdy,62,67,Wife,Joseph,Crowdy,Female,Black,25,Married,Unknown,Unknown,Unknown,165,2,2,46
+106,1900,106,26,117,26,Sandy,Jackson,63,67,Head,Sandy,Jackson,Male,Black,49,Married,Day Laborer,Unknown,Renter,36,2,1,24
+107,1900,107,27,14,27,Elenoar,Hart,64,68,Head,Elenoar,Hart,Female,Black,13,Single,Housekeeper,Unknown,Renter,70,8,1,24
+108,1900,108,27,87,27,Ruben,Hart,64,68,Brother,Elenoar,Hart,Male,Black,18,Single,Day Laborer,Unknown,Unknown,36,8,2,3
+109,1900,109,27,78,27,Dudley,Hart,64,68,Brother,Elenoar,Hart,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,3
+110,1900,110,28,99,28,John,Smothers,64,69,Head,John,Smothers,Male,Black,30,Married,Day Laborer,Unknown,Renter,36,2,1,24
+111,1900,111,28,28,28,Emma,Smothers,64,69,Wife,John,Smothers,Female,Black,27,Married,Unknown,Unknown,Unknown,165,2,2,46
+112,1900,112,28,10,28,Julia,Smothers,64,69,Daughter,John,Smothers,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+113,1900,113,29,107,29,Ellis,Patton,66,71,Head,Ellis,Patton,Male,Black,39,Single,Day Laborer,Unknown,Renter,36,8,1,24
+114,1900,114,30,103,30,Monroe W,Richmond,67,72,Head,Monroe W,Richmond,Male,Black,35,Married,Unknown,Unknown,Renter,165,2,1,24
+115,1900,115,30,27,30,Josephine,Richmond,67,72,Wife,Monroe W,Richmond,Female,Black,26,Married,Unknown,Unknown,Unknown,165,2,2,46
+116,1900,116,30,98,30,Pink H,Richmond,67,72,Brother,Monroe W,Richmond,Male,Black,29,Single,Day Laborer,Unknown,Unknown,36,8,2,3
+117,1900,117,31,105,31,Spencer,Brisco,68,73,Head,Spencer,Brisco,Male,Black,37,Married,Day Laborer,Unknown,Renter,36,2,1,24
+118,1900,118,31,36,31,Julia,Brisco,68,73,Wife,Spencer,Brisco,Female,Black,35,Married,Day Laborer,Unknown,Unknown,36,2,2,46
+119,1900,119,31,15,31,Maggie,Brisco,68,73,Daughter,Spencer,Brisco,Female,Black,14,Single,Student,Unknown,Unknown,147,8,2,8
+120,1900,120,31,81,31,Linden,Brisco,68,73,Son,Spencer,Brisco,Male,Black,12,Single,Student,Unknown,Unknown,147,8,2,41
+121,1900,121,31,77,31,Benjiman,Brisco,68,73,Son,Spencer,Brisco,Male,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,41
+122,1900,122,31,75,31,William M,Brisco,68,73,Son,Spencer,Brisco,Male,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,41
+123,1900,123,31,4,31,Julia A,Brisco,68,73,Daughter,Spencer,Brisco,Female,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,8
+124,1900,124,31,70,31,Saks,Brisco,68,73,Son,Spencer,Brisco,Male,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,41
+125,1900,125,32,69,32,Andrew,Adams,69,74,Head,Andrew,Adams,Male,Black,0,Married,Farm Laborer,Unknown,Renter,54,2,1,24
+126,1900,126,32,21,32,Lottie,Adams,69,74,Wife,Andrew,Adams,Female,Black,20,Married,Unknown,Unknown,Unknown,165,2,2,46
+127,1900,127,33,45,33,Susan,Winfield,74,79,Servant,Frederick,Unknown,Female,Black,45,Widowed,Housekeeper,Unknown,Unknown,70,12,2,35
+128,1900,128,34,45,34,Sylvia A,Newman,80,87,Servant,Frank L,Middleton,Female,Black,45,Married,Servant,Unknown,Unknown,143,2,2,35
+129,1900,129,34,92,34,Thomas,Johnson,80,87,Servant,Frank L,Middleton,Male,Black,23,Single,Day Laborer,Unknown,Unknown,36,8,2,35
+130,1900,130,35,123,35,Lewis,Brown,81,88,Head,Lewis,Brown,Male,Black,55,Married,Unknown,Unknown,Unknown,165,2,2,24
+131,1900,131,35,45,35,A,Brown,81,88,Wife,Lewis,Brown,Female,Black,45,Married,Unknown,Unknown,Unknown,165,2,2,46
+132,1900,132,6,21,6,Belle,Brown,35,88,Daughter,Lewis,Brown,Female,Black,20,Single,Unknown,Unknown,Unknown,165,8,2,8
+133,1900,133,35,74,35,Isaac,Brown,81,88,Grandson,Lewis,Brown,Male,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,20
+134,1900,134,35,3,35,Hannah,Brown,81,88,Granddaughter,Lewis,Brown,Female,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,18
+135,1900,135,36,41,36,Claria,Wallace,118,125,Servant,Ewell A,Dick,Female,Black,40,Widowed,Servant,Unknown,Unknown,143,12,2,35
+136,1900,136,37,85,37,Joseph,Brent,120,127,Servant,William,Davis,Male,Black,16,Single,Servant,Unknown,Unknown,143,8,2,35
+137,1900,137,38,24,38,Virginia,Hearns,121,128,Servant,James F,Meegan,Female,Black,23,Single,Servant,Unknown,Unknown,143,8,2,35
+138,1900,138,38,41,38,Jennie,Perkins,121,128,Servant,James F,Meegan,Female,Black,40,Widowed,Servant,Unknown,Unknown,143,12,2,35
+139,1900,139,39,124,39,Andrew,Hill,122,129,Head,Andrew,Hill,Male,Black,56,Married,Day Laborer,Unknown,Renter,36,2,1,24
+140,1900,140,39,29,39,Letha,Hill,122,129,Wife,Andrew,Hill,Female,Black,28,Married,Unknown,Unknown,Unknown,165,2,2,46
+141,1900,141,39,13,39,Emma P,Hill,122,129,Daughter,Andrew,Hill,Female,Black,12,Single,Student,Unknown,Unknown,147,8,2,8
+142,1900,142,39,76,39,David D,Hill,122,129,Son,Andrew,Hill,Male,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+143,1900,143,39,74,39,Andrew A,Hill,122,129,Son,Andrew,Hill,Male,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,41
+144,1900,144,39,3,39,Sarah,Hill,122,129,Daughter,Andrew,Hill,Female,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,8
+145,1900,145,39,49,39,Elizabeth A,Falls,122,129,Step Mother,Andrew,Hill,Female,Black,49,Widowed,Domestic Servant,Unknown,Unknown,45,12,2,43
+146,1900,146,39,120,39,Ellis,Rodgers,122,129,Boarder,Andrew,Hill,Male,Black,52,Single,Day Laborer,Unknown,Unknown,36,8,2,1
+147,1900,147,39,23,39,Mary,Simon,122,129,Boarder,Andrew,Hill,Female,Black,22,Single,Servant,Unknown,Unknown,143,8,2,1
+148,1900,148,40,112,40,Joseph,Tucker,127,134,Head,Joseph,Tucker,Male,Black,44,Married,Day Laborer,Unknown,Renter,36,2,1,24
+149,1900,149,40,110,40,Mary SP,Tucker,127,134,Wife,Joseph,Tucker,Male,Black,42,Married,Unknown,Unknown,Unknown,165,2,2,46
+150,1900,150,41,99,41,James,Gray,127,135,Head,James,Gray,Male,Black,30,Married,Day Laborer,Unknown,Renter,36,2,1,24
+151,1900,151,41,25,41,Eliza,Gray,127,135,Wife,James,Gray,Female,Black,24,Married,Unknown,Unknown,Unknown,165,2,2,46
+152,1900,152,41,73,41,McKinley,Gray,127,135,Son,James,Gray,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,41
+153,1900,153,41,72,41,James A,Gray,127,135,Son,James,Gray,Male,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,41
+154,1900,154,41,1,41,Susan,Gray,127,135,Daughter,James,Gray,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,8
+155,1900,155,41,89,41,Thomas,Gray,127,135,Brother,James,Gray,Male,Black,20,Single,Farm Laborer,Unknown,Unknown,54,8,2,3
+156,1900,156,43,102,43,Pleasant M,Brown,131,139,Head,Pleasant M,Brown,Male,Black,34,Married,Day Laborer,Unknown,Renter,36,2,1,24
+157,1900,157,43,29,43,Arden,Brown,131,139,Wife,Pleasant M,Brown,Female,Black,28,Married,Unknown,Unknown,Unknown,165,2,2,46
+158,1900,158,43,79,43,George,Brown,131,139,Son,Pleasant M,Brown,Male,Black,10,Single,Student,Unknown,Unknown,147,8,2,41
+159,1900,159,43,74,43,Edward M,Brown,131,139,Son,Pleasant M,Brown,Male,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,41
+160,1900,160,43,2,43,Mary M,Brown,131,139,Daughter,Pleasant M,Brown,Female,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,8
+161,1900,161,44,102,44,Edward S,Carter,132,140,Head,Edward S,Carter,Male,Black,34,Married,Pressman (Factory Office),Unknown,Owner,136,2,0,24
+162,1900,162,44,32,44,Cynthia,Carter,132,140,Wife,Edward S,Carter,Female,Black,31,Married,Unknown,Unknown,Unknown,165,2,2,46
+163,1900,163,45,15,45,Mary,Moseley,133,141,Servant,Hone S,Harman,Female,Black,14,Single,Servent,Unknown,Unknown,144,8,2,35
+164,1900,164,46,94,46,William J,Johnson,134,142,Head,William J,Johnson,Male,Black,25,Married,Farmer,Unknown,Renter,55,2,1,24
+165,1900,165,46,27,46,Charlotte,Johnson,134,142,Wife,William J,Johnson,Female,Black,26,Married,Unknown,Unknown,Unknown,165,2,2,46
+166,1900,166,46,2,46,Atonia E,Johnson,134,142,Daughter,William J,Johnson,Female,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,8
+167,1900,167,47,121,47,Joel,Chettem,135,143,Unknown,Joseph J,Boteler,Male,Black,53,Single,Farm Laborer,Unknown,Unknown,54,8,2,45
+168,1900,168,49,114,49,John,Weems,234,250,Head,John,Weems,Male,Black,46,Married,Farm Laborer,Unknown,Unknown,54,2,2,24
+169,1900,169,49,110,49,Laura V.,Weems,234,250,Wife,John,Weems,Male,Black,42,Single,Unknown,Unknown,Unknown,165,8,2,46
+170,1900,170,49,21,49,S?hia,Weems,234,250,Daughter,John,Weems,Female,Black,20,Single,Servant,Unknown,Unknown,143,8,2,8
+171,1900,171,49,86,49,Agusta J.,Weems,234,250,Son,John,Weems,Male,Black,17,Single,Farm Laborer,Unknown,Unknown,54,8,2,41
+172,1900,172,49,83,49,John A.,Weems,234,250,Son,John,Weems,Male,Black,14,Single,Farm Laborer,Unknown,Unknown,54,8,2,41
+173,1900,173,49,80,49,Morris,Weems,234,250,Son,John,Weems,Male,Black,11,Single,At School,Unknown,Unknown,3,8,2,41
+174,1900,174,49,78,49,Amma C,Weems,234,250,Son,John,Weems,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,41
+175,1900,175,49,74,49,Joseph,Weems,234,250,Son,John,Weems,Male,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,41
+176,1900,176,48,101,48,Cornelius,Tabbs,137,145,Head,Cornelius,Tabbs,Male,Black,32,Married,Farm Laborer,Unknown,Unknown,54,2,2,24
+177,1900,177,48,29,48,Nancy P.,Tabbs,137,145,Wife,Cornelius,Tabbs,Female,Black,28,Married,Unknown,Unknown,Unknown,165,2,2,46
+178,1900,178,48,72,48,William C.,Tabbs,137,145,Son,Cornelius,Tabbs,Male,Black,3,Single,Unknown,Unknown,Renter,165,8,1,41
+179,1900,179,48,21,48,Sarah,Gross,137,145,Sister-In Law,Cornelius,Tabbs,Female,Black,20,Single,Servant,Unknown,Unknown,143,8,2,39
+180,1900,180,48,71,48,Charles,Gross,137,145,Nephew,Cornelius,Tabbs,Male,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,32
+181,1900,181,48,69,48,John,Gross,137,145,Nephew,Cornelius,Tabbs,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,32
+182,1900,182,48,19,48,Bessie,Duke,137,145,Niece,Cornelius,Tabbs,Female,Black,18,Single,Servant,Unknown,Unknown,143,8,2,34
+183,1900,183,42,227,42,John J,Klimer,128,136,Head,John J,Kliner,Male,White,55,Married,Agent (Real Estate),Unknown,Owner,0,2,0,24
+184,1900,184,42,213,42,Hellen,Kliner,128,136,Wife,John J,kliner,Female,White,48,Married,Unknown,Unknown,Unknown,165,2,2,46
+185,1900,185,42,220,42,John J Jr,Kliner,128,136,Son,John J,Kliner,Male,White,25,Single,Agent (Real Estate),Unknown,Unknown,0,8,2,41
+186,1900,186,42,209,42,Ellen,Kliner,128,136,Servent,John J,Kliner,Female,White,21,Single,Teacher,Unknown,Unknown,151,8,2,36
+1,1920,1,77,37,77,Annie L,Hicks,0,125,Wife,Unknown,Unknown,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,46
+2,1920,2,77,16,77,Madeline S,Hicks,0,125,Daughter,Unknown,Unknown,Female,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,8
+3,1920,3,77,13,77,Ethel A,Hicks,0,125,Daughter,Unknown,Unknown,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+4,1920,4,78,94,78,Robert C,Brooks,0,126,Head,Robert C,Brooks,Male,Black,25,Married,Cheff,Maryland State College,Renter,21,2,1,24
+5,1920,5,78,25,78,Mary E,Brooks,0,126,Wife,Robert C,Brooks,Female,Black,24,Married,Unknown,Unknown,Unknown,165,2,2,46
+6,1920,6,78,1,78,Anetha H,Brooks,0,126,Daughter,Robert C,Brooks,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,8
+7,1920,7,79,47,79,Mary,Hawkins,0,127,Head,Mary,Hawkins,Female,Black,47,Married,Wash and Iron,At Home,Renter,175,2,1,24
+8,1920,8,79,15,79,John C,Hawkins,0,127,Son,Mary,Hawkins,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,41
+9,1920,9,79,82,79,Chas H,Hawkins,0,127,Son,Mary,Hawkins,Male,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,41
+10,1920,10,79,5,79,Viola,Hawkins,0,127,Daughter,Mary,Hawkins,Female,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,8
+11,1920,11,79,64,79,Elice,Reed,0,127,Mother,Mary,Hawkins,Female,Black,68,Married,Unknown,Unknown,Unknown,165,10,2,30
+12,1920,12,79,82,79,Frank,Thomas,0,127,Grandson,Mary,Hawkins,Male,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,20
+13,1920,13,79,80,79,John,Thomas,0,127,Son,Mary,Hawkins,Male,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,41
+14,1920,14,79,48,79,Harriet,Hugh,0,127,Head,Harriet,Hugh,Female,Black,48,Married,Housework,Private Family,Owner,71,2,0,24
+15,1920,15,79,27,79,Beatrice,Thomas,0,127,Daughter,Harriet,Hugh,Female,Black,26,Married,Laundrying,Maryland State College,Unknown,110,2,2,8
+16,1920,16,79,26,79,Effie,Stewart,0,127,Daughter,Harriet,Hugh,Female,Black,25,Married,Unknown,Unknown,Unknown,165,2,2,8
+17,1920,17,79,91,79,Ferdinand,Hugh,0,127,Son,Harriet,Hugh,Male,Black,22,Single,Bus boy,Maryland State College,Unknown,14,8,2,41
+18,1920,18,79,6,79,Hattie,Hammond,0,127,Border,Harriet,Hugh,Female,Black,5,Unknown,Unknown,Unknown,Unknown,165,0,2,2
+19,1920,19,79,106,79,Joseph,Thomas,0,127,Son In Law,Harriet,Hugh,Male,Black,38,Married,Laborer,Govt,Unknown,92,2,2,42
+20,1920,20,80,121,80,Pleasant,Brown,0,129,Head,Pleasant,Brown,Male,Black,53,Married,Teaming,State Road,Owner,152,2,0,24
+21,1920,21,80,32,80,Ednor S,Brown,0,129,Wife,Pleasant,Brown,Female,Black,31,Married,Unknown,Unknown,Unknown,165,2,2,46
+22,1920,22,80,83,80,James W.,Brown,0,129,Son,Pleasant,Brown,Male,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,41
+23,1920,23,80,81,80,Wm P,Brown,0,129,Son,Pleasant,Brown,Male,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,41
+24,1920,24,80,79,80,Chas S,Brown,0,129,Son,Pleasant,Brown,Male,Black,10,Single,Unknown,Unknown,Unknown,165,8,2,41
+25,1920,25,80,9,80,Ednor C,Brown,0,129,Daughter,Pleasant,Brown,Female,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,8
+26,1920,26,80,8,80,Flayvella E,Brown,0,129,Daughter,Pleasant,Brown,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,8
+27,1920,27,80,5,80,Sarah B,Brown,0,129,Daughter,Pleasant,Brown,Female,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,8
+28,1920,28,80,71,80,Josep G,Brown,0,129,Son,Pleasant,Brown,Male,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,41
+29,1920,29,80,1,80,Hanna W,Brown,0,129,Daughter,Pleasant,Brown,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,8
+30,1920,30,81,107,81,George S,Randall,0,130,Head,George,Randall,Male,Black,39,Married,Laborer,RR Rd,Owner,96,2,0,24
+31,1920,31,81,35,81,Ellan M,Randall,0,130,Wife,George,Randall,Female,Black,34,Married,Unknown,Unknown,Unknown,165,2,2,46
+32,1920,32,81,86,81,Victor S,Randall,0,130,Son,George,Randall,Male,Black,17,Single,Cheff,Md St Col,Unknown,22,8,2,41
+33,1920,33,81,10,81,Lucy E,Randall,0,130,Daughter,George,Randall,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+34,1920,34,81,7,81,Dessie M,Randall,0,130,Daughter,George,Randall,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+35,1920,35,81,72,81,George S,Randall,0,130,Son,George,Randall,Male,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,41
+36,1920,36,81,69,81,Thomas A.,Randall,0,130,Son,George,Randall,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,41
+37,1920,37,50,53,50,Elizabeth A,Stevens,0,39,Head,Elizabeth A,Stevens,Female,Black,53,Married,Unknown,Unknown,Owner,165,10,0,24
+38,1920,38,50,105,50,Geo T,Taylor,0,39,Son In Law,Elizabeth A,Stevens,Male,Black,37,Married,Blacksmith,Mt Clare Shops,Unknown,11,2,2,42
+39,1920,39,50,35,50,France R,Taylor,0,39,Daughter,Elizabeth A,Stevens,Female,Black,34,Married,Unknown,Unknown,Unknown,165,2,2,8
+40,1920,40,50,78,50,Steven T,Taylor,0,39,Grandson,Elizabeth A,Stevens,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,20
+41,1920,41,50,73,50,Paul F,Taylor,0,39,Grandson,Elizabeth A,Stevens,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,20
+42,1920,42,50,106,50,John T,Roy,0,39,Son In Law,Elizabeth A,Stevens,Male,Black,38,Married,Unknown,Unknown,Unknown,165,2,2,42
+43,1920,43,50,38,50,Martha A,Roy,0,39,Daughter,Elizabeth A,Stevens,Female,Black,37,Married,Unknown,Unknown,Unknown,165,2,2,8
+44,1920,44,51,116,51,Joseph G,Brooks,0,40,Head,Joseph G,Brooks,Male,Black,48,Married,Switchman,RR Co,Owner,148,2,0,24
+45,1920,45,51,44,51,Rosia M,Brooks,0,40,Wife,Joseph G,Brooks,Female,Black,44,Married,Unknown,Unknown,Unknown,165,2,2,46
+46,1920,46,51,17,51,Sarah F,Brooks,0,40,Daughter,Joseph G,Brooks,Female,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,8
+47,1920,47,51,88,51,George F,Brooks,0,40,Son,Joseph G,Brooks,Male,Black,19,Single,Laborer,RR Co,Unknown,95,8,2,41
+48,1920,48,51,86,51,Joseph F,Brooks,0,40,Son,Joseph G,Brooks,Male,Black,17,Single,Laborer,RR Co,Unknown,95,8,2,41
+49,1920,49,51,82,51,Lawrence w,Brooks,0,40,Son,Joseph G,Brooks,Male,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,41
+50,1920,50,51,13,51,Rose E,Brooks,0,40,Daughter,Joseph G,Brooks,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+51,1920,51,51,79,51,Jacob C,Brooks,0,40,Son,Joseph G,Brooks,Male,Black,10,Single,Unknown,Unknown,Unknown,165,8,2,41
+52,1920,52,51,77,51,Vernon I,Brooks,0,40,Son,Joseph G,Brooks,Male,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,41
+53,1920,53,51,7,51,Ellen S,Brooks,0,40,Daughter,Joseph G,Brooks,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+54,1920,54,51,5,51,Pearl E,Brooks,0,40,Daughter,Joseph G,Brooks,Female,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,8
+55,1920,55,52,113,52,Chas C,Robinson,0,41,Head,Chas C.,Robinson,Male,Black,45,Married,Unknown,Unknown,Unknown,165,2,2,24
+56,1920,56,52,32,52,Sarah C,Robinson,0,41,Wife,Chas C.,Robinson,Female,Black,31,Married,Mach work,Fare cab,Unknown,111,2,2,46
+57,1920,57,52,5,52,Vivian,Robinson,0,41,Daughter,Chas C.,Robinson,Female,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,8
+58,1920,58,53,120,53,James H,Gray,0,42,Head,James H,Gray,Male,Black,52,Married,Paper Hanger,Gen Services,Owner,129,2,0,24
+59,1920,59,53,47,53,Eliza,Gray,0,42,Wife,James H,Gray,Female,Black,47,Married,Unknown,Unknown,Unknown,165,2,2,46
+60,1920,60,53,145,53,Wm H.,Gray,0,42,Son,James H,Gray,Unknown,Black,23,Married,Waiter,Lunch Room,Unknown,167,2,2,41
+61,1920,61,53,91,53,James A,Gray,0,42,Son,James H,Gray,Male,Black,22,Single,Waiter,Md St College,Unknown,169,8,2,41
+62,1920,62,53,21,53,Susie I,Gray,0,42,Daughter,James H,Gray,Female,Black,20,Single,Teacher,School,Unknown,150,8,2,8
+63,1920,63,53,19,53,Pauline I,Gray,0,42,Daughter,James H,Gray,Female,Black,18,Single,Unknown,Unknown,Unknown,165,8,2,8
+64,1920,64,53,85,53,Oscar E,Gray,0,42,Son,James H,Gray,Male,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,41
+65,1920,65,53,84,53,Louis R,Gray,0,42,Son,James H,Gray,Male,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,41
+66,1920,66,53,14,53,Eliza E,Gray,0,42,Daughter,James H,Gray,Female,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,8
+67,1920,67,53,78,53,Robert R,Gray,0,42,Son,James H,Gray,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,41
+68,1920,68,53,75,53,Clarence A,Gray,0,42,Son,James H,Gray,Male,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,41
+69,1920,69,53,14,53,Bertha,Harrod,0,42,Ad Daughter,James H,Gray,Female,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,0
+70,1920,70,54,107,54,Herbert,Williams,0,43,Head,Herbert,Williams,Male,Black,39,Married,Construction,Concrete work,Renter,27,2,1,24
+71,1920,71,54,36,54,Bertha,Williams,0,43,Wife,Herbert,Williams,Female,Black,35,Married,Unknown,Unknown,Unknown,165,2,2,46
+72,1920,72,54,80,54,James A,Williams,0,43,Son,Herbert,Williams,Male,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,41
+73,1920,73,54,78,54,Wesley T,Williams,0,43,Son,Herbert,Williams,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,41
+74,1920,74,54,76,54,Samuel R,Williams,0,43,Son,Herbert,Williams,Male,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+75,1920,75,54,72,54,Leroy K,Williams,0,43,Som,Herbert,Williams,Male,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,40
+76,1920,76,55,105,55,Wm,Jackson,0,44,Head,Wm,Jackson,Male,Black,37,Married,Laborer,RR Co,Renter,95,2,1,24
+77,1920,77,55,38,55,Hattie W,Jackson,0,44,Wife,Wm,Jackson,Female,Black,37,Married,Washerwoman,At Home,Unknown,176,2,2,46
+78,1920,78,55,84,55,Robert,Jackson,0,44,Son,Wm,Jackson,Male,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,41
+79,1920,79,55,14,55,Della,Jackson,0,44,Daughter,Wm,Jackson,Female,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,8
+80,1920,80,55,78,55,Howard,Jackson,0,44,Son,Wm,Jackson,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,41
+81,1920,81,56,103,56,George,Gross,0,45,Head,George,Gross,Male,Black,35,Married,Laborer,RR Co,Renter,95,2,1,24
+82,1920,82,56,33,56,Rosia S,Gross,0,45,Wife,George,Gross,Female,Black,32,Married,Washing & Ironing,At Home,Unknown,178,2,2,46
+83,1920,83,56,17,56,Marguerite,Gross,0,45,Daughter,George,Gross,Female,Black,16,Single,House work,Private family,Unknown,66,8,2,8
+84,1920,84,56,83,56,George H Jr,Gross,0,45,Son,George,Gross,Male,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,41
+85,1920,85,56,148,56,Cora W,Gross,0,45,Daughter,George,Gross,Unknown,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+86,1920,86,56,147,56,Alfred,Gross,0,45,Son,George,Gross,Unknown,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+87,1920,87,56,146,56,Harriet,Gross,0,45,Daughter,George,Gross,Unknown,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,8
+88,1920,88,57,97,57,Morris,Weathers,0,97,Head,Morris,Weathers,Male,Black,28,Married,Laborer,Farm,Renter,91,2,1,24
+89,1920,89,57,34,57,Minnie J,Weathers,0,97,Wife,Morris,Weathers,Female,Black,33,Married,Unknown,Unknown,Unknown,165,2,2,46
+90,1920,90,57,83,57,Chas E,Weathers,0,97,Son,Morris,Weathers,Male,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,41
+91,1920,91,57,81,57,Walter E,Weathers,0,97,Son,Morris,Weathers,Male,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,41
+92,1920,92,57,9,57,Florence J,Weathers,0,97,Daughter,Morris,Weathers,Female,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,8
+93,1920,93,57,8,57,Ada B.,Weathers,0,97,Daughter,Morris,Weathers,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,8
+94,1920,94,58,118,58,Wm D,Gross,0,98,Head,Wm,Gross,Male,Black,50,Married,Foreman,RR Rd,Owner,57,2,0,24
+95,1920,95,58,110,58,James J,Gross,0,98,Brother,Wm,Gross,Male,Black,42,Single,Laborer,St. Road,Unknown,102,8,2,3
+96,1920,96,59,133,59,Albert,Johnson,0,99,Head,Albert,Johnson,Male,Black,65,Married,Laborer,St. Road,Owner,102,2,0,24
+97,1920,97,59,54,59,Ellen W.,Johnson,0,99,Wife,Albert,Johnson,Female,Black,54,Married,Unknown,Unknown,Unknown,165,2,2,46
+98,1920,98,60,106,60,Chas J,Johnson,0,100,Head,Chas J,Johnson,Male,Black,38,Single,Unknown,Unknown,Renter,165,8,1,24
+99,1920,99,60,39,60,Blanch H,Johnson,0,100,Wife,Chas J,Johnson,Female,Black,38,Single,Unknown,Unknown,Unknown,165,8,2,46
+100,1920,100,60,18,60,Etelka,Johnson,0,100,Daughter,Chas J,Johnson,Female,Black,17,Single,Unknown,Unknown,Unknown,165,8,2,8
+101,1920,101,60,15,60,Naomither S,Johnson,0,100,Daughter,Chas J,Johnson,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,8
+102,1920,102,60,13,60,Eunice C,Johnson,0,100,Daughter,Chas J,Johnson,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+103,1920,103,60,3,60,Vera F,Johnson,0,100,Daughter,Chas J,Johnson,Female,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,8
+104,1920,104,61,112,61,Chas,Dory,0,101,Head,Chas J,Dory,Male,Black,44,Married,Cheff,Md St Col,Owner,22,10,0,24
+105,1920,105,61,29,61,Emma,Slater,0,101,Housekeeper,Chas J,Dory,Female,Black,28,Single,Housekeeper,Private Family,Unknown,67,8,2,25
+106,1920,106,61,86,61,Chas,Dory,0,101,Son,Chas J,Dory,Male,Black,17,Single,Unknown,Unknown,Unknown,165,8,2,41
+107,1920,107,61,16,61,Isabel,Dory,0,101,Daughter,Chas J,Dory,Female,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,8
+108,1920,108,61,12,61,Delacy H,Dory,0,101,Daughter,Chas J,Dory,Female,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,8
+109,1920,109,61,77,61,Lawrence H,Dory,0,101,Son,Chas J,Dory,Male,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,41
+110,1920,110,61,6,61,Jermie C,Dory,0,101,Daughter,Chas J,Dory,Female,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,8
+111,1920,111,62,226,62,Leonhard,Exel,0,102,Head,Leonhard,Exel,Male,White,45,Married,Book Binder,Book Co,Owner,12,2,0,24
+112,1920,112,62,39,62,Kattie E,Exel,0,102,Wife,Leonhard,Exel,Female,Black,38,Married,Unknown,Unknown,Unknown,165,2,2,46
+113,1920,113,62,15,62,Elizabeth L,Exel,0,102,Daughter,Leonhard,Exel,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,8
+114,1920,114,62,80,62,Leonhard Jr,Exel,0,102,Son,Leonhard,Exel,Male,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,41
+115,1920,115,63,117,63,Sidney,Lewis,0,103,Head,Sidney,Lewis,Male,Black,49,Married,Unknown,Unknown,Owner,165,2,0,24
+116,1920,116,63,36,63,Ella,Lewis,0,103,Wife,Sidney,Lewis,Female,Black,35,Married,laborer,RR Rd,Unknown,180,2,2,46
+117,1920,117,63,13,63,Samantha S,Lewis,0,103,Daughter,Sidney,Lewis,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+118,1920,118,63,75,63,Sidney Jr,Lewis,0,103,Son,Sidney,Lewis,Male,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,41
+119,1920,119,63,69,63,Andrew,Lewis,0,103,Son,Sidney,Lewis,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,41
+120,1920,120,64,48,64,Ellen M,Lee,0,104,Head,Ellen M,Lee,Female,Black,48,Married,Servant,Private Home,Renter,142,2,1,24
+121,1920,121,64,21,64,Addie,Thomas,0,104,Daughter,Ellen M,Lee,Female,Black,20,Single,Laborer,RR Rd,Unknown,96,8,2,8
+122,1920,122,64,87,64,Samuel G,Thomas,0,104,Son,Ellen M,Lee,Male,Black,18,Single,Unknown,Unknown,Unknown,165,8,2,41
+123,1920,123,64,12,64,Alice,Thomas,0,104,Daughter,Ellen M,Lee,Female,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,8
+124,1920,124,64,10,64,Martha A,Thomas,0,104,Daughter,Ellen M,Lee,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+125,1920,125,64,95,64,Chas,Thomas,0,104,Son,Ellen M,Lee,Male,Black,26,Single,Unknown,Unknown,Unknown,165,8,2,41
+126,1920,126,65,98,65,Morris L,Weems,0,105,Head,Morris L,Weems,Male,Black,29,Married,Laborer,RR Rd,Renter,96,2,1,24
+127,1920,127,65,28,65,Mary E,Weems,0,105,Wife,Morris L,Weems,Female,Black,27,Married,Unknown,Unknown,Unknown,165,2,2,46
+128,1920,128,65,10,65,Laura V,Weems,0,105,Daughter,Morris L,Weems,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+129,1920,129,65,7,65,Sarah E,Weems,0,105,Daughter,Morris L,Weems,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+130,1920,130,65,73,65,James W.,Weems,0,105,Son,Morris L,Weems,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,41
+131,1920,131,65,3,65,Mary A,Weems,0,105,Son,Morris L,Weems,Female,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,41
+132,1920,132,66,112,66,John H,Spriggs,0,106,Head,John H,Spriggs,Male,Black,44,Married,Laborer,Saw Mill,Owner,99,2,0,24
+133,1920,133,66,34,66,Mary S,Spriggs,0,106,Wife,John H,Spriggs,Female,Black,33,Married,Unknown,Unknown,Unknown,165,2,2,46
+134,1920,134,67,107,67,Henry,Thomas,0,107,Head,Henry,Thomas,Male,Black,39,Married,Unknown,Unknown,Owner,165,2,0,24
+135,1920,135,67,42,67,Hanna M,Thomas,0,107,Wife,Henry,Thomas,Female,Black,42,Married,Unknown,Unknown,Unknown,165,2,2,46
+136,1920,136,67,85,67,Preston,Brooks,0,107,Nephew,Henry,Thomas,Male,Black,16,Single,Waiter,Md St Col,Unknown,168,8,2,32
+137,1920,137,67,97,67,Arthur C,Brooks,0,107,Nephew,Henry,Thomas,Male,Black,28,Single,Janitor,Md St Col,Unknown,76,8,2,32
+138,1920,138,68,120,68,Cornelius,Guss,0,108,Head,Cornelius,Guss,Male,Black,52,Married,Laborer,Saw Mill,Owner,99,2,0,24
+139,1920,139,68,48,68,Carry W,Guss,0,108,Wife,Cornelius,Guss,Female,Black,48,Married,Unknown,Unknown,Unknown,165,2,2,46
+140,1920,140,68,91,68,Joseph W,Guss,0,108,Son,Cornelius,Guss,Male,Black,22,Single,Laborer,Saw Mill,Unknown,99,8,2,41
+141,1920,141,68,20,68,Sadie,Gross,0,108,Daughter,Cornelius,Guss,Female,Black,19,Married,Laborer,Saw Mill,Unknown,99,2,2,8
+142,1920,142,68,90,68,Frank W,Gross,0,108,Son In Law,Cornelius,Guss,Male,Black,21,Married,Laborer,RR Rd,Unknown,96,2,2,42
+143,1920,143,69,120,69,John C,Johnson,0,109,Head,John C,Johnson,Male,Black,52,Married,Laborer,RR Rd,Owner,96,2,0,24
+144,1920,144,69,48,69,Mary E,Johnson,0,109,Wife,John C,Johnson,Female,Black,48,Married,Unknown,Unknown,Unknown,165,2,2,46
+145,1920,145,69,94,69,John M,Johnson,0,109,Son,John C,Johnson,Male,Black,25,Single,Laborer,St Road,Unknown,101,8,2,41
+146,1920,146,69,93,69,Joseph C,Johnson,0,109,Son,John C,Johnson,Male,Black,24,Single,Laborer,St Road,Unknown,101,8,2,41
+147,1920,147,69,16,69,Ruth G,Johnson,0,109,Daughter,John C,Johnson,Female,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,8
+148,1920,148,70,91,70,Nathan W,Brewer,0,110,Head,Nathan,Brewer,Male,Black,22,Married,Laborer,RR Rd,Renter,96,2,1,24
+149,1920,149,70,90,70,Mary,Brewer,0,110,Wife,Nathan,Brewer,Male,Black,21,Married,Unknown,Unknown,Unknown,165,2,2,46
+150,1920,150,71,29,71,Harriet V,Wright,0,111,Head,Harriet V,Wright,Female,Black,28,Married,Washing,At home,Owner,177,2,0,24
+151,1920,151,71,99,71,Harry S,Wright,0,111,Husband,Harriet V,Wright,Male,Black,30,Married,Waiter,Md St Col,Unknown,168,2,2,26
+152,1920,152,71,100,71,David,Harid,0,111,Border,Harriet V,Wright,Male,Black,31,Single,Laborer,RR Rd,Unknown,96,8,2,2
+153,1920,153,71,86,71,James A,Hawkins,0,111,Border,Harriet V,Wright,Male,Black,17,Single,Unknown,Unknown,Unknown,165,8,2,2
+154,1920,154,72,137,72,Samuel R,Stewart,0,112,Head,Samuel R,Stewart,Male,Black,70,Married,Janitor,Md St Col,Unknown,76,2,2,24
+155,1920,155,72,60,72,Anna G,Stewart,0,112,Wife,Samuel R,Stewart,Female,Black,64,Married,wash & iron,At Home,Unknown,181,2,2,46
+156,1920,156,72,97,72,George,Stewart,0,112,Son,Samuel R,Stewart,Male,Black,28,Single,Forestry nursery,Md St Col,Unknown,58,8,2,41
+157,1920,157,72,73,72,Wm A,Brooks,0,112,Grandson,Samuel R,Stewart,Male,Black,4,Single,Unknown,Unknown,Unknown,165,8,2,20
+158,1920,158,72,1,72,Anna G,Brooks,0,112,Granddaughter,Samuel R,Stewart,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,18
+159,1920,159,73,107,73,Thomas G,Johnson,0,113,Head,Thomas G,Johnson,Male,Black,39,Married,Driver,Wagan,Owner,49,2,0,24
+160,1920,160,73,39,73,Bertha,Johnson,0,113,Wife,Thomas G,Johnson,Female,Black,38,Married,Unknown,Unknown,Unknown,165,2,2,46
+161,1920,161,73,18,73,Sarah,Johnson,0,113,Daughter,Thomas G,Johnson,Female,Black,17,Single,Unknown,Unknown,Unknown,165,8,2,8
+162,1920,162,73,12,73,Martha A,Johnson,0,113,Daughter,Thomas G,Johnson,Female,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,8
+163,1920,163,73,10,73,Grace,Johnson,0,113,Daughter,Thomas G,Johnson,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+164,1920,164,73,76,73,Chas,Johnson,0,113,Son,Thomas G,Johnson,Male,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+165,1920,165,73,7,73,Ruth G,Johnson,0,113,Daughter,Thomas G,Johnson,Female,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,8
+166,1920,166,73,69,73,Wilber,Johnson,0,113,Son,Thomas G,Johnson,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,41
+167,1920,167,74,113,74,Richard,Walls,0,114,Head,Richard,Walls,Male,Black,45,Married,Waiter,Md St Col,Owner,168,2,0,24
+168,1920,168,74,45,74,Mary,Walls,0,114,Wife,Richard,Walls,Female,Black,45,Married,Unknown,Unknown,Unknown,165,2,2,46
+169,1920,169,74,92,74,McKinley,Williams,0,114,Step Son,Richard,Walls,Male,Black,23,Single,Laborer,St Rd,Unknown,100,8,2,44
+170,1920,170,74,10,74,Gertrude,Walls,0,114,Daughter,Richard,Walls,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,8
+171,1920,171,75,115,75,Chesley J,Mack,0,123,Head,Chesley J,Mack,Male,Black,47,Married,Baker,Md St Col,Owner,6,2,0,24
+172,1920,172,75,38,75,Magret,Mack,0,123,Wife,Chesley J,Mack,Female,Black,37,Married,Maid,Md St Col,Unknown,113,2,2,46
+173,1920,173,75,15,75,Bessie,Mack,0,123,Daughter,Chesley J,Mack,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,8
+174,1920,174,75,13,75,Julia,Mack,0,123,Daughter,Chesley J,Mack,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+175,1920,175,75,9,75,Dorothy,Mack,0,123,Daughter,Chesley J,Mack,Female,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,8
+176,1920,176,75,76,75,Chesley J,Mack,0,123,Son,Chesley J,Mack,Male,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+177,1920,177,75,139,75,Spencer,Brisco,0,123,Father In Law,Chesley J,Mack,Male,Black,73,Married,Laborer,RR Rd,Unknown,96,2,2,11
+178,1920,178,76,34,76,Hattie,Walls,0,124,Head,Hattie,Walls,Female,Black,33,Widowed,Maid,Md St Col,Renter,113,12,1,24
+179,1920,179,76,83,76,John H,Walls,0,124,Son,Hattie,Walls,Male,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,41
+180,1920,180,76,81,76,George E,Walls,0,124,Son,Hattie,Walls,Male,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,41
+181,1920,181,76,76,76,Anderson,Walls,0,124,Son,Hattie,Walls,Male,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,41
+182,1920,182,76,6,76,Mary M,Walls,0,124,Daughter,Hattie,Walls,Female,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,8
+183,1920,183,76,40,76,Hattie,Adams,0,124,Head,Hattie,Adams,Female,Black,39,Widowed,Laundry,At Home,Owner,109,12,0,24
+184,1920,184,76,80,76,Walter H,Adams,0,124,Son,Hattie,Adams,Male,Black,11,Single,Unknown,Unknown,Unknown,165,8,2,41
+185,1920,185,76,102,76,Wm,Adams,0,124,Border,Hattie,Adams,Male,Black,34,Single,Laborer,RR Rd,Unknown,96,8,2,2
+186,1920,186,77,114,77,Benjamin R,Hicks,0,125,Head,Benjamin,Hicks,Male,Black,46,Married,Laborer,RR Rd,Unknown,96,2,2,24
+1,1930,1,83,51,83,Isabell,Bowie,0,233,Head,Unknown,Unknown,Female,Black,51,Widowed,Laundress,At Home,Renter,107,12,1,24
+2,1930,2,83,30,83,Elizar,Unknown,0,233,Daughter,Unknown,Unknown,Female,Black,29,Single,Unknown,Unknown,Unknown,165,8,2,8
+3,1930,3,83,28,83,Minnie,Unknown,0,233,Daughter,Unknown,Unknown,Female,Black,27,Single,Laundress,At Home,Unknown,107,8,2,8
+4,1930,4,84,111,84,Earl,Brooks,0,234,Head,Unknown,Unknown,Male,Black,43,Married,Truck Driver,Retail Ice and Coal,Renter,158,2,1,24
+5,1930,5,84,39,84,Rose L,Unknown,0,234,Wife,Unknown,Unknown,Female,Black,38,Married,Servant,General Housework,Unknown,141,2,2,46
+6,1930,6,84,86,84,Randolph,Unknown,0,234,Son,Unknown,Unknown,Male,Black,17,Single,Dish washer,Restaurant,Unknown,38,8,2,41
+7,1930,7,84,13,84,Lilian,Unknown,0,234,Daughter,Unknown,Unknown,Female,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,8
+8,1930,8,84,78,84,Henry W,Unknown,0,234,Son,Unknown,Unknown,Male,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,41
+9,1930,9,84,8,84,Mary E,Unknown,0,234,Daughter,Unknown,Unknown,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,8
+10,1930,10,84,72,84,Robert M,Unknown,0,234,Son,Unknown,Unknown,Male,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,41
+11,1930,11,84,72,84,Moses M,Unknown,0,234,Son,Unknown,Unknown,Male,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,41
+12,1930,12,84,69,84,Earl B. Jr,Unknown,0,234,Son,Unknown,Unknown,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,41
+13,1930,13,85,130,85,George H,Gross,0,235,Head,Unknown,Unknown,Male,Black,62,Married,Trackman,Steam Railway,Owner,153,2,0,24
+14,1930,14,85,53,85,Rosa,Unknown,0,235,Wife,Unknown,Unknown,Female,Black,53,Married,Laundress,University,Unknown,108,2,2,46
+15,1930,15,85,20,85,Cora F,Unknown,0,235,Daughter,Unknown,Unknown,Female,Black,19,Single,Laundress,University,Unknown,108,8,2,8
+16,1930,16,85,85,85,Alfred L,Unknown,0,235,Son,Unknown,Unknown,Male,Black,16,Single,Attendant,Bowling Alley,Unknown,4,8,2,41
+17,1930,17,85,15,85,Harriet,Unknown,0,235,Daughter,Unknown,Unknown,Female,Black,14,Single,Unknown,Unknown,Unknown,165,8,2,8
+18,1930,18,86,109,86,Arthur,Brooks,0,236,Head,Unknown,Unknown,Male,Black,41,Married,Janitor,University,Owner,79,2,0,24
+19,1930,19,86,39,86,Mary,Unknown,0,236,Wife,Unknown,Unknown,Female,Black,38,Married,Children's Nurse,Private Family,Unknown,23,2,2,46
+20,1930,20,87,96,87,Preston S,Books,0,237,Head,Unknown,Unknown,Male,Black,27,Married,Dishwasher,University,Owner,39,2,0,24
+21,1930,21,87,92,87,Alberta V,Unknown,0,237,Wife,Unknown,Unknown,Male,Black,23,Married,Unknown,Unknown,Unknown,165,2,2,46
+22,1930,22,87,10,87,Anna B,Hughes,0,237,Niece,Unknown,Unknown,Female,Black,9,Single,Unknown,Unknown,Unknown,165,8,2,34
+23,1930,23,87,8,87,Agnes R,Hughes,0,237,Niece,Unknown,Unknown,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,34
+24,1930,24,88,132,88,James H,Gray,0,238,Head,Unknown,Unknown,Male,Black,64,Widowed,Painter and Paperhanger,Independent,Owner,127,12,0,24
+25,1930,25,82,30,82,Pauline I,Gray,0,0,Daughter,Unknown,Unknown,Female,Black,29,Single,Cook,Club House,Unknown,28,8,2,8
+26,1930,26,82,95,82,Louis R,Gray,0,0,Son,Unknown,Unknown,Male,Black,26,Single,Auto Mechanic,Garage,Unknown,5,8,2,41
+27,1930,27,82,24,82,Eliza E,Gray,0,0,Daughter,Unknown,Unknown,Female,Black,23,Single,Unknown,Unknown,Unknown,165,8,2,8
+28,1930,28,82,88,82,R. Ridgely,Gray,0,0,Son,Unknown,Unknown,Male,Black,19,Single,Unknown,Unknown,Unknown,165,8,2,41
+29,1930,29,82,85,82,Clarence,Gray,0,0,Son,Unknown,Unknown,Male,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,41
+30,1930,30,82,8,82,Ruby J,Briscoe,0,0,Grand Daughter,Unknown,Unknown,Female,Black,7,Single,Unknown,Unknown,Unknown,165,8,2,13
+31,1930,31,89,135,89,"R, Ambrose",Greene,0,239,Head,Unknown,Unknown,Male,Black,67,Married,Guard,Natl Museum,Renter,65,2,1,24
+32,1930,32,82,55,82,Elizabeth J,Greene,0,0,Wife,Unknown,Unknown,Female,Black,55,Married,Unknown,Unknown,Unknown,165,2,2,46
+33,1930,33,82,33,82,Emma,Greene,0,0,Daughter,Unknown,Unknown,Female,Black,32,Married,Maid,Reil Department Store,Unknown,115,2,2,8
+34,1930,34,82,9,82,Marie,Greene,0,0,Daughter,Unknown,Unknown,Female,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,8
+35,1930,35,82,6,82,Dorothy,Greene,0,0,Daughter,Unknown,Unknown,Female,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,8
+36,1930,36,82,68,82,Sarah E,Edwards,0,0,Mother In Law,Unknown,Unknown,Female,Black,90,Widowed,Unknown,Unknown,Unknown,165,12,2,31
+37,1930,37,82,47,82,Mary K,Edmonds,0,0,Sister In Law,Unknown,Unknown,Female,Black,47,Widowed,Janitress,Pullman Cars,Unknown,80,12,2,38
+38,1930,38,82,89,82,Thomas E,Edmonds,0,0,Nephew,Unknown,Unknown,Male,Black,20,Single,Unknown,Unknown,Unknown,165,8,2,32
+39,1930,39,82,87,82,Harry A,Edmonds,0,0,Nephew,Unknown,Unknown,Male,Black,18,Single,Dishwasher,University,Unknown,39,8,2,32
+40,1930,40,90,114,90,Benjamin,Hicks,0,240,Head,Unknown,Unknown,Male,Black,46,Married,Laborer,Steam Railway,Owner,104,2,0,24
+41,1930,41,82,38,82,Annie L,Hicks,0,0,Wife,Unknown,Unknown,Female,Black,37,Married,Unknown,Unknown,Unknown,165,2,2,46
+42,1930,42,82,20,82,A. Ethel,Hicks,0,0,Daughter,Unknown,Unknown,Female,Black,19,Single,Servant,General Housework,Unknown,141,8,2,8
+43,1930,43,82,1,82,Anna E,Williams,0,0,Grand Daughter,Unknown,Unknown,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,13
+44,1930,44,91,127,91,Sydney J,Lewis,0,241,Head,Unknown,Unknown,Male,Black,59,Widowed,Repairman,St Railway,Owner,138,12,0,24
+45,1930,45,82,85,82,"Sydney J, Jr",Lewis,0,0,Son,Unknown,Unknown,Male,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,41
+46,1930,46,82,79,82,Walter H,Lewis,0,0,Son,Unknown,Unknown,Male,Black,10,Single,Unknown,Unknown,Unknown,165,8,2,41
+47,1930,47,82,91,82,William P,Brown,0,0,Nephew In Law,Unknown,Unknown,Male,Black,22,Married,Chauffeur,Private Family,Unknown,19,2,2,33
+48,1930,48,82,19,82,Nellie O,Brown,0,0,Niece,Unknown,Unknown,Female,Black,18,Married,Unknown,Unknown,Unknown,165,2,2,34
+49,1930,49,82,69,82,William P,Brown,0,0,Grand Nephew,Unknown,Unknown,Male,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,15
+50,1930,50,82,1,82,Vivian V,Brown,0,0,Grand Niece,Unknown,Unknown,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,16
+1,1940,1,92,187,92,Rebecca,Stewart,0,0,Servent,Harwood,Reed,Female,Unknown,45,Single,Unknown,Unknown,Unknown,165,8,2,36
+2,1940,2,92,201,92,William,Woodson,0,0,Head,William,Woodson,Male,Unknown,48,Married,Unknown,Unknown,Unknown,165,2,2,24
+3,1940,3,92,199,92,Primas,Rascoe,0,0,Head,Primas,Rascoe,Male,Unknown,42,Single,Unknown,Unknown,Unknown,165,8,2,24
+4,1940,4,92,198,92,Howard,Bost,0,0,Head,Howard,Bost,Male,Unknown,40,Married,Unknown,Unknown,Unknown,165,2,2,24
+5,1940,5,92,186,92,Ophelia,Bost,0,0,Wife,Howard,Bost,Female,Unknown,39,Married,Unknown,Unknown,Unknown,165,2,2,46
+6,1940,6,92,202,92,Henry,Wurthen,0,0,Cook,George,Hopkins,Male,Unknown,52,Married,Unknown,Unknown,Unknown,165,2,2,6
+7,1940,7,92,203,92,John,Blackstone,0,0,Head,John,Blackstone,Male,Unknown,65,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+8,1940,8,92,194,92,Charles,Barnes,0,0,Head,Charles,Barnes,Male,Unknown,19,Single,Unknown,Unknown,Unknown,165,8,2,24
+9,1940,9,92,188,92,Elvina,Hill,0,0,Maid,Edward,Kind,Female,Unknown,51,Married,Unknown,Unknown,Unknown,165,2,2,29
+10,1940,10,92,205,92,Edward,Carter,0,0,Head,Edward,Carter,Male,Unknown,72,Married,Unknown,Unknown,Unknown,165,2,2,24
+11,1940,11,92,191,92,Cynthia,Carter,0,0,Wife,Edward,Carter,Female,Unknown,70,Married,Unknown,Unknown,Unknown,165,2,2,46
+12,1940,12,92,195,92,Willie,Bigger,0,0,Head,Willie,Bigger,Male,Unknown,24,Married,Unknown,Unknown,Unknown,165,2,2,24
+13,1940,13,92,184,92,Leora,Bigger,0,0,Wife,Willie,Bigger,Female,Unknown,21,Married,Unknown,Unknown,Unknown,165,2,2,46
+14,1940,14,92,113,92,James,Cager,0,0,Head,James,Cager,Male,Black,45,Married,Laborer,Sanitary Commission,Owner,98,2,0,24
+15,1940,15,92,157,92,Fannie,Cager,0,0,Wife,James,Cager,Unknown,Black,33,Unknown,Unknown,Unknown,Unknown,165,9,2,46
+16,1940,16,92,95,92,Joselph,Adams,0,0,Son In Law,James,Cager,Male,Black,26,Married,Truck Driver,Sanitary Commission,Unknown,160,2,2,42
+17,1940,17,92,21,92,Catherine,Adams,0,0,Daughter,James,Cager,Female,Black,20,Married,Unknown,Unknown,Unknown,165,2,2,8
+18,1940,18,92,18,92,Roasa E,Cager,0,0,Daughter,James,Cager,Female,Black,17,Single,Maid,Private Home,Unknown,114,8,2,8
+19,1940,19,92,84,92,Calvin,Cager,0,0,Son,James,Cager,Male,Black,15,Single,Unknown,Unknown,Unknown,165,8,2,41
+20,1940,20,92,82,92,Leon,Cager,0,0,Son,James,Cager,Male,Black,13,Single,Unknown,Unknown,Unknown,165,8,2,41
+21,1940,21,92,77,92,Carr,Cager,0,0,Son,James,Cager,Male,Black,8,Single,Unknown,Unknown,Unknown,165,8,2,41
+22,1940,22,92,75,92,Marcellus,Cager,0,0,Son,James,Cager,Male,Black,6,Single,Unknown,Unknown,Unknown,165,8,2,41
+23,1940,23,92,74,92,Francis,Cager,0,0,Son,James,Cager,Male,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,41
+24,1940,24,92,70,92,Alber,Cager,0,0,Son,James,Cager,Male,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,41
+25,1940,25,92,3,92,Helen,Adams,0,0,Granddaughter,James,Cager,Female,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,18
+26,1940,26,92,1,92,Rose May,Adams,0,0,Granddaughter,James,Cager,Female,Black,0,Single,Unknown,Unknown,Unknown,165,8,2,18
+27,1940,27,92,70,92,Harold,Cager,0,0,Grandson,James,Cager,Male,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,20
+28,1940,28,92,117,92,Lawrence,Williams,0,0,Head,Lawrence,Williams,Male,Black,49,Married,Laborer,Sanitary Commission,Owner,98,2,0,24
+29,1940,29,92,45,92,Fannie,Williams,0,0,Wife,Lawrence,Williams,Female,Black,45,Married,Unknown,Unknown,Unknown,165,2,2,46
+30,1940,30,92,85,92,Lawrence,Williams,0,0,Son,Lawrence,Williams,Male,Black,16,Single,New Worker,Unknown,Unknown,125,8,2,41
+31,1940,31,92,81,92,Francis,Johnson,0,0,Nephew,Lawrence,Williams,Male,Black,12,Single,Unknown,Unknown,Unknown,165,8,2,32
+32,1940,32,92,227,92,Leonard,Esel,0,0,Head,Leonard,Esel,Male,White,55,Married,Book Binder,Private Work,Owner,13,2,0,24
+33,1940,33,92,215,92,Catherine,Esel,0,0,Wife,Leonard,Esel,Female,White,58,Married,Unknown,Unknown,Unknown,165,2,2,46
+34,1940,34,92,131,92,William,Gross,0,0,Head,William,Gross,Male,Black,63,Married,Janitor,Pullman Yard,Owner,77,2,0,24
+35,1940,35,92,58,92,Rose,Gross,0,0,Wife,William,Gross,Female,Black,60,Married,Unknown,Unknown,Unknown,165,2,2,46
+36,1940,36,92,123,92,Luther,Wilson,0,0,Son In Law,William,Gross,Male,Black,55,Married,Laborer,Railroad,Unknown,97,2,2,42
+37,1940,37,92,41,92,Odean,Wilson,0,0,Daughter,William,Gross,Female,Black,40,Married,Maid,Private Home,Unknown,114,2,2,8
+38,1940,38,92,94,92,Earl,Gibson,0,0,Son In Law,William,Gross,Male,Black,25,Married,Laborer,Sanitary Commission,Unknown,98,2,2,42
+39,1940,39,92,22,92,Elemore,Gibson,0,0,Granddaughter,William,Gross,Female,Black,21,Married,Unknown,Unknown,Unknown,165,2,2,18
+40,1940,40,92,19,92,Nedra,Wilson,0,0,Granddaughter,William,Gross,Female,Black,18,Single,Unknown,Unknown,Unknown,165,8,2,18
+41,1940,41,92,17,92,Roberta,Wilson,0,0,Granddaughter,William,Gross,Female,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,18
+42,1940,42,92,6,92,Wilimia,Wilson,0,0,Granddaughter,William,Gross,Female,Black,5,Single,Unknown,Unknown,Unknown,165,8,2,18
+43,1940,43,92,4,92,Amelia,Wilson,0,0,Granddaughter,William,Gross,Female,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,18
+44,1940,44,92,4,92,Delarce,Gibson,0,0,Great Granddaughter,William,Gross,Female,Black,3,Single,Unknown,Unknown,Unknown,165,8,2,22
+45,1940,45,92,71,92,Emula,Gibson,0,0,Great Grandson,William,Gross,Male,Black,2,Single,Unknown,Unknown,Unknown,165,8,2,23
+46,1940,46,92,2,92,Odean,Gibson,0,0,Great Granddaughter,William,Gross,Female,Black,1,Single,Unknown,Unknown,Unknown,165,8,2,22
+47,1940,47,92,92,92,John F,Wilson,0,0,Nephew,William,Gross,Male,Black,23,Single,Waiter,Univ of Md,Unknown,170,8,2,32
+48,1940,48,92,97,92,Carroll,Jones,0,0,Lodger,William,Gross,Male,Black,28,Married,Laborer,Private Work,Unknown,94,2,2,27
+49,1940,49,92,26,92,Cora,Jones,0,0,Lodger Wife,William,Gross,Female,Black,25,Married,Unknown,Unknown,Unknown,165,2,2,28
+50,1940,50,92,63,92,Nancy,Tabbs,0,0,Head,Nancy,Tabbs,Female,Black,67,Widowed,Unknown,Unknown,Owner,165,12,0,24
+51,1940,51,92,39,92,Jane,Tabbs,0,0,Daughter,Nancy,Tabbs,Female,Black,38,Single,Maid,Round House,Unknown,116,8,2,8
+52,1940,52,92,31,92,Ola,Dudley,0,0,Lodger,Nancy,Tabbs,Female,Black,30,Married,Cook,Univ of Md,Unknown,33,2,2,27
+53,1940,53,92,95,92,Loren,Boles,0,0,Lodger,Nancy,Tabbs,Male,Black,26,Single,Waiter,Univ of Md,Unknown,170,8,2,27
+54,1940,54,92,59,92,Agnes,Forrest,0,0,Head,Agnes,Forrest,Female,Black,63,Widowed,Domestic,Private Home,Owner,40,12,0,24
+55,1940,55,92,37,92,Alberta,Brooks,0,0,Daughter,Agnes,Forrest,Female,Black,36,Married,Maid,Private Home,Unknown,114,2,2,8
+56,1940,56,92,17,92,Agnes,Ross,0,0,Granddaughter,Agnes,Forrest,Female,Black,16,Single,Unknown,Unknown,Unknown,165,8,2,18
+57,1940,57,92,43,92,Anna,Crump,0,0,Niece,Agnes,Forrest,Female,Black,43,Widowed,Maid,Private Home,Unknown,114,12,2,34
+58,1940,58,92,129,92,JWC,Mack,0,0,Head,JWC,Mack,Male,Black,61,Married,Baker,Univ of Md,Owner,8,2,0,24
+59,1940,59,92,44,92,Maggie B,Mack,0,0,Wife,JWC,Mack,Female,Black,44,Married,Unknown,Unknown,Unknown,165,2,2,46
+60,1940,60,92,28,92,Bessie S,Mack,0,0,Daughter,JWC,Mack,Female,Black,27,Single,Teacher,Public School,Unknown,149,8,2,8
+61,1940,61,92,26,92,Julia E,Mack,0,0,Daughter,JWC,Mack,Female,Black,25,Single,Unknown,Unknown,Unknown,165,8,2,8
+1,1950,1,93,190,93,Randall,Randall,0,0,Head,Randall,Ellen,Female,Unknown,65,Widowed,Domestic Helper,Private Houses,Unknown,44,12,2,24
+2,1950,2,93,197,93,George,Randall,0,0,Son,Randall,Ellen,Male,Unknown,32,Single,Laborer,City Sanitary Commission,Unknown,88,8,2,41
+3,1950,3,93,185,93,Shirley,Johnson,0,0,Daughter,Randall,Ellen,Female,Unknown,25,Single,Unknown,Unknown,Unknown,165,8,2,8
+4,1950,4,93,193,93,Michael,Johnson,0,0,Grandson,Randall,Ellen,Male,Unknown,6,Single,Unknown,Unknown,Unknown,165,8,2,20
+5,1950,5,93,183,93,Genaldine,Johnson,0,0,Granddaughter,Randall,Ellen,Female,Unknown,2,Single,Unknown,Unknown,Unknown,165,8,2,18
+6,1950,6,93,192,93,Jeffrey,Johnson,0,0,Grandson,Randall,Ellen,Male,Unknown,0,Single,Unknown,Unknown,Unknown,165,8,2,20
+7,1950,7,93,196,93,Victor,Randall,0,0,Grandson,Randall,Ellen,Male,Unknown,27,Single,Truck Driver,Fuel And Feed Company,Unknown,157,8,2,20
+8,1950,8,93,204,93,Charles,Strand,0,0,Head,Charles,Strand,Male,Unknown,68,Married,Unknown,Unknown,Unknown,165,2,2,24
+9,1950,9,93,189,93,Annie,Strand,0,0,Wife,Charles,Strand,Female,Unknown,57,Married,Unknown,Unknown,Unknown,165,2,2,46
+10,1950,10,93,200,93,Robert E.,Mason,0,0,Head,Robert,M,Male,Unknown,44,Married,Unknown,Unknown,Unknown,165,2,2,24
+11,1950,11,93,121,93,AC,Tolson,0,0,Head,AC,Tolson,Male,Black,53,Married,Labor Plumbing,Plumbing Company,Unknown,84,2,2,24
+12,1950,12,93,48,93,Alberta,Tolson,0,0,Wife,AC,Tolson,Female,Black,48,Married,Cook,Fraternity House,Unknown,30,2,2,46
+13,1950,13,93,173,93,Bernice J,Tolson,0,0,Daughter,AC,Tolson,Female,Black,27,Never Married,Typing And Filing,Navy Dept,Unknown,161,6,2,8
+14,1950,14,93,172,93,Geraldine A,Tolson,0,0,Daughter,AC,Tolson,Female,Black,25,Never Married,Maid,Fraternity House,Unknown,112,6,2,8
+15,1950,15,93,171,93,Dorothy E.,Tolson,0,0,Daughter,AC,Tolson,Female,Black,24,Never Married,Housekeeper,Private Home,Unknown,68,6,2,8
+16,1950,16,93,170,93,Eleanor,Tolson,0,0,Daughter,AC,Tolson,Female,Black,21,Never Married,Housekeeper,Private Home,Unknown,68,6,2,8
+17,1950,17,93,92,93,Ashbey Jr,Tolson,0,0,Son,AC,Tolson,Male,Black,23,Married,Janitor,State University,Unknown,78,2,2,41
+18,1950,18,93,169,93,LaVerne,Tolson,0,0,Daughter,AC,Tolson,Female,Black,19,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+19,1950,19,93,182,93,Nathaniel,Tolson,0,0,Son,AC,Tolson,Male,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+20,1950,20,93,169,93,Mary E,Tolson,0,0,Daughter In Law,AC,Tolson,Female,Black,19,Married,Unknown,Unknown,Unknown,165,2,2,9
+21,1950,21,93,181,93,Ronald L,Tolson,0,0,Grandson,AC,Tolson,Male,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+22,1950,22,93,182,93,Gasson,Tolson,0,0,Grandson,AC,Tolson,Male,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+23,1950,23,93,168,93,Joyce,Tolson,0,0,Granddaughter,AC,Tolson,Female,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,18
+24,1950,24,93,8,93,Barbara Ann,Tolson,0,0,Grandson,AC,Tolson,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+25,1950,25,93,180,93,Carrie,Guss,0,0,Head,Carrie,Guss,Female,Black,78,Never Married,Unknown,Unknown,Unknown,165,6,2,24
+26,1950,26,93,119,93,Amos,Guss,0,0,Son,Carrie,Guss,Male,Black,51,Divorced,Cement Finisher,Construction Co,Unknown,17,1,2,41
+27,1950,27,93,46,93,Sadie,Thomas,0,0,Daughter,Carrie,Guss,Female,Black,46,Married,Unknown,Unknown,Unknown,165,2,2,8
+28,1950,28,93,175,93,Elisha,Thomas,0,0,Son In Law,Carrie,Guss,Female,Black,40,Married,Store Keeper,Air Base (Gov),Unknown,146,2,2,42
+29,1950,29,93,119,93,Willie,Poole,0,0,Lodger,Carrie,Guss,Male,Black,51,Unknown,Cook,Dinner,Unknown,29,7,2,27
+30,1950,30,93,115,93,AL,Brewis,0,0,Head,AL,Brewis,Male,Black,47,Married,Cement Finisher,Construction Co,Unknown,17,2,2,24
+31,1950,31,93,175,93,Claudia,Brewis,0,0,Wife,AL,Brewis,Female,Black,40,Married,General Housework,Private Homes,Unknown,64,2,2,46
+32,1950,32,93,82,93,Ottis D,Brewis,0,0,Son,AL,Brewis,Male,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+33,1950,33,93,13,93,Hester W,Brewis,0,0,Daughter,Al,Brewis,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+34,1950,34,93,9,93,Helen B,Brewis,0,0,Daughter,AL,Brewis,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+35,1950,35,93,30,93,Ruth,Davis,0,0,Daughter,AL,Brewis,Female,Black,29,Divorced,Domestic Help,Private Homes,Unknown,41,1,2,8
+36,1950,36,93,55,93,MS,Spriggs,0,0,Head,MS,Spriggs,Female,Black,55,Unknown,Unknown,Unknown,Unknown,165,11,2,24
+37,1950,37,93,92,93,Lewis,Briscoe,0,0,Lodger,MS,Spriggs,Male,Black,23,Married,Retail Butcher,Retail Meat Market,Unknown,139,2,2,27
+38,1950,38,93,22,93,Geraldine,Briscoe,0,0,Lodger,MS,Spriggs,Female,Black,21,Married,Unknown,Unknown,Unknown,165,2,2,27
+39,1950,39,93,70,93,Berry,Briscoe,0,0,Lodger,MS,Spriggs,Male,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,27
+40,1950,40,93,142,93,George,Parham,0,0,Head,George,Parham,Male,Black,82,Married,Unknown,Unknown,Unknown,165,2,2,24
+41,1950,41,93,179,93,Eliza,Green,0,0,Sister,George,Parham,Female,Black,71,Unknown,Housework,Private Homes,Unknown,72,11,2,37
+42,1950,42,93,178,93,Mae,Edwins,0,0,Sister,George,Parham,Female,Black,66,Unknown,"Train Cars Cleaner, Pullman",Fright Yard,Unknown,154,11,2,37
+43,1950,43,93,232,93,Thomas,Edwins,0,0,Grandson,George,Parham,Male,Black,33,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+44,1950,44,93,143,93,James H,Gray,0,0,Head,James H,Gray,Male,Black,84,Unknown,Unknown,Unknown,Unknown,165,11,2,24
+45,1950,45,93,49,93,Pauline,Gray,0,0,Daughter,James H,Gray,Female,Black,49,Never Married,Domestic Work,Private Home,Unknown,46,6,2,8
+46,1950,46,93,42,93,Eliza,Gray,0,0,Daughter,James H,Gray,Female,Black,42,Never Married,File Clerk,Genera; Service Dept,Unknown,56,6,2,8
+47,1950,47,93,112,93,Lewis,Gray,0,0,Son,James H,Gray,Male,Black,44,Divorced,Kitchen Helper,State University,Unknown,82,1,2,41
+48,1950,48,93,83,93,Clarence,Gray,0,0,Grandson,James H,Gray,Male,Black,14,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+49,1950,49,93,109,93,Willie,Laney,0,0,Head,Willie,Laney,Male,Black,41,Married,Carpenter Worker,Private Construction Company,Unknown,16,2,2,24
+50,1950,50,93,37,93,Arleen,Laney,0,0,Wife,Willie,Laney,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,46
+51,1950,51,93,106,93,Joseph,Campbell,0,0,Head,Joseph,Campbell,Male,Black,38,Married,Cement Layer,Construction Company,Unknown,18,2,2,24
+52,1950,52,93,37,93,Jessie,Campbell,0,0,Wife,Joseph,Campbell,Female,Black,36,Married,Housekeeper,Private Homes,Unknown,69,2,2,46
+53,1950,53,93,21,93,Anna,Patterson,0,0,Daughter In Law,Joseph,Campbell,Female,Black,20,Never Married,Housekeeper,Private Homes,Unknown,69,6,2,9
+54,1950,54,93,113,93,George H,Gross,0,0,Head,George H,Gross,Male,Black,45,Married,Weiter And Cleaning,State University,Unknown,179,2,2,24
+55,1950,55,93,42,93,Agnes,Gross,0,0,Wife,George H,Gross,Female,Black,42,Married,Manager Of Cafeteria,Elementary School,Unknown,122,2,2,46
+56,1950,56,93,85,93,Elwood,Gross,0,0,Son,George,Gross,Male,Black,16,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+57,1950,57,93,136,93,Henry,Thompson,0,0,Head,Henry,Thompson,Male,Black,69,Married,Janitor,Bearue Of Mines,Unknown,74,2,2,24
+58,1950,58,93,58,93,Jane,Thomson,0,0,Wife,Henry,Thompson,Female,Black,60,Married,Dormitory Maid,State University,Unknown,48,2,2,46
+59,1950,59,93,125,93,Benjamin,Briscoe,0,0,Head,Benjamin,Briscoe,Male,Black,57,Married,Cook,State University,Unknown,32,2,2,24
+60,1950,60,93,56,93,Ellen,Briscoe,0,0,Wife,Benjamin,Briscoe,Female,Black,57,Married,Maid,State University,Unknown,117,2,2,46
+61,1950,61,93,33,93,Mary D,Briscoe,0,0,Daughter,Benjamin,Broscoe,Female,Black,32,Never Married,Maid,Private Home,Unknown,114,6,2,8
+62,1950,62,93,233,93,Franklin,Brown,0,0,Son In Law,Benjamin,Briscoe,Male,Black,36,Married,Unknown,Unknown,Unknown,165,3,2,42
+63,1950,63,93,230,93,Helen B,Brown,0,0,Daughter,Benjamin,Briscoe,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,8
+64,1950,64,93,229,93,Marie,Brown,0,0,Grand Daughter,Benjamin,Briscoe,Female,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+65,1950,65,93,231,93,Franklin,Brown,0,0,Grand Son,Benjamin,Briscoe,Male,Black,14,Unknown,Unknown,Unknown,Unknown,165,4,2,17
+66,1950,66,93,121,93,Samuel,Thomas,0,0,Head,Samuel,Thomas,Male,Black,53,Married,Laborer,Coal Business,Unknown,89,2,2,24
+67,1950,67,93,50,93,Annie,Thomas,0,0,Wife,Samuel,Thomas,Female,Black,50,Married,General Housework,Private Families,Unknown,62,2,2,46
+68,1950,68,93,84,93,Hollie,Thomas,0,0,Son,Samuel,Thomas,Male,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+69,1950,69,93,90,93,Ellsworth W,Crutchfield,0,0,Grandson,Unknown,Unknown,Male,Black,21,Never Married,Laborer,Water Company,Unknown,106,6,2,20
+70,1950,70,93,140,93,Marcelius,Cordove,0,0,Head,Marcelius,Cordova,Male,Black,76,Married,Unknown,Unknown,Unknown,165,2,2,24
+71,1950,71,93,128,93,Alberta,Cordove,0,0,Wife,Marcelius,Cordova,Male,Black,60,Married,Unknown,Unknown,Unknown,165,2,2,46
+72,1950,72,93,126,93,Edward,Sands,0,0,Head,Edward,Sands,Male,Black,58,Married,Mail Clerk,Us Post Office Dept,Unknown,118,2,2,24
+73,1950,73,93,52,93,Marie,Sands,0,0,Wife,Edward,Sands,Female,Black,52,Married,Unknown,Unknown,Unknown,165,2,2,46
+74,1950,74,93,113,93,John H,Walls,0,0,Brother In Law,Edward,Sands,Male,Black,45,Married,Porter,Unknown,Unknown,132,2,2,4
+75,1950,75,93,11,93,Beverly,Potts,0,0,Daughter,Edward,Potts,Female,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+76,1950,76,93,78,93,Wallace,Potts,0,0,Son,Edward,Potts,Male,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+77,1950,77,93,7,93,Iris,Potts,0,0,Daughter,Edward,Potts,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+78,1950,78,93,73,93,William,Potts,0,0,Son,Edward,Potts,Male,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+79,1950,79,93,72,93,Anthony,Potts,0,0,Son,Edward,Potts,Male,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+80,1950,80,93,71,93,Gerald,Potts,0,0,Son,Edward,Potts,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+81,1950,81,93,0,93,Laverda,Potts,0,0,Daughter,Edward,Potts,Unknown,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+82,1950,82,93,58,93,Bertha,Johnson,0,0,Head,Bertha,Johnson,Female,Black,60,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+83,1950,83,93,14,93,Delores,Johnson,0,0,Grand Daughter,Bertha,Johnson,Female,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+84,1950,84,93,41,93,Ruth,Johnson,0,0,Daughter,Bertha,Johnson,Female,Black,40,Never Married,Domestic Helper,Private Houses,Unknown,44,6,2,8
+85,1950,85,93,99,93,Charles,Johnson,0,0,Son,Bertha,Johnson,Male,Black,30,Never Married,Painting,Private Houses,Unknown,128,6,2,41
+86,1950,86,93,53,93,Emma,Conway,0,0,Head,Emma,Conway,Female,Black,53,Unknown,Domestic Helper,Private Houses,Unknown,44,7,2,24
+87,1950,87,93,65,93,Nettie,Stewart,0,0,Head,Nettie,Stewart,Female,Black,70,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+88,1950,88,93,110,93,Earl,Stewart,0,0,Son,Nettie,Stewart,Male,Black,42,Never Married,Clerk,Beer Garden,Unknown,24,6,2,41
+89,1950,89,93,15,93,Vivian,Stewart,0,0,Grand Daughter,Nettie,Stewart,Female,Black,14,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+90,1950,90,93,10,93,Sylvia,Stewart,0,0,Grand Daughter,Nettie,Stewart,Female,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+91,1950,91,93,102,93,Ed,Dunston,0,0,Head,Ed,Dunston,Male,Black,34,Married,Unknown,Unknown,Unknown,165,2,2,24
+92,1950,92,93,174,93,Hattie,Dunston,0,0,Wife,Ed,Dunston,Female,Black,35,Married,Domestic Helper,Private Houses,Unknown,44,2,2,46
+93,1950,93,93,42,93,Julia,Carroll,0,0,Head,Julia,Carroll,Female,Black,42,Married,Unknown,Unknown,Unknown,165,3,2,24
+94,1950,94,93,107,93,Charles,Carroll,0,0,Husband,Julia,Carroll,Male,Black,39,Married,Engineer And Draftsman,Navy Department,Unknown,53,2,2,26
+95,1950,95,93,137,93,Chesley,Mack,0,0,Head,Chesley,Mack,Male,Black,70,Married,Proprietor,Retail Grocery Store,Unknown,137,2,2,24
+96,1950,96,93,177,93,Maggie,Mack,0,0,Wife,Chesley,Mack,Female,Black,48,Married,Proprietor,Retail Grocery Store,Unknown,137,2,2,46
+97,1950,97,93,176,93,Bessie,Mack,0,0,Daughter,Chesley,Mack,Female,Black,41,Never Married,Elementary School Teacher,Elementary School,Unknown,50,6,2,8
+98,1950,98,93,37,93,Dorothy,Allen,0,0,Daughter,Chesley,Mack,Female,Black,36,Married,Mathematics Teacher,High School,Unknown,123,2,2,8
+99,1950,99,93,104,93,Benjamin,Allen,0,0,Son In Law,Chesley,Mack,Male,Black,36,Married,Clerk,Navy Department,Unknown,26,2,2,42
+100,1950,100,93,1,93,Dorothy,Allen,0,0,Grand Daughter,Chesley,Mack,Female,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+101,1950,101,93,132,93,David,Harid,0,0,Head,David,Harid,Male,Black,64,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+102,1950,102,93,118,93,Ephrem,Harid,0,0,Brother In Law,David,Harid,Male,Black,50,Widowed,Dish Washer,Restaurant,Unknown,37,12,2,4
+103,1950,103,93,62,93,Lizzie,Taylor,0,0,Sister,David,Harid,Female,Black,66,Widowed,Domestic Helper,Private House,Unknown,43,12,2,37
+104,1950,104,93,97,93,Raymond,Wilson,0,0,Head,Raymond,Wilson,Male,Black,28,Married,Chauffeur,University Of Maryland,Unknown,20,2,2,24
+105,1950,105,93,23,93,Ruth,Wilson,0,0,Wife,Raymond,Wilson,Female,Black,22,Married,Waitress,Drug Store,Unknown,173,2,2,46
+106,1950,106,93,74,93,Forrester,Wilson,0,0,Son,Raymond,Wilson,Male,Black,5,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+107,1950,107,93,4,93,Evon,Wilson,0,0,Daughter,Raymond,Wilson,Female,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+108,1950,108,93,3,93,Victoria,Wilson,0,0,Daughter,Raymond,Wilson,Female,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+109,1950,109,93,138,93,William,Gross,0,0,Head,William,Gross,Male,Black,72,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+110,1950,110,93,103,93,Earl,Gibson,0,0,Son In Law,William,Gross,Male,Black,35,Married,Labor,Unknown,Unknown,83,2,2,42
+111,1950,111,93,31,93,Elenora,Gibson,0,0,Daughter,William,Gross,Female,Black,30,Married,Cabin Helper,Tourist Court,Unknown,15,2,2,8
+112,1950,112,93,15,93,Delores,Gibson,0,0,Great Grand Daughter,William,Gross,Female,Black,14,Never Married,Unknown,Unknown,Unknown,165,6,2,21
+113,1950,113,93,81,93,Emory,Gibson,0,0,Great Grandson,William,Gross,Male,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,23
+114,1950,114,93,11,93,Odean,Gibson,0,0,Great Grand Daughter,William,Gross,Female,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,21
+115,1950,115,93,78,93,Raymond,Gibson,0,0,Great Grandson,William,Gross,Male,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,23
+116,1950,116,93,9,93,Gwendolyn,Gibson,0,0,Great Grand Daughter,William,Gross,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,21
+117,1950,117,93,28,93,Nedro,Wilson,0,0,Grand Father,William,Gross,Female,Black,27,Married,Domestic Helper,Private Houses,Unknown,44,2,2,14
+118,1950,118,93,8,93,Joan E.,Baker,0,0,Great Grand Daughter,William,Gross,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,21
+119,1950,119,93,26,93,Roberta,Wright,0,0,Grand Daughter,William,Gross,Female,Black,25,Married,Unknown,Unknown,Unknown,165,2,2,13
+120,1950,120,93,9,93,Theresa,Wright,0,0,Great Grand Daughter,William,Gross,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,21
+121,1950,121,93,75,93,Roger,Wright,0,0,Great Grandson,William,Gross,Male,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,23
+122,1950,122,93,134,93,Luther,Wilson,0,0,Son In Law,William,Gross,Male,Black,66,Widowed,Unknown,Unknown,Unknown,165,12,2,42
+123,1950,123,93,16,93,Wilhelmenia,Wilson,0,0,Grand Daughter,William,Gross,Female,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+124,1950,124,93,14,93,Amelia,Wilson,0,0,Gand Daughter,William,gross,Female,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,12
+125,1950,125,93,66,93,Nancy,Tabbs,0,0,Head,Nancy,Tabbs,Female,Black,73,Married,Unknown,Unknown,Unknown,165,10,2,24
+126,1950,126,93,90,93,James,Taylor,0,0,Lodger,Nancy,Tabbs,Male,Black,21,Never Married,Cook,Restaurant,Unknown,31,6,2,27
+127,1950,127,93,97,93,Eddie,Lee,0,0,Lodger,Nancy,Tabbs,Male,Black,28,Married,Cook,Restaurant,Unknown,31,2,2,27
+128,1950,128,93,111,93,Robert,Douglas,0,0,Head,Robert,Douglas,Male,Black,43,Married,Baker,State University,Unknown,7,2,2,24
+129,1950,129,93,36,93,Margaret,Douglas,0,0,Wife,Robert,Douglas,Female,Black,35,Married,Unknown,Unknown,Unknown,165,2,2,46
+130,1950,130,93,5,93,Sandra,Douglas,0,0,Daughter,Robert,Douglas,Female,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+131,1950,131,93,71,93,Richard,Douglas,0,0,Son,Robert,Douglas,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+132,1950,132,93,70,93,Edward,Douglas,0,0,Son,Robert,Douglas,Male,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+133,1950,133,93,124,93,James,Cager,0,0,Head,James,Cager,Male,Black,56,Married,Laborer,Building Construction,Unknown,86,2,2,24
+134,1950,134,93,53,93,Fanny,Cager,0,0,Wife,James,Cager,Female,Black,53,Married,Unknown,Unknown,Unknown,165,2,2,46
+135,1950,135,93,94,93,Calvin,Cager,0,0,Son,James,Cager,Male,Black,25,Never Married,Laborer,Building Construction,Unknown,86,6,2,41
+136,1950,136,93,93,93,Leroy,Cager,0,0,Son,James,Cager,Male,Black,24,Never Married,Laborer,Beer Company,Unknown,85,6,2,41
+137,1950,137,93,89,93,Carl,Cager,0,0,Son,James,Cager,Male,Black,20,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+138,1950,138,93,85,93,Marcelius,Cager,0,0,Son,James,Cager,Male,Black,16,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+139,1950,139,93,144,93,Francis,Cager,0,0,Son,James,Cager,Unknown,Black,14,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+140,1950,140,93,80,93,Albert,Cager,0,0,Son,James,Cager,Male,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+141,1950,141,93,77,93,Franklin,Cager,0,0,Son,James,Cager,Male,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+142,1950,142,93,107,93,George,Adams,0,0,Son In Law,James,Cager,Male,Black,39,Married,Truck Driver,Sand And Gravel Company,Unknown,159,2,2,42
+143,1950,143,93,97,93,Rosie,Adams,0,0,Daughter,James,Cager,Male,Black,28,Married,Domestic Helper,Private Houses,Unknown,44,2,2,8
+144,1950,144,93,80,93,Harold,Adams,0,0,Grand Son,James,Cager,Male,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+145,1950,145,93,99,93,Thomas,Randall,0,0,Head,Thomas,Randall,Male,Black,30,Married,Porter,Printing Company,Unknown,131,2,2,24
+146,1950,146,93,28,93,Agnes,Randall,0,0,Wife,Thomas,Randall,Female,Black,27,Married,Unknown,Unknown,Unknown,165,2,2,46
+147,1950,147,93,8,93,Janet,Randall,0,0,Daughter,Thomas,Randall,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+148,1950,148,93,8,93,Jacqueline,Randall,0,0,Daughter,Thomas,Randall,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+149,1950,149,93,73,93,Thomas,Randall,0,0,Son,Thomas,Randall,Male,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+150,1950,150,93,4,93,Pamela,Randall,0,0,Daughter,Thomas,Randall,Female,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+151,1950,151,93,67,93,Agnes,Forrest,0,0,Grandmother,Thomas,Randall,Female,Black,75,Widowed,Unknown,Unknown,Unknown,165,12,2,19
+152,1950,152,93,99,93,Raymond,Stewart,0,0,Head,Raymond,Stewart,Male,Black,30,Married,Laborer,Bureau Of Mines,Unknown,87,2,2,24
+153,1950,153,93,27,93,Amy,Stewart,0,0,Wife,Raymond,Stewart,Female,Black,26,Married,Typist,Department Of Commerce,Unknown,162,2,2,46
+154,1950,154,93,59,93,Hattie,Williams,0,0,Head,Hattie,Williams,Female,Black,63,Never Married,Unknown,Unknown,Unknown,165,6,2,24
+155,1950,155,93,102,93,James W.,Weems,0,0,Son In Law,Hattie,Williams,Male,Black,34,Married,Postal Clerk,Government Printing Office,Unknown,133,2,2,42
+156,1950,156,93,103,93,Mary M.,Weems,0,0,Wife,Hattie,Williams,Male,Black,35,Married,Clerk,Navy Department,Unknown,26,2,2,46
+157,1950,157,93,8,93,Diane,Weems,0,0,Daughter,Hattie,Williams,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+158,1950,158,93,72,93,Don,Weems,0,0,Son,Hattie,Williams,Male,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+159,1950,159,93,61,93,Hattie,Adams,0,0,Head,Hattie,Adams,Female,Black,65,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+160,1950,160,93,95,93,Milton,Williams,0,0,Lodger,Hattie,Adams,Male,Black,26,Never Married,Unable To Work,Unknown,Unknown,164,6,2,27
+161,1950,161,93,110,93,Warner,Adams,0,0,Son,Hattie,Adams,Male,Black,42,Married,Laborer,Plumbing Company,Unknown,93,2,2,41
+162,1950,162,93,37,93,Masie,Adams,0,0,Daughter In Law,Hattie,Adams,Female,Black,36,Married,Domestic Helper,Private Homes,Unknown,42,2,2,9
+163,1950,163,93,19,93,Hattie E.,Adams,0,0,Grand Daughter,Hattie,Adams,Female,Black,18,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+164,1950,164,93,84,93,Elmo,Adams,0,0,Grand Son,Hattie,Adams,Male,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+165,1950,165,93,14,93,Niamie E.,Adams,0,0,Grand Daughter,Hattie,Adams,Female,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+166,1950,166,93,106,93,Anderson,Walls,0,0,Head,Anderson,Walls,Male,Black,38,Married,Laborer,State University,Unknown,103,2,2,24
+167,1950,167,93,36,93,Bernice,Walls,0,0,Wife,Anderson,Walls,Female,Black,35,Never Married,Unknown,Unknown,Unknown,165,6,2,46
+168,1950,168,93,19,93,Katherine,Walls,0,0,Daughter,Anderson,Walls,Female,Black,18,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+169,1950,169,93,7,93,Barbara J.,Walls,0,0,Daughter,Anderson,Walls,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+170,1950,170,93,19,93,Mary N.,Day,0,0,Niece,Anderson,Walls,Female,Black,18,Never Married,Clerk,Department Of Commerce,Unknown,25,6,2,34
+171,1950,171,93,95,93,Maseo,Campbell,0,0,Head,Maseo,Campbell,Male,Black,26,Married,Maintenance Laborer,Government Housing Project,Unknown,120,2,2,24
+172,1950,172,93,24,93,Elizabeth,Campbell,0,0,Wife,Maseo,Campbell,Female,Black,23,Married,Unknown,Unknown,Unknown,165,2,2,46
+173,1950,173,93,7,93,Pearl,Campbell,0,0,Daughter,Maseo,Campbell,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+174,1950,174,93,5,93,Mary,Campbell,0,0,Daughter,Maseo,Campbell,Female,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+175,1950,175,93,71,93,Maseo Jr.,Campbell,0,0,Son,Maseo,Campbell,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+176,1950,176,93,1,93,Kathleen,Campbell,0,0,Daughter,Maseo,Campbell,Female,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+177,1950,177,93,65,93,Alice,Nickins,0,0,Head,Alice,Nickins,Female,Black,70,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+178,1950,178,93,37,93,Elsie,White,0,0,Daughter,Alice,Nickins,Female,Black,36,Widowed,Domestic Helper,Private House,Unknown,43,12,2,8
+179,1950,179,93,141,93,Joseph,Brooks,0,0,Head,Joseph,Brooks,Male,Black,79,Married,Unknown,Unknown,Unknown,165,2,2,24
+180,1950,180,93,66,93,Mary,Brooks,0,0,Wife,Joseph,Brooks,Female,Black,73,Married,Unknown,Unknown,Unknown,165,2,2,46
+181,1950,181,93,50,93,Mary,Brewer,0,0,Daughter,Joseph,Brooks,Female,Black,50,Widowed,Presser,Dry Cleaning Shop,Unknown,135,12,2,8
+182,1950,182,93,22,93,Serville,Russell,0,0,Grand Daughter,Joseph,Brooks,Female,Black,21,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+183,1950,183,93,16,93,Peggy,Brooks,0,0,Grand Daughter,Joseph,Brooks,Female,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+184,1950,184,93,15,93,Beverly,Brooks,0,0,Grand Daughter,Joseph,Brooks,Female,Black,14,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+185,1950,185,93,89,93,Richard,Brooks,0,0,Grand Son,Joseph,Brooks,Male,Black,20,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+186,1950,186,93,82,93,Eugene,Brooks,0,0,Grand Son,Joseph,Brooks,Male,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+187,1950,187,93,94,93,Chester,Hairston,0,0,Head,Chester,Hairston,Male,Black,25,Married,Kitchen Helper,State University,Unknown,82,2,2,24
+188,1950,188,93,24,93,Matta,Hariston,0,0,Wife,Chester,Hariston,Female,Black,23,Married,Waitress,Restaurant,Unknown,174,2,2,46
+189,1950,189,93,3,93,Barbara,Hairston,0,0,Daughter,Chester,Hariston,Female,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+190,1950,190,93,70,93,Chester,Hairston,0,0,Son,Chester,Hariston,Male,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+191,1950,191,93,94,93,Joe,Williams,0,0,Brother In Law,Chester,Hairston,Male,Black,25,Married,Unknown,Unknown,Unknown,165,2,2,4
+192,1950,192,93,25,93,Gladys,Williams,0,0,Sister In Law,Chester,Hairston,Female,Black,24,Married,Kitchen Helper,State University,Unknown,82,2,2,38
+193,1950,193,93,69,93,Joseph M.,Williams,0,0,Nephew,Chester,Hairston,Male,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,32
+194,1950,194,93,117,93,Daniel,Cameron,0,0,Head,Daniel,Cameron,Male,Black,49,Married,Maintenance Worker,Government Housing,Unknown,121,2,2,24
+195,1950,195,93,40,93,Mattie,Cameron,0,0,Wife,Daniel,Cameron,Female,Black,39,Married,Unknown,Unknown,Unknown,165,2,2,46
+196,1950,196,93,43,93,Ruth,Carson,0,0,Head,Ruth,Carson,Female,Black,43,Widowed,Typist,Department Of Interior,Unknown,163,12,2,24
+197,1950,197,93,108,93,Charles L.,Brown,0,0,Lodger,Ruth,Carson,Male,Black,40,Never Married,Mail Handler,Post Office,Unknown,119,6,2,27
+198,1950,198,93,104,93,Richard,Barber,0,0,Nephew,Ruth,Carson,Male,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,32
+199,1950,199,93,37,93,Sarah,Barber,0,0,Niece,Ruth,Carson,Female,Black,36,Married,Unknown,Unknown,Unknown,165,2,2,34
+200,1950,200,93,75,93,Joseph W.,Barber,0,0,Son,Ruth,Carson,Male,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+201,1950,201,93,72,93,Richard,Barber,0,0,Son,Ruth,Carson,Male,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+202,1950,202,93,99,93,Hamilton,Daley,0,0,Head,Hamilton,Dailey,Male,Black,30,Married,Laborer,Construction Company,Unknown,90,2,2,24
+203,1950,203,93,25,93,Arlene,Daley,0,0,Wife,Hamilton,Dailey,Female,Black,24,Married,Presser,Cleaning Shop,Unknown,134,2,2,46
+204,1950,204,93,102,93,Merrill,Thanias,0,0,Head,Merrill,Thanias,Male,Black,34,Married,Aircraft Painter,Army Air Base,Unknown,2,2,2,24
+205,1950,205,93,33,93,Hazel,Thanias,0,0,Wife,Merrill,Thanias,Female,Black,32,Married,Unknown,Unknown,Unknown,165,2,2,46
+206,1950,206,93,84,93,Raphael,Thanias,0,0,Son,Merrill,Thanias,Male,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+207,1950,207,93,81,93,Lee T.,Thanias,0,0,Son,Merrill,Thanias,Male,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+208,1950,208,93,80,93,Merril T. Jr.,Thanias,0,0,Son,Merrill,Thanias,Male,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+209,1950,209,93,78,93,George,Thanias,0,0,Son,Merrill,Thanias,Male,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+210,1950,210,93,8,93,Alice,Thanias,0,0,Daughter,Merrill,Thanias,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+211,1950,211,93,6,93,Gloria,Thanias,0,0,Daughter,Merrill,Thanias,Female,Black,5,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+212,1950,212,93,4,93,Joyce,Thanias,0,0,Daughter,Merrill,Thanias,Female,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+213,1950,213,93,3,93,Zelnia,Thanias,0,0,Daughter,Merrill,Thanias,Female,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+214,1950,214,93,70,93,Richard,Thanias,0,0,Son,Merrill,Thanias,Male,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+215,1950,215,93,69,93,Melvin,Thanias,0,0,Son,Merrill,Thanias,Male,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+216,1950,216,93,28,93,Saxaline,Brisio,0,0,Head,Saxaline,Brisio,Female,Black,27,Never Married,Waitress,Cafeteria,Unknown,172,6,2,24
+217,1950,217,93,128,93,George,Brisio,0,0,Father,Saxaline,Brisio,Male,Black,60,Widowed,Unknown,Unknown,Unknown,165,12,2,10
+218,1950,218,93,86,93,Donald,Brisio,0,0,Brother,Saxaline,Brisio,Male,Black,17,Never Married,Unknown,Unknown,Unknown,165,6,2,3
+219,1950,219,93,84,93,Spencer,Brisio,0,0,Brother,Saxaline,Brisio,Male,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,3
+220,1950,220,93,131,93,Williams J.,Thomas,0,0,Head,William J.,Thomas,Male,Black,63,Married,Elevator Operator,Government Building,Unknown,52,2,2,24
+221,1950,221,93,57,93,Louise,Thomas,0,0,Wife,William J.,Thomas,Female,Black,58,Married,Unknown,Unknown,Unknown,165,2,2,46
+222,1950,222,93,135,93,Joseph G,Powell,0,0,Head,Joseph G.,Powell,Male,Black,67,Married,Unknown,Unknown,Unknown,165,2,2,24
+223,1950,223,93,56,93,Lillie,Powell,0,0,Wife,Joseph G.,Powell,Female,Black,57,Married,Unknown,Unknown,Unknown,165,2,2,46
+224,1950,224,93,94,93,Martins,Coleman,0,0,Son,Joseph G.,Powell,Male,Black,25,Never Married,Vocalist,Night Club,Unknown,166,6,2,41
+225,1950,225,93,44,93,Ila M.,Mason,0,0,Wife,Robert E.,Mason,Female,Black,44,Married,Unknown,Unknown,Unknown,165,2,2,46
+226,1950,226,93,91,93,Melba,Mason,0,0,Daughter,Robert E.,Mason,Male,Black,22,Never Married,Domestic Helper,Private Homes,Unknown,42,6,2,8
+227,1950,227,93,13,93,Wilma,Mason,0,0,Daughter,Robert E.,Mason,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+228,1950,228,93,79,93,Frances,Mason,0,0,Daughter,Robert E.,Mason,Male,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+229,1950,229,93,73,93,William R.,Mason,0,0,Son,Robert E.,Mason,Male,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+230,1950,230,93,7,93,Sylvia,Lockerman,0,0,Grand Daughter,Robert E.,Mason,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+231,1950,231,93,74,93,Franklin,Lockerman,0,0,Grandson,Robert E.,Mason,Male,Black,5,Never Married,Unknown,Unknown,Unknown,165,6,2,20
+232,1950,232,93,71,93,Tyrone,Kennedy,0,0,Grand Son,Robert E.,Mason,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+233,1950,233,93,104,93,Clarence A,Gray,0,0,Head,Clarence A,Gray,Male,Black,36,Married,Painter And Paperhanger,Private Homes,Unknown,126,3,2,24
+234,1950,234,93,33,93,Emma C.,Gray,0,0,Wife,Clarence A,Gray,Female,Black,32,Married,Unknown,Unknown,Unknown,165,2,2,46
+235,1950,235,93,16,93,Jean A.,Gray,0,0,Daughter,Clarence A,Gray,Female,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+236,1950,236,93,13,93,Mildred J.,Gray,0,0,Daughter,Clarence A,Gray,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+237,1950,237,93,79,93,Lardner B.,Gray,0,0,Son,Clarence A,Gray,Male,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+238,1950,238,93,9,93,DeWana E.,Gray,0,0,Daughter,Clarence A,Gray,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+239,1950,239,93,8,93,Linda J.,Gray,0,0,Daughter,Clarence A,Gray,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+240,1950,240,93,74,93,Myron O.,Gray,0,0,Son,Clarence A,Gray,Male,Black,5,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+241,1950,241,93,4,93,Cheryl C.,Gray,0,0,Daughter,Clarence A,Gray,Female,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+242,1950,242,93,71,93,Lester M.,Gray,0,0,Son,Clarence A,Gray,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+243,1950,243,93,107,93,James G,Smith,0,0,Head,James G,Smith,Male,Black,39,Married,Plumber,Plumbing Shop,Unknown,130,2,2,24
+244,1950,244,93,30,93,Anna G.,Smith,0,0,Wife,James G,Smith,Female,Black,29,Married,Unknown,Unknown,Unknown,165,2,2,46
+245,1950,245,93,80,93,William,Smith,0,0,Son,James G,Smith,Male,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+246,1950,246,93,11,93,Harriet,Smith,0,0,Daughter,James G,Smith,Female,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+247,1950,247,93,78,93,John,Smith,0,0,Son,James G,Smith,Male,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+248,1950,248,93,9,93,Arura Virginia,Smith,0,0,Daughter,James G,Smith,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+249,1950,249,93,74,93,Walter,Smith,0,0,Son,James G,Smith,Male,Black,5,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+250,1950,250,93,5,93,Mary Belle,Smith,0,0,Daughter,James G,Smith,Female,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+251,1950,251,93,72,93,Clarence,Smith,0,0,Son,James G.,Smith,Male,Black,3,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+252,1950,252,93,71,93,Francis,Smith,0,0,Son,James G.,Smith,Male,Black,2,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+253,1950,253,93,105,93,Joseph,Adams,0,0,Head,Joseph,Adams,Male,Black,37,Married,Unknown,Unknown,Unknown,165,2,2,24
+254,1950,254,93,31,93,Catherine,Adams,0,0,Wife,Joseph,Adams,Female,Black,30,Married,Unknown,Unknown,Unknown,165,2,2,46
+255,1950,255,93,13,93,Helen,Adams,0,0,Daughter,Joseph,Adams,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+256,1950,256,93,11,93,Rose Mar,Adams,0,0,Daughter,Joseph,Adams,Female,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+257,1950,257,93,7,93,Alice L,Adams,0,0,Daughter,Joseph,Adams,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+258,1950,258,93,69,93,Joseph Jr,Adams,0,0,Son,Joseph,Adams,Male,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+259,1950,259,93,108,93,Bernard,Smith,0,0,Cousin,Joseph,Adams,Male,Black,40,Never Married,Unknown,Unknown,Unknown,165,6,2,7
+260,1950,260,93,106,93,George,Smith,0,0,Head,George,Smith,Male,Black,38,Married,Laborer,Sanitary Commission,Unknown,98,2,2,24
+261,1950,261,93,33,93,Willa M.,Smith,0,0,Wife,George,Smith,Female,Black,32,Married,Unknown,Unknown,Unknown,165,2,2,46
+262,1950,262,93,16,93,Betty V.,Smith,0,0,Daughter,George,Smith,Female,Black,15,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+263,1950,263,93,13,93,Willie R.,Smith,0,0,Daughter,George,Smith,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+264,1950,264,93,13,93,Vilma M.,Smith,0,0,Daughter,George,Smith,Female,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+265,1950,265,93,11,93,Audrey J.,Smith,0,0,Daughter,George,Smith,Female,Black,10,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+266,1950,266,93,8,93,Phyllis D.,Smith,0,0,Daughter,George,Smith,Female,Black,7,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+267,1950,267,93,73,93,George Jr.,Smith,0,0,Son,George,Smith,Male,Black,4,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+268,1950,268,93,47,93,Sarah,Jackson,0,0,Head,Sarah,Jackson,Female,Black,47,Widowed,Domestic Helper,Private Homes,Unknown,42,12,2,24
+269,1950,269,93,24,93,Dorothy.,Jackson,0,0,Daughter,Sarah,Jackson,Female,Black,23,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+270,1950,270,93,23,93,Earnestine,Jackson,0,0,Daughter,Sarah,Jackson,Female,Black,22,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+271,1950,271,93,18,93,Mary,Jackson,0,0,Daughter,Sarah,Jackson,Female,Black,17,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+272,1950,272,93,81,93,Laurence,Jackson,0,0,Son,Sarah,Jackson,Male,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+273,1950,273,93,10,93,Elva,Jackson,0,0,Grand Daughter,Sarah,Jackson,Female,Black,9,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+274,1950,274,93,9,93,Carolyn,McGee,0,0,Grand Daughter,Sarah,Jackson,Female,Black,8,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+275,1950,275,93,7,93,Marva,McGee,0,0,Grand Daughter,Sarah,Jackson,Female,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+276,1950,276,93,102,93,Edward,Potts,0,0,Head,Edward,Potts,Male,Black,34,Married,Shop Worker,Service Station,Unknown,145,2,2,24
+277,1950,277,93,32,93,Amy,Potts,0,0,Wife,Edward,Potts,Female,Black,31,Married,Unknown,Unknown,Unknown,165,2,2,46
+278,1950,278,93,14,93,Shirley,Potts,0,0,Daughter,Edward,Potts,Female,Black,13,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+279,1950,279,93,81,93,Edward J,Potts,0,0,Son,Edward,Potts,Male,Black,12,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+280,1950,280,93,12,93,Patricia,Potts,0,0,Daughter,Edward,Potts,Female,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+281,1950,281,93,109,93,James,Tolson,0,0,Head,James,Tolson,Male,Black,41,Married,Truck Driver,Coal And Feed Company,Unknown,156,2,2,24
+282,1950,282,93,43,93,Gertrude,Tolson,0,0,Wife,James,Tolson,Female,Black,43,Married,General House Day Worker,Private Houses,Unknown,61,2,2,46
+283,1950,283,93,165,93,Thomas,Conway,0,0,Head,Thomas,Conway,Unknown,Black,50,Married,Unknown,Unknown,Unknown,165,2,2,24
+284,1950,284,93,162,93,George,Lewis,0,0,Head,George,Lewis,Unknown,Black,42,Married,Unknown,Unknown,Unknown,165,2,2,24
+285,1950,285,93,161,93,Hattie,Lewis,0,0,Wife,George,Lewis,Unknown,Black,40,Married,Unknown,Unknown,Unknown,165,2,2,46
+286,1950,286,93,166,93,Rosie,Gross,0,0,Head,Rosie,Gross,Unknown,Black,52,Widowed,General Cleaning,State University,Unknown,60,12,2,24
+287,1950,287,93,158,93,Cora,Jones,0,0,Daughter,Rosie,Gross,Unknown,Black,35,Unknown,General Housework,Private Homes,Unknown,64,7,2,8
+288,1950,288,93,167,93,John,Barnett,0,0,Lodger,Rosie,Gross,Unknown,Black,64,Widowed,Day Laborer,Private Home,Unknown,35,12,2,27
+289,1950,289,93,118,93,Ferdinand,Hughes,0,0,Lodger,Rosie,Gross,Male,Black,50,Married,Unknown,Unknown,Unknown,165,2,2,27
+290,1950,290,93,49,93,Georganna,Hughes,0,0,Lodger,Rosie,Gross,Female,Black,49,Married,Domestic Work,Private Homes,Unknown,47,2,2,27
+291,1950,291,93,106,93,Joe,Butler,0,0,Lodger,Rosie,Gross,Male,Black,38,Never Married,Unknown,Unknown,Unknown,165,5,2,27
+292,1950,292,93,92,93,Rudolph,Gross,0,0,Grandson,Rosie,Gross,Male,Black,23,Never Married,"Waiter, Dish Washer",Restaurant,Unknown,171,6,2,20
+293,1950,293,93,53,93,Maria,Dory,0,0,Head,Maria,Dory,Female,Black,53,Widowed,Unknown,Unknown,Unknown,165,12,2,24
+294,1950,294,93,80,93,William H,Johnson,0,0,Grand Son,Maria,Dory,Male,Black,11,Never Married,Unknown,Unknown,Unknown,165,6,2,17
+295,1950,295,93,91,93,Charles,Johnson,0,0,Son,Maria,Dory,Male,Black,22,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+296,1950,296,93,48,93,Theresa C,Walls,0,0,Sister In Law,Edward,Sands,Female,Black,48,Married,Elevator Operator,Department Of Labor,Unknown,51,2,2,38
+297,1950,297,93,19,93,Genevieve,Sands,0,0,Daughter,Edward,Sands,Female,Black,18,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+298,1950,298,93,120,93,Charles L.,Hamlett,0,0,Head,Charles L.,Hamlett,Male,Black,52,Married,Unknown,Unknown,Unknown,165,2,2,24
+299,1950,299,93,41,93,Nettie R.,Hamlett,0,0,Wife,Charles L.,Hamlett,Female,Black,40,Married,Unknown,Unknown,Unknown,165,2,2,46
+300,1950,300,93,154,93,John L.,Hamlett,0,0,Son,Charles L.,Hamlett,Unknown,Black,19,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+301,1950,301,93,153,93,Mary E.,Hamlett,0,0,Daughter,Charles L.,Hamlett,Unknown,Black,18,Never Married,Unknown,Unknown,Unknown,165,6,2,8
+302,1950,302,93,155,93,Edith L.,Fields,0,0,Daughter,Charles L.,Hamlett,Unknown,Black,20,Married,Unknown,Unknown,Unknown,165,2,2,8
+303,1950,303,93,150,93,Valerie V.,Fields,0,0,Grand Daughter,Charles L.,Hamlett,Unknown,Black,1,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+304,1950,304,93,149,93,Leah F.,Fields,0,0,Grand Daughter,Charles L.,Hamlett,Unknown,Black,0,Never Married,Unknown,Unknown,Unknown,165,6,2,13
+305,1950,305,93,158,93,James W.,Edwards,0,0,Head,James W,Edwards,Unknown,Black,35,Married,General,Undertaking Business,Unknown,59,2,2,24
+306,1950,306,93,159,93,Martha,Edwards,0,0,Wife,James W,Edwards,Unknown,Black,37,Married,Unknown,Unknown,Unknown,165,2,2,46
+307,1950,307,93,151,93,James W. Jr,Edwards,0,0,Son,James W,Edwards,Unknown,Black,6,Never Married,Unknown,Unknown,Unknown,165,6,2,41
+308,1950,308,93,152,93,Clare,Ogle,0,0,Niece,James W,Edwards,Unknown,Black,16,Never Married,General Housework,Private Family,Unknown,63,6,2,34
+309,1950,309,93,159,93,Andrew,Cameron,0,0,Head,Andrew,Cameron,Unknown,Black,37,Married,Laborer,Unknown,Unknown,105,2,2,24
+310,1950,310,93,160,93,Pearl,Cameron,0,0,Wife,Andrew,Cameron,Unknown,Black,39,Married,General Housework,Private Family,Unknown,63,2,2,46
+311,1950,311,93,164,93,Charles A.,Lomax,0,0,Head,Charles A,Lomax,Unknown,Black,47,Married,Janitor,Hardware,Unknown,75,2,2,24
+312,1950,312,93,163,93,Etlka,Lomax,0,0,Wife,Charles A,Lomax,Unknown,Black,46,Married,General Housework,Private Families,Unknown,62,2,2,46
+313,1950,313,93,156,93,Dervey A.,Lomax,0,0,Son,Charles A,Lomax,Unknown,Black,24,Never Married,Janitor,Bank,Unknown,73,6,2,41
+314,1950,314,93,55,93,Aline T,Davis,0,0,Head,Aline,Davis,Female,Black,55,Widowed,General Housework,Private Family,Unknown,63,12,2,24
