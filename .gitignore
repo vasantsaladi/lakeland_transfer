@@ -77,3 +77,27 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
+# Processed data and logs
+data/processed/
+logs/
+.env.local
+
+# Processed data and logs
+data/processed/
+logs/
+.env.local
+
+# Processed data and logs
+data/processed/
+logs/
+.env.local
+
+# Processed data and logs
+data/processed/
+logs/
+.env.local
+
+# Processed data and logs
+data/processed/
+logs/
+.env.local
