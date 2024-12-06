@@ -1,4 +1,7 @@
-supabase==1.2.0
 pandas==2.1.4
-python-dotenv==1.0.0
 numpy==1.26.2
+supabase==1.2.0
+python-dotenv==1.0.0
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
