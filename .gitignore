@@ -83,7 +83,6 @@ logs/
 .env.local
 
 # Processed data and logs
-data/processed/
 logs/
 .env.local
 
