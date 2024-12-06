@@ -2,59 +2,45 @@
 
 This repository contains an ETL (Extract, Transform, Load) pipeline for processing historical census data from Lakeland. The project transforms raw census data into a structured database format and loads it into a Supabase PostgreSQL database.
 
-![Database Schema](ERD/dbdiagram.io/ERD.svg)
-
 ## Table of Contents
 
-- [Project Structure](#project-structure)
+- [Project Overview](#project-overview)
 - [Database Schema](#database-schema)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
 - [Running the ETL Pipeline](#running-the-etl-pipeline)
-- [Database Tables](#database-tables)
+- [Database Structure](#database-structure)
 - [Troubleshooting](#troubleshooting)
 
-## Project Structure
+## Project Overview
 
-```
-lakeland_transfer/
-├── data/
-│   ├── extracted/           # Raw census data files
-│   │   ├── lakeland_1900_voter.csv
-│   │   ├── lakeland_1920_voter.csv
-│   │   └── ...
-│   └── processed/          # Transformed CSV files
-├── ERD/                    # Database schema files
-│   └── dbdiagram.io/
-│       ├── ERD.pdf
-│       ├── ERD.sql
-│       ├── ERD.svg
-│       └── dbdiagram.io_schema.dbml
-├── notebooks/             # Jupyter notebooks for ETL
-│   ├── 1.transform.ipynb
-│   └── 2.load.ipynb
-├── .env.example          # Example environment variables
-├── requirements.txt      # Python dependencies
-└── README.md            # This file
-```
+The project processes historical census records from multiple years and organizes them into a normalized database structure. Here's what the final database structure looks like in Supabase:
+
+![Database Tables Overview](ERD/dbdiagram.io/ERD.svg)
 
 ## Database Schema
 
-The database consists of the following tables with their relationships:
+The database follows a normalized structure with clear relationships between tables:
 
-![ERD Diagram](ERD/dbdiagram.io/ERD.svg)
+### Visual Schema (ERD)
 
-### Key Tables:
+![Database ERD](ERD/dbdiagram.io/ERD.pdf)
 
-- `census_records`: Core table containing census year and source information
-- `persons`: Individual person records with names
-- `personal_attributes`: Demographics like age, sex, race
-- `locations`: Address and dwelling information
-- `families`: Family unit information
-- `relationships`: Family relationships
-- `occupations`: Work and business information
-- `property_status`: Property ownership details
-- `marital_status`: Marital status information
+### Database Tables Overview
+
+![Supabase Tables](supabase_tables.png)
+
+Current table statistics:
+
+- census_records: 797 rows
+- families: 468 rows
+- locations: 797 rows
+- persons: 797 rows
+- relationships: 797 rows
+- personal_attributes: 797 rows
+- occupations: 797 rows
+- property_status: 483 rows
+- marital_status: 797 rows
 
 ## Prerequisites
 
@@ -65,7 +51,7 @@ The database consists of the following tables with their relationships:
 
 ## Setup Instructions
 
-### 1. Clone the Repository and Create Python Environment
+### 1. Repository Setup
 
 ```bash
 # Clone the repository
@@ -85,21 +71,32 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Set Up Database Schema in Supabase
+### 2. Database Schema Setup in Supabase
 
 1. Go to [dbdiagram.io](https://dbdiagram.io)
-2. Copy and paste the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`
-3. Export the PostgreSQL schema
-4. In your Supabase project:
-   - Navigate to SQL Editor
+2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`:
+
+```sql
+// Census Database Schema
+Table census_records {
+  record_id int [pk, increment]
+  census_year int [not null]
+  // ... rest of schema
+}
+// ... additional tables
+```
+
+3. In Supabase SQL Editor:
+   ![SQL Editor](supabase_sql_editor.png)
+
    - Create a new query
-   - Paste the exported SQL schema
-   - Run the query to create all tables
+   - Paste the schema from `ERD/dbdiagram.io/ERD.sql`
+   - Execute the query to create all tables
 
-The schema should look like this:
-![Database Tables](ERD/dbdiagram.io/ERD.pdf)
+4. Verify table creation in Table Editor:
+   ![Table Editor](supabase_table_editor.png)
 
-### 3. Configure Environment Variables
+### 3. Environment Configuration
 
 1. Copy the example environment file:
 
@@ -109,10 +106,13 @@ cp .env.example .env.local
 
 2. Update `.env.local` with your Supabase credentials:
 
-```
+```plaintext
 SUPABASE_URL=https://your-project-ref.supabase.co
 SUPABASE_KEY=your-supabase-anon-key
 ```
+
+You can find these credentials in your Supabase project settings:
+![Supabase Project Settings](supabase_vizulizer.png)
 
 ## Running the ETL Pipeline
 
@@ -126,59 +126,103 @@ jupyter notebook
 
 2. Navigate to `1.transform.ipynb`
 3. Select your Python environment kernel
-4. Run all cells
-5. Verify the "Move on to load" message appears
+4. Run all cells sequentially
+5. Watch for the "Move on to load" message
+
+Expected output:
+
+```
+Processing census year 1900...
+Processing census year 1920...
+...
+Move on to load
+```
 
 ### 2. Data Loading
 
 1. Open `2.load.ipynb`
-2. Select your Python environment kernel
-3. Run all cells
-4. Monitor the loading progress
+2. Run all cells
+3. Monitor the loading progress
+
+Expected output:
+
+```
+Loading census_records...
+Loading persons...
+...
+Data load complete
+```
 
 ### 3. Verify Data Load
 
-1. Check your Supabase dashboard
-2. Verify the table structure matches the ERD
-3. Sample data should look like this:
-   ![Sample Data](ERD/dbdiagram.io/ERD.svg)
+1. Check Supabase Table Editor:
+   ![Table Data](supabase_table_editor.png)
 
-## Database Tables
+2. Verify relationships in Database Visualizer:
+   ![Database Visualizer](supabase_vizulizer.png)
 
-The database includes the following tables with their relationships:
+## Database Structure
 
-```sql
-CREATE TABLE "census_records" (
-  "record_id" INT GENERATED BY DEFAULT AS IDENTITY PRIMARY KEY,
-  "census_year" int NOT NULL,
-  "source_pk" int NOT NULL,
-  "ed" varchar(50),
-  "page_number" varchar(50),
-  "created_at" timestamp DEFAULT (CURRENT_TIMESTAMP)
-);
+The database consists of interconnected tables with the following relationships:
 
--- Additional table definitions can be found in ERD/dbdiagram.io/ERD.sql
-```
+![Database Relationships](ERD/dbdiagram.io/ERD.svg)
+
+Key tables and their purposes:
+
+- `census_records`: Core table containing census year and source information
+- `persons`: Individual person records with unique identifiers
+- `families`: Family unit information
+- `relationships`: Family member relationships
+- `locations`: Address and dwelling information
+- `personal_attributes`: Demographics (age, sex, race)
+- `occupations`: Employment information
+- `property_status`: Property ownership details
+- `marital_status`: Marital status information
 
 ## Troubleshooting
 
-Common issues and solutions:
+### Common Issues
 
 1. **Environment Setup Issues**
 
    - Ensure Python version compatibility
-   - Verify all requirements are installed
+   - Verify all requirements are installed:
+     ```bash
+     pip list | grep -E "pandas|numpy|supabase"
+     ```
    - Check virtual environment activation
 
 2. **Database Connection Issues**
 
    - Verify Supabase credentials in `.env.local`
-   - Check network connectivity
-   - Ensure proper table permissions
+   - Test connection:
+
+     ```python
+     import os
+     from supabase import create_client
+
+     url = os.environ.get("SUPABASE_URL")
+     key = os.environ.get("SUPABASE_KEY")
+     supabase = create_client(url, key)
+     ```
 
 3. **Data Loading Issues**
-   - Verify CSV file formats
-   - Check for missing required fields
+   - Check CSV file formats
+   - Verify column names match schema
    - Ensure proper data types
+   - Monitor foreign key constraints
 
-For additional support, please refer to the documentation or open an issue in the repository.
+### Getting Help
+
+If you encounter issues:
+
+1. Check the error messages in the notebook outputs
+2. Verify table structure in Supabase Table Editor
+3. Review the ERD for correct relationships
+4. Check the transformation logs in the notebook
+
+For additional support, please refer to:
+
+- Supabase documentation
+- Project issues page
+- Data transformation logs
