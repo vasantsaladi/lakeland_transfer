@@ -17,15 +17,17 @@ This repository contains an ETL (Extract, Transform, Load) pipeline for processi
 The Lakeland Census Data ETL Project aims to preserve and analyze historical census and voter registration data for the Lakeland community in College Park, an historic area deeply impacted by discriminatory practices such as redlining. This project establishes a relational database to document key demographic and socioeconomic attributes of the Lakeland residents.
 
 ### Purpose
-The  database serves as a sustainable resource for analyzing the Lakeland community's historical data from 1900–1965. It documents critical attributes such as familial relationships, property ownership, employment, and demographic details, which will supporting important initiatives like potential reparations.
+
+The database serves as a sustainable resource for analyzing the Lakeland community's historical data from 1900–1965. It documents critical attributes such as familial relationships, property ownership, employment, and demographic details, which will supporting important initiatives like potential reparations.
 
 ### Relevance
+
 This database offers comprehensive insights into the Lakeland community, enabling stakeholders to:
 
 - Analyze historical trends in urban development, family composition, and economic participation.
-= Inform resource distribution, urban planning, and disaster management strategies.
+  = Inform resource distribution, urban planning, and disaster management strategies.
 - Support future reparative justice initiatives by documenting historical injustices and their impacts.
-  
+
 This project reflects a commitment to preserving Lakeland’s history and empowering decision-makers to create data-driven solutions for societal challenges.
 
 ## Database Schema
@@ -34,11 +36,11 @@ The database follows a normalized structure with clear relationships between tab
 
 ### Visual Schema (ERD)
 
-![Database Tables Overview](ERD/dbdiagram.io/ERD.svg) 
+![Database Tables Overview](ERD/dbdiagram.io/ERD.svg)
 
 ### Database Tables Overview
 
-![Supabase Tables](ERD/supabase/supabase_tables.png) 
+![Supabase Tables](ERD/supabase/supabase_tables.png)
 
 Current table statistics:
 
@@ -84,7 +86,7 @@ pip install -r requirements.txt
 ### 2. Database Schema Setup in Supabase
 
 1. Go to [dbdiagram.io](https://dbdiagram.io)
-2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`: 
+2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`:
 
 ```sql
 // Census Database Schema
@@ -214,7 +216,7 @@ SUPABASE_KEY=your-supabase-anon-key
 ```
 
 You can find these credentials in your Supabase project settings:
-![Supabase Project Settings](ERD/supabase/supabase_vizualizer.png)
+![Supabase Project Settings](ERD/supabase/Api_location.png)
 
 ## Running the ETL Pipeline
 
