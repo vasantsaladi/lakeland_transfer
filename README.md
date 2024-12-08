@@ -87,7 +87,7 @@ Table census_records {
 ```
 
 3. In Supabase SQL Editor:
-   ![SQL Editor](supabase_sql_editor.png)
+   ![SQL Editor](ERD/supabase/supabase_sql_editor.png)
 
    - Create a new query
    - Paste the schema from `ERD/dbdiagram.io/ERD.sql`
