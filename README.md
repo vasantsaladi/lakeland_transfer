@@ -24,7 +24,7 @@ The database follows a normalized structure with clear relationships between tab
 
 ### Visual Schema (ERD)
 
-![Database ERD](ERD/dbdiagram.io/ERD.pdf) 
+![Database ERD](ERD/dbdiagram.io/ERD.png) 
 
 ### Database Tables Overview
 
