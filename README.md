@@ -156,10 +156,10 @@ Data load complete
 ### 3. Verify Data Load
 
 1. Check Supabase Table Editor:
-   ![Table Data](supabase_table_editor.png)
+   ![Table Data](ERD/supabase/supabase_table_editor.png)
 
 2. Verify relationships in Database Visualizer:
-   ![Database Visualizer](supabase_vizulizer.png)
+   ![Database Visualizer](ERD/supabase/supabase_vizualizer.png)
 
 ## Database Structure
 
