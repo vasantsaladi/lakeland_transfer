@@ -1,6 +1,6 @@
 # Lakeland Census Data ETL Project
 
-This repository contains an ETL (Extract, Transform, Load) pipeline for processing historical census data from Lakeland. The project transforms raw census data into a structured database format and loads it into a Supabase PostgreSQL database.
+This repository contains an ETL (Extract, Transform, Load) pipeline for processing historical census and voter registration data from Lakeland. The project transforms the raw census data into a structured database format and loads it into a Supabase PostgreSQL database.
 
 ## Table of Contents
 
@@ -74,16 +74,108 @@ pip install -r requirements.txt
 ### 2. Database Schema Setup in Supabase
 
 1. Go to [dbdiagram.io](https://dbdiagram.io)
-2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`:
+2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`: 
 
 ```sql
 // Census Database Schema
+
 Table census_records {
   record_id int [pk, increment]
   census_year int [not null]
-  // ... rest of schema
+  source_pk int [not null]
+  ed varchar(50) // Enumeration District (1940, 1950)
+  page_number varchar(50)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
 }
-// ... additional tables
+
+Table locations {
+  location_id int [pk, increment]
+  record_id int [not null]
+  street_name varchar(100) // (1930-1950)
+  house_num varchar(50) // (1940-1950)
+  build_num varchar(50) // (1950)
+  dwelling_number varchar(50) // All years
+  family_number varchar(50) // All years
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table persons {
+  person_id varchar(50) [pk]
+  first_name varchar(100) [not null]
+  last_name varchar(100) [not null]
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table personal_attributes {
+  attribute_id int [pk, increment]
+  person_id varchar(50) [not null]
+  record_id int [not null]
+  sex varchar(45)
+  race varchar(45)
+  age int
+  place_birth varchar(100)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table occupations {
+  occupation_id int [pk, increment]
+  person_id varchar(50) [not null]
+  record_id int [not null]
+  work varchar(100)
+  business varchar(100)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table families {
+  family_id varchar(50) [pk]
+  record_id int [not null]
+  location_id int [not null]
+  head_first_name varchar(100)
+  head_last_name varchar(100)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table relationships {
+  relationship_id int [pk, increment]
+  person_id varchar(50) [not null]
+  family_id varchar(50) [not null]
+  record_id int [not null]
+  relation_to_head varchar(100)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table property_status {
+  property_id int [pk, increment]
+  person_id varchar(50) [not null]
+  record_id int [not null]
+  owned_rented varchar(45)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+Table marital_status {
+  marital_id int [pk, increment]
+  person_id varchar(50) [not null]
+  record_id int [not null]
+  marital_status varchar(45)
+  created_at timestamp [default: `CURRENT_TIMESTAMP`]
+}
+
+// Relationships
+Ref: personal_attributes.person_id > persons.person_id
+Ref: personal_attributes.record_id > census_records.record_id
+Ref: occupations.person_id > persons.person_id
+Ref: occupations.record_id > census_records.record_id
+Ref: locations.record_id > census_records.record_id
+Ref: families.record_id > census_records.record_id
+Ref: families.location_id > locations.location_id
+Ref: relationships.person_id > persons.person_id
+Ref: relationships.family_id > families.family_id
+Ref: relationships.record_id > census_records.record_id
+Ref: property_status.person_id > persons.person_id
+Ref: property_status.record_id > census_records.record_id
+Ref: marital_status.person_id > persons.person_id
+Ref: marital_status.record_id > census_records.record_id
+}
 ```
 
 3. In Supabase SQL Editor:
