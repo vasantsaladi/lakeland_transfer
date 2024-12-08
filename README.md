@@ -16,7 +16,7 @@ This repository contains an ETL (Extract, Transform, Load) pipeline for processi
 
 The project processes historical census records from multiple years and organizes them into a normalized database structure. Here's what the final database structure looks like in Supabase:
 
-![Database Tables Overview](ERD/dbdiagram.io/ERD.svg)
+![Database Tables Overview](ERD/dbdiagram.io/ERD.svg) 
 
 ## Database Schema
 
@@ -90,7 +90,7 @@ Table census_records {
    ![SQL Editor](ERD/supabase/supabase_sql_editor.png)
 
    - Create a new query
-   - Paste the schema from `ERD/dbdiagram.io/ERD.sql`
+   - Paste the schema from (ERD/dbdiagram.io/ERD.sql)
    - Execute the query to create all tables
 
 4. Verify table creation in Table Editor:
