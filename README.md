@@ -28,15 +28,13 @@ This database offers comprehensive insights into the Lakeland community, enablin
   
 This project reflects a commitment to preserving Lakeland’s history and empowering decision-makers to create data-driven solutions for societal challenges.
 
-![Database Tables Overview](ERD/dbdiagram.io/ERD.svg) 
-
 ## Database Schema
 
 The database follows a normalized structure with clear relationships between tables:
 
 ### Visual Schema (ERD)
 
-![Database ERD](ERD/dbdiagram.io/ERD.png) 
+![Database Tables Overview](ERD/dbdiagram.io/ERD.svg) 
 
 ### Database Tables Overview
 
