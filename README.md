@@ -24,11 +24,11 @@ The database follows a normalized structure with clear relationships between tab
 
 ### Visual Schema (ERD)
 
-![Database ERD](ERD/dbdiagram.io/ERD.pdf)
+![Database ERD](ERD/dbdiagram.io/ERD.pdf) 
 
 ### Database Tables Overview
 
-![Supabase Tables](supabase_tables.png)
+![Supabase Tables](ERD/supabase/supabase_tables.png) 
 
 Current table statistics:
 
