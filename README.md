@@ -14,7 +14,19 @@ This repository contains an ETL (Extract, Transform, Load) pipeline for processi
 
 ## Project Overview
 
-The project processes historical census records from multiple years and organizes them into a normalized database structure. Here's what the final database structure looks like in Supabase:
+The Lakeland Census Data ETL Project aims to preserve and analyze historical census and voter registration data for the Lakeland community in College Park, an historic area deeply impacted by discriminatory practices such as redlining. This project establishes a relational database to document key demographic and socioeconomic attributes of the Lakeland residents.
+
+### Purpose
+The  database serves as a sustainable resource for analyzing the Lakeland community's historical data from 1900–1965. It documents critical attributes such as familial relationships, property ownership, employment, and demographic details, which will supporting important initiatives like potential reparations.
+
+### Relevance
+This database offers comprehensive insights into the Lakeland community, enabling stakeholders to:
+
+- Analyze historical trends in urban development, family composition, and economic participation.
+= Inform resource distribution, urban planning, and disaster management strategies.
+- Support future reparative justice initiatives by documenting historical injustices and their impacts.
+  
+This project reflects a commitment to preserving Lakeland’s history and empowering decision-makers to create data-driven solutions for societal challenges.
 
 ![Database Tables Overview](ERD/dbdiagram.io/ERD.svg) 
 
