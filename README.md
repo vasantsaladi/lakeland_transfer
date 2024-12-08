@@ -112,7 +112,7 @@ SUPABASE_KEY=your-supabase-anon-key
 ```
 
 You can find these credentials in your Supabase project settings:
-![Supabase Project Settings](supabase_vizulizer.png)
+![Supabase Project Settings](ERD/supabase/supabase_vizualizer.png)
 
 ## Running the ETL Pipeline
 
