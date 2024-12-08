@@ -259,19 +259,15 @@ Data load complete
 
 ### 3. Verify Data Load
 
-1. Check Supabase Table Editor:
+1. Check that the Supabase Table Editor matches the image from Step 2's Database Schema Setup in Supabase.
    ![Table Data](ERD/supabase/supabase_table_editor.png)
 
 2. Verify relationships in Database Visualizer:
-   ![Database Visualizer](ERD/supabase/supabase_vizualizer.png)
+   ![Database Visualizer](ERD/supabase/supabase_visualizer.png)
 
 ## Database Structure
 
 The database consists of interconnected tables with the following relationships:
-
-![Database Relationships](ERD/dbdiagram.io/ERD.svg)
-
-Key tables and their purposes:
 
 - `census_records`: Core table containing census year and source information
 - `persons`: Individual person records with unique identifiers
