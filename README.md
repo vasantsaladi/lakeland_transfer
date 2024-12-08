@@ -42,7 +42,7 @@ The database follows a normalized structure with clear relationships between tab
 
 ![Supabase Tables](ERD/supabase/supabase_tables.png)
 
-Current table statistics:
+### Current table statistics:
 
 - census_records: 797 rows
 - families: 468 rows
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ### 2. Database Schema Setup in Supabase
 
 1. Go to [dbdiagram.io](https://dbdiagram.io)
-2. Copy the contents of `ERD/dbdiagram.io/dbdiagram.io_schema.dbml`:
+2. Copy the contents of the following database schema:
 
 ```sql
 // Census Database Schema
@@ -194,10 +194,10 @@ Ref: marital_status.record_id > census_records.record_id
    ![SQL Editor](ERD/supabase/supabase_sql_editor.png)
 
    - Create a new query
-   - Paste the schema from (ERD/dbdiagram.io/ERD.sql)
+   - Paste the schema from the previous step's database schema
    - Execute the query to create all tables
 
-4. Verify table creation in Table Editor:
+4. Verify the table creation in Table Editor:
    ![Table Editor](ERD/supabase/supabase_table_editor.png)
 
 ### 3. Environment Configuration
