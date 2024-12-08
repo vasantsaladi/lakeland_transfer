@@ -94,7 +94,7 @@ Table census_records {
    - Execute the query to create all tables
 
 4. Verify table creation in Table Editor:
-   ![Table Editor](supabase_table_editor.png)
+   ![Table Editor](ERD/supabase/supabase_table_editor.png)
 
 ### 3. Environment Configuration
 
