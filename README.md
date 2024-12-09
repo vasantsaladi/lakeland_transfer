@@ -200,6 +200,10 @@ Ref: marital_status.record_id > census_records.record_id
 4. Verify the table creation in Table Editor:
    ![Table Editor](ERD/supabase/supabase_table_editor.png)
 
+   
+5. Verify relationships in Database Visualizer:
+   ![Database Visualizer](ERD/supabase/supabase_visualizer.png)
+
 ### 3. Environment Configuration
 
 1. Copy the example environment file:
@@ -262,8 +266,6 @@ Data load complete
 1. Check that the Supabase Table Editor matches the image from Step 2's Database Schema Setup in Supabase.
    ![Table Data](ERD/supabase/supabase_table_editor.png)
 
-2. Verify relationships in Database Visualizer:
-   ![Database Visualizer](ERD/supabase/supabase_visualizer.png)
 
 ## Database Structure
 
